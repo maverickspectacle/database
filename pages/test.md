@@ -9,21 +9,12 @@ permalink: /test/
     <article class="post">
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
       <div class="entry">{{ post.excerpt }}</div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Testing3</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Testing4</a>
     </article>
   {% endfor %}
 </div>
 
 <article>
-  <h1>Documentation</h1>
-  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>
-
-  <div class="all-questions">
-    <h3>How do you smurf a murf?</h3>
-    <p>Pellentesque habitant morbi tristique senectus...</p>
-    <!-- More questions here -->
-  </div>
-</article>
 
 {% raw %}
 <style>
@@ -68,3 +59,13 @@ permalink: /test/
   $(".all-questions").prepend(ToC);
 </script>
 {% endraw %}
+  
+  <h1>Documentation</h1>
+  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>
+
+  <div class="all-questions">
+    <h3>How do you smurf a murf?</h3>
+    <p>Pellentesque habitant morbi tristique senectus...</p>
+    <!-- More questions here -->
+  </div>
+</article>
