@@ -25,6 +25,7 @@ permalink: /test/
   </div>
 </article>
 
+{% raw %}
 <style>
   body { background: #eee; padding: 20px; }
   article { max-width: 50em; background: white; padding: 2em; margin: 1em auto; }
@@ -37,7 +38,6 @@ permalink: /test/
   @keyframes highlight { from { background: yellow; } to { background: white; } }
 </style>
 
-{% raw %}
 <script>
   var ToC = "<nav role='navigation' class='table-of-contents'><h2>On this page:</h2><ul>";
   var newLine, el, title, link, idCounter = 1;
