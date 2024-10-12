@@ -14,12 +14,10 @@ permalink: /test/
         {{ post.excerpt }}
       </div>
 
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Testing2</a>
+      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Testing3</a>
     </article>
   {% endfor %}
 </div>
-
-<html>
 
 <article>
   <h1>Documentation</h1>
@@ -67,6 +65,8 @@ permalink: /test/
   </div>
   
 </article>
+
+{% raw %}
 
 <style>
 
@@ -155,4 +155,4 @@ $(".all-questions").prepend(ToC);
   
 </script>
 
-</html>
+{% endraw %}
