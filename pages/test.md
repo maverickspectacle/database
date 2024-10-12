@@ -1,6 +1,7 @@
 ---
 layout: default
 title: test
+permalink: /test/
 ---
 
 <div class="posts">
