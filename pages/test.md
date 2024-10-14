@@ -6,8 +6,6 @@ permalink: /test/
 
 Testing10
 
-<div markdown="1">
-
 # Documentation
   
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
@@ -51,7 +49,6 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
 
   </div>
-</div>
 
 {% raw %}
 
