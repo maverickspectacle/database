@@ -10,6 +10,7 @@ Testing13
 
 <div markdown="1">
 <span style="display:block" class="note">
+{{% md %}}
 
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
 
@@ -53,6 +54,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
 
+{{% /md %}}
   </div>
   </span>
 </div>
