@@ -4,15 +4,13 @@ title: test
 permalink: /test/
 ---
 
-Testing17
+Testing18
 
 Yo test this shit
 
 Wazzup bro
 
 # Documentation
-
-  <div class="all-questions" markdown="1">
     
 <h2>How do you smurf a murf?</h2>
     
@@ -53,9 +51,6 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
 
 {{% /md %}}
-  </div>
-  </span>
-</div>
 
 
 {% raw %}
@@ -145,7 +140,8 @@ ToC +=
    "</ol>" +
   "</nav>";
 
-$(".all-questions").prepend(ToC);
+// Prepend the ToC to the body or any desired container element
+$("body").prepend(ToC);
 </script>
 
 {% endraw %}
