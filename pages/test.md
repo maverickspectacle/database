@@ -4,21 +4,12 @@ title: test
 permalink: /test/
 ---
 
-<div class="posts">
-  {% for post in site.posts %}
-    <article class="post">
-      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
-      <div class="entry">{{ post.excerpt }}</div>
-      <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Testing5</a>
-    </article>
-  {% endfor %}
-</div>
+### Test
 
-<article>
+Testing5
 
 {% raw %}
 
-<article>
   <h1>Documentation</h1>
   
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
@@ -51,8 +42,6 @@ permalink: /test/
     <h3>Thank you for accepting the soda drink.</h3>
     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
   </div>
-  
-</article>
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
@@ -63,7 +52,7 @@ var ToC =
 
 var newLine, el, title, link;
 
-$("article h3").each(function(index) {
+$("h3").each(function(index) {
   el = $(this);
   title = el.text();
 
