@@ -1,6 +1,6 @@
 ---
 layout: page
-title: test
+title: Testing
 permalink: /test/
 ---
 
@@ -56,95 +56,6 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 
 {% raw %}
-
-<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-<script>
-var ToC =
-  "<nav role='navigation' class='table-of-contents'>" +
-    "<h2>On this page:</h2>" +
-    "<ol>";
-
-var newLine, el, title, link, currentH2Id = null, currentH3Id = null;
-
-// Loop through h2, h3, and h4 elements
-$("h2, h3, h4").each(function(index) {
-  el = $(this);
-  title = el.text();
-
-  // Check if the element has an id, if not, assign a unique id based on the index
-  if (!el.attr("id")) {
-    var newId = "section-" + index;
-    el.attr("id", newId);
-  }
-
-  link = "#" + el.attr("id");
-
-  // Handle h2 elements
-  if (el.is("h2")) {
-    // Close previous lists if necessary
-    if (currentH3Id !== null) {
-      ToC += "</li></ol>"; // Close h3
-      currentH3Id = null;
-    }
-    if (currentH2Id !== null) {
-      ToC += "</li>"; // Close h2
-    }
-
-    // Create a new list item for the h2
-    newLine =
-      "<li>" +
-        "<a href='" + link + "'>" +
-          title +
-        "</a>" +
-        "<ol>"; // Start a new nested list for h3s
-    currentH2Id = el.attr("id");
-  }
-
-  // Handle h3 elements
-  if (el.is("h3")) {
-    // Close previous h3 list if necessary
-    if (currentH3Id !== null) {
-      ToC += "</li>"; // Close h3 but leave the ol open for new h4s
-    }
-
-    // Create a new list item for the h3
-    newLine =
-      "<li>" +
-        "<a href='" + link + "'>" +
-          title +
-        "</a>";
-    currentH3Id = el.attr("id");
-  }
-
-  // Handle h4 elements
-  if (el.is("h4")) {
-    // Create a nested list item for the h4 under the last h3
-    newLine =
-      "<ol><li>" +
-        "<a href='" + link + "'>" +
-          title +
-        "</a>" +
-      "</li></ol>";
-  }
-
-  ToC += newLine;
-});
-
-// Close any remaining open lists
-if (currentH3Id !== null) {
-  ToC += "</li></ol>"; // Close h3 list
-}
-if (currentH2Id !== null) {
-  ToC += "</li>"; // Close h2 list
-}
-
-ToC +=
-   "</ol>" +
-  "</nav>";
-
-// Append the ToC to the div with the class "contents"
-$(".contents").append(ToC);
-</script>
 
 {% endraw %}
 
