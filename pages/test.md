@@ -1,10 +1,10 @@
 ---
-layout: default
+layout: page
 title: test
 permalink: /test/
 ---
 
-Testing20
+Testing21
 
 Yo test this shit
 
