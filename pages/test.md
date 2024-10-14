@@ -4,7 +4,7 @@ title: test
 permalink: /test/
 ---
 
-Testing8
+Testing9
 
 
 
@@ -42,7 +42,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas... 
     
-<h3>I would very much like a soda drink.</h3>
+<h4>I would very much like a soda drink.</h4>
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...  
     
@@ -61,10 +61,10 @@ var ToC =
     "<h2>On this page:</h2>" +
     "<ol>";
 
-var newLine, el, title, link, currentH2Id = null;
+var newLine, el, title, link, currentH2Id = null, currentH3Id = null;
 
-// Loop through h2 and h3 elements
-$("h2, h3").each(function(index) {
+// Loop through h2, h3, and h4 elements
+$("h2, h3, h4").each(function(index) {
   el = $(this);
   title = el.text();
 
@@ -76,11 +76,15 @@ $("h2, h3").each(function(index) {
 
   link = "#" + el.attr("id");
 
-  // Check if the element is an h2
+  // Handle h2 elements
   if (el.is("h2")) {
-    // Close the previous h3 list if it exists
+    // Close previous lists if necessary
+    if (currentH3Id !== null) {
+      ToC += "</li></ol>"; // Close h3
+      currentH3Id = null;
+    }
     if (currentH2Id !== null) {
-      ToC += "</ol></li>";
+      ToC += "</li>"; // Close h2
     }
 
     // Create a new list item for the h2
@@ -93,22 +97,42 @@ $("h2, h3").each(function(index) {
     currentH2Id = el.attr("id");
   }
 
-  // If the element is an h3, nest it under the last h2
+  // Handle h3 elements
   if (el.is("h3")) {
+    // Close previous h3 list if necessary
+    if (currentH3Id !== null) {
+      ToC += "</li>"; // Close h3 but leave the ol open for new h4s
+    }
+
+    // Create a new list item for the h3
     newLine =
       "<li>" +
         "<a href='" + link + "'>" +
           title +
+        "</a>";
+    currentH3Id = el.attr("id");
+  }
+
+  // Handle h4 elements
+  if (el.is("h4")) {
+    // Create a nested list item for the h4 under the last h3
+    newLine =
+      "<ol><li>" +
+        "<a href='" + link + "'>" +
+          title +
         "</a>" +
-      "</li>";
+      "</li></ol>";
   }
 
   ToC += newLine;
 });
 
-// Close the last open list
+// Close any remaining open lists
+if (currentH3Id !== null) {
+  ToC += "</li></ol>"; // Close h3 list
+}
 if (currentH2Id !== null) {
-  ToC += "</ol></li>";
+  ToC += "</li>"; // Close h2 list
 }
 
 ToC +=
