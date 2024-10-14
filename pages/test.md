@@ -9,6 +9,7 @@ Testing12
 # Documentation
 
 <div markdown="1">
+<span style="display:block" class="note">
 
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
 
@@ -53,7 +54,9 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
 
   </div>
+  </span>
 </div>
+
 
 {% raw %}
 
