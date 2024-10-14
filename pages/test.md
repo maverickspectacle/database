@@ -4,14 +4,16 @@ title: test
 permalink: /test/
 ---
 
-Testing18
+Testing19
 
 Yo test this shit
 
 Wazzup bro
 
 # Documentation
-    
+
+<div class="contents"></div>
+
 <h2>How do you smurf a murf?</h2>
     
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas... 
@@ -140,8 +142,8 @@ ToC +=
    "</ol>" +
   "</nav>";
 
-// Prepend the ToC to the body or any desired container element
-$("body").prepend(ToC);
+// Append the ToC to the div with the class "contents"
+$(".contents").append(ToC);
 </script>
 
 {% endraw %}
