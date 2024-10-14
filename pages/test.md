@@ -4,15 +4,13 @@ title: Testing
 permalink: /test/
 ---
 
-Testing22
+Testing24
 
 Yo test this shit
 
 Wazzup bro
 
 # Documentation
-
-<div class="contents"></div>
 
 ## How do you smurf a murf?
     
