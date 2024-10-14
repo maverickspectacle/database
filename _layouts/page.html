@@ -6,15 +6,6 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
-<h1>If you see this, the layout updated5</h1>
-  
-<div class="contents"></div>
-
-<br>
-  
-  <div class="entry">
-    {{ content }}
-
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 var ToC =
@@ -103,6 +94,15 @@ ToC +=
 // Append the ToC to the div with the class "contents"
 $(".contents").append(ToC);
 </script>
+  
+<h1>If you see this, the layout updated6</h1>
+  
+<div class="contents"></div>
+
+<br>
+  
+  <div class="entry">
+    {{ content }}
 
   </div>
 </article>
