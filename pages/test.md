@@ -15,7 +15,7 @@ Testing5
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
   
   <div class="all-questions">
-    <h3>How do you smurf a murf?</h3>
+    <h2>How do you smurf a murf?</h3>
     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
     
     <h3>How do many licks does a giraffe?</h3>
@@ -24,7 +24,7 @@ Testing5
     <h3>Which Frank is?</h3>
     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
     
-    <h3>Is fourteen enough?</h3>
+    <h2>Is fourteen enough?</h3>
     <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
     
     <h3>Is a circle an oval y/n?</h3>
@@ -48,11 +48,12 @@ Testing5
 var ToC =
   "<nav role='navigation' class='table-of-contents'>" +
     "<h2>On this page:</h2>" +
-    "<ul>";
+    "<ol>";
 
-var newLine, el, title, link;
+var newLine, el, title, link, currentH2Id = null;
 
-$("h3").each(function(index) {
+// Loop through h2 and h3 elements
+$("h2, h3").each(function(index) {
   el = $(this);
   title = el.text();
 
@@ -64,18 +65,43 @@ $("h3").each(function(index) {
 
   link = "#" + el.attr("id");
 
-  newLine =
-    "<li>" +
-      "<a href='" + link + "'>" +
-        title +
-      "</a>" +
-    "</li>";
+  // Check if the element is an h2
+  if (el.is("h2")) {
+    // Close the previous h3 list if it exists
+    if (currentH2Id !== null) {
+      ToC += "</ol></li>";
+    }
+
+    // Create a new list item for the h2
+    newLine =
+      "<li>" +
+        "<a href='" + link + "'>" +
+          title +
+        "</a>" +
+        "<ol>"; // Start a new nested list for h3s
+    currentH2Id = el.attr("id");
+  }
+
+  // If the element is an h3, nest it under the last h2
+  if (el.is("h3")) {
+    newLine =
+      "<li>" +
+        "<a href='" + link + "'>" +
+          title +
+        "</a>" +
+      "</li>";
+  }
 
   ToC += newLine;
 });
 
+// Close the last open list
+if (currentH2Id !== null) {
+  ToC += "</ol></li>";
+}
+
 ToC +=
-   "</ul>" +
+   "</ol>" +
   "</nav>";
 
 $(".all-questions").prepend(ToC);
