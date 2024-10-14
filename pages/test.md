@@ -4,8 +4,6 @@ title: test
 permalink: /test/
 ---
 
-### Test
-
 Testing6
 
 {% raw %}
