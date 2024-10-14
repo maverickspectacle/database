@@ -17,55 +17,84 @@ permalink: /test/
 <article>
 
 {% raw %}
-<style>
-  body { background: #eee; padding: 20px; }
-  article { max-width: 50em; background: white; padding: 2em; margin: 1em auto; }
-  .table-of-contents { float: right; width: 40%; background: #eee; font-size: 0.8em; padding: 1em 2em; margin: 0 0 0.5em 0.5em; }
-  .table-of-contents ul { padding: 0; }
-  .table-of-contents li { margin: 0 0 0.25em 0; }
-  .table-of-contents a { text-decoration: none; }
-  .table-of-contents a:hover, .table-of-contents a:active { text-decoration: underline; }
-  h3:target { animation: highlight 1s ease; }
-  @keyframes highlight { from { background: yellow; } to { background: white; } }
-</style>
 
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Documentation</title>
+</head>
+<body>
+
+<article>
+  <h1>Documentation</h1>
+  
+  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+  
+  <div class="all-questions">
+    <h3 id="one">How do you smurf a murf?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="two">How do many licks does a giraffe?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="three">Which Frank is?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="four">Is fourteen enough?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="five">Is a circle an oval y/n?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="six">Many mongerals manifest mountains</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="seven">How would you like a soda drink?</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="eight">I would very much like a soda drink.</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+    
+    <h3 id="nine">Thank you for accepting the soda drink.</h3>
+    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+  </div>
+  
+</article>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
-  var ToC = "<nav role='navigation' class='table-of-contents'><h2>On this page:</h2><ul>";
-  var newLine, el, title, link, idCounter = 1;
+  var ToC =
+    "<nav role='navigation' class='table-of-contents'>" +
+      "<h2>On this page:</h2>" +
+      "<ul>";
+
+  var newLine, el, title, link;
 
   $("article h3").each(function() {
     el = $(this);
     title = el.text();
-    
-    // Assign an ID if the h3 doesn't have one
-    if (!el.attr("id")) {
-      el.attr("id", "section-" + idCounter);
-      idCounter++;
-    }
-    
     link = "#" + el.attr("id");
 
-    // Create the list item for the ToC
-    newLine = "<li><a href='" + link + "'>" + title + "</a></li>";
-    
-    // Append the new line to the ToC
+    newLine =
+      "<li>" +
+        "<a href='" + link + "'>" +
+          title +
+        "</a>" +
+      "</li>";
+
     ToC += newLine;
   });
 
-  // Close the ToC structure
-  ToC += "</ul></nav>";
+  ToC +=
+     "</ul>" +
+    "</nav>";
 
-  // Prepend the ToC to the .all-questions div
   $(".all-questions").prepend(ToC);
 </script>
-{% endraw %}
-  
-  <h1>Documentation</h1>
-  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>
 
-  <div class="all-questions">
-    <h3>How do you smurf a murf?</h3>
-    <p>Pellentesque habitant morbi tristique senectus...</p>
-    <!-- More questions here -->
-  </div>
+</body>
+</html>
+
+{% endraw %}
+
 </article>
