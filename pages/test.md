@@ -4,42 +4,55 @@ title: test
 permalink: /test/
 ---
 
-Testing6
+Testing7
 
-{% raw %}
+
 
   <h1>Documentation</h1>
   
   <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
-  
+
   <div class="all-questions">
-    <h2>How do you smurf a murf?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
     
-    <h3>How do many licks does a giraffe?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+## How do you smurf a murf?
     
-    <h3>Which Frank is?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...  
     
-    <h2>Is fourteen enough?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+### How do many licks does a giraffe?
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
     
-    <h3>Is a circle an oval y/n?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+### Which Frank is?
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
     
-    <h3>Many mongerals manifest mountains</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+## Is fourteen enough?
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas... 
     
-    <h3>How would you like a soda drink?</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+### Is a circle an oval y/n?
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
     
-    <h3>I would very much like a soda drink.</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+### Many mongerals manifest mountains
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...  
     
-    <h3>Thank you for accepting the soda drink.</h3>
-    <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
+### How would you like a soda drink?
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas... 
+    
+### I would very much like a soda drink.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...  
+    
+### Thank you for accepting the soda drink.
+
+Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
+
   </div>
+
+{% raw %}
 
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
