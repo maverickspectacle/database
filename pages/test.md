@@ -51,12 +51,3 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 ### Thank you for accepting the soda drink.
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
-
-{{% /md %}}
-
-
-{% raw %}
-
-{% endraw %}
-
-</article>
