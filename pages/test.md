@@ -4,7 +4,7 @@ title: test
 permalink: /test/
 ---
 
-Testing16
+Testing17
 
 Yo test this shit
 
@@ -12,25 +12,11 @@ Wazzup bro
 
 # Documentation
 
-<div markdown="1">
-<span style="display:block" class="note">
-{{% md %}}
-
-  <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...</p>  
-
-  <div class="all-questions">
+  <div class="all-questions" markdown="1">
     
 <h2>How do you smurf a murf?</h2>
     
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas... 
-
-
-
-
-
-
-
-
 
 Testing to see how paragraphs form
     
