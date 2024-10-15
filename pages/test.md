@@ -111,10 +111,4 @@ test
 
 test
 
-<ol id="source-list"></ol>
-
-
-
-{% raw %}
-
-{% endraw %}        
+<ol id="source-list"></ol>     
