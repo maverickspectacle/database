@@ -20,7 +20,7 @@ Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac tu
 
 Testing to see how paragraphs form
     
-### How do many licks does a giraffe?
+### How do many licks does a giraffe make?
 
 Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas...
     
