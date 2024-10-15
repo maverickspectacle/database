@@ -232,13 +232,11 @@ nav:after {
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
-
+    }
     @include mobile {
       margin: 0 10px;
       color: $blue;
-    }
   }
-}
 
 .posts > .post {
   padding-bottom: 2em;
