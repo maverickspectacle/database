@@ -4,7 +4,7 @@ title: AI Tools
 permalink: /ai-tools/
 ---
 
-TEST
+TEST1
 
 - [ChatGPT](https://chat.openai.com/) - For asking questions, summarizing, etc.
 - [Connected Papers](https://www.connectedpapers.com/) - For finding publications related to a given paper
