@@ -4,7 +4,7 @@ title: Testing
 permalink: /test/
 ---
 
-Testing4
+Testing5
 
 Before you can begin to determine what the composition of a particular paragraph will be, you must first decide on an argument and a working thesis statement for your paper. What is the most important idea that you are trying to convey to your reader? The information in each paragraph must be related to that idea. In other words, your paragraphs should remind your reader that there is a recurrent relationship between your thesis and the information in each paragraph. A working thesis functions like a seed from which your paper, and your ideas, will grow. The whole process is an organic one—a natural progression from a seed to a full-blown paper where there are direct, familial relationships between all of the ideas in the paper.
 
@@ -117,76 +117,4 @@ test
 
 {% raw %}
 
-<script>
-
-        document.addEventListener('DOMContentLoaded', function () {
-            let refCounter = 1;
-            const refElements = document.querySelectorAll('ref'); // Find all <ref> elements
-            const sourceList = document.getElementById('source-list');
-            const citationMap = {};  // To track unique citations and their corresponding numbers
-            const citationInstances = {}; // To track all instances of each citation
-
-            refElements.forEach(ref => {
-                const citationContent = ref.innerHTML.trim();  // Get the content inside the <ref> tag
-
-                if (citationMap[citationContent]) {
-                    // It's a duplicate: increase the instance count and create a new instance number
-                    const existingSourceNumber = citationMap[citationContent];
-                    const instanceCount = citationInstances[citationContent].length + 1;
-                    
-                    // Create the citation link in the content
-                    const citationLink = document.createElement('a');
-                    citationLink.href = `#source${existingSourceNumber}`;  // Link to the same footer entry
-                    citationLink.textContent = `[${existingSourceNumber}]`;
-                    citationLink.className = 'citation-link';
-                    citationLink.id = `citation${existingSourceNumber}.${instanceCount}`;  // Assign id to link back
-
-                    // Insert citation after <ref> tag
-                    ref.insertAdjacentElement('afterend', citationLink);
-
-                    // Add this instance to the citationInstances list
-                    citationInstances[citationContent].push(instanceCount);
-                } else {
-                    // If it's a new citation, add it to the citationMap
-                    citationMap[citationContent] = refCounter;
-                    citationInstances[citationContent] = [1]; // Start tracking instances
-
-                    // Create the citation link in the content
-                    const citationLink = document.createElement('a');
-                    citationLink.href = `#source${refCounter}`;  // First instance links to the footer entry
-                    citationLink.textContent = `[${refCounter}]`;
-                    citationLink.className = 'citation-link';
-                    citationLink.id = `citation${refCounter}.1`;  // Assign id to link back
-
-                    // Insert citation after <ref> tag
-                    ref.insertAdjacentElement('afterend', citationLink);
-
-                    // Add source to the footer for unique citations
-                    const listItem = document.createElement('li');
-                    listItem.id = `source${refCounter}`;
-                    listItem.innerHTML = citationInstances[citationContent].map(instance => {
-                        return `<a href="#citation${refCounter}.${instance}" class="instance-link">${refCounter}.${instance}</a>`;
-                    }).join(' ') + ` ${citationContent}`;
-                    sourceList.appendChild(listItem);
-
-                    refCounter++;
-                }
-
-                // Remove <ref> tag from content
-                ref.remove();
-            });
-
-            // Update the footer with multiple instance links for each citation
-            for (const citationContent in citationInstances) {
-                const sourceNumber = citationMap[citationContent];
-                const instances = citationInstances[citationContent];
-
-                const listItem = document.getElementById(`source${sourceNumber}`);
-                listItem.innerHTML = instances.map(instance => {
-                    return `<a href="#citation${sourceNumber}.${instance}" class="instance-link">${sourceNumber}.${instance}</a>`;
-                }).join(' ') + ` ${citationContent}`;
-            }
-        });
-    
-</script>
 {% endraw %}        
