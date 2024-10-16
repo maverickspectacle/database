@@ -6,7 +6,7 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
-<h1>If you can read this, the layout updated2</h1>
+<h1>If you can read this, the layout updated3</h1>
   
 <div class="contents"></div>
   
@@ -23,8 +23,8 @@ var ToC =
     "<ol>";
 
 var newLine, el, title, link;
-var currentH2Id = null, currentH3Id = null;
-var h2Counter = 0; // Counter for h2 elements
+var currentH2Count = 0; // Counter for h2 elements
+var currentH3Id = null; // Variable for current h3 id
 
 // Loop through h2, h3, and h4 elements
 $("h2, h3, h4").each(function(index) {
@@ -41,35 +41,29 @@ $("h2, h3, h4").each(function(index) {
 
   // Handle h2 elements
   if (el.is("h2")) {
-    // Close previous lists if necessary
-    if (currentH3Id !== null) {
-      ToC += "</li></ol>"; // Close h3
-      currentH3Id = null;
-    }
-    if (currentH2Id !== null) {
-      ToC += "</li>"; // Close previous h2 if it exists
-    }
-
-    // Increment the h2 counter and create a new list item for the h2
-    h2Counter++;
+    currentH2Count++; // Increment counter for each h2
     newLine =
       "<li>" +
-        h2Counter + ". " + // Add counter before title
+        currentH2Count + ". " + // Number the h2
         "<a href='" + link + "'>" +
           title +
-        "</a>" +
-        "<ol>"; // Start a new nested list for h3s
-    currentH2Id = el.attr("id"); // Update current h2 ID
+        "</a>";
+
+    // Close any remaining open h3 lists
+    if (currentH3Id !== null) {
+      ToC += "</li></ol>"; // Close previous h3
+      currentH3Id = null;
+    }
+
+    ToC += newLine + "<ol>"; // Start a new nested list for h3s
   }
 
   // Handle h3 elements
   if (el.is("h3")) {
-    // Close previous h3 list if necessary
     if (currentH3Id !== null) {
       ToC += "</li>"; // Close previous h3 but leave the ol open for new h4s
     }
 
-    // Create a new list item for the h3
     newLine =
       "<li>" +
         "<a href='" + link + "'>" +
@@ -95,9 +89,6 @@ $("h2, h3, h4").each(function(index) {
 // Close any remaining open lists
 if (currentH3Id !== null) {
   ToC += "</li></ol>"; // Close h3 list
-}
-if (currentH2Id !== null) {
-  ToC += "</li>"; // Close last h2 list
 }
 
 ToC +=
