@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Articles and Data
-permalink: /articles-and-data/
+title: Blogs
+permalink: /blogs/
 ---
 
 * [Alternative Hypothesis Substack](https://thealternativehypothesis.substack.com/archive)
