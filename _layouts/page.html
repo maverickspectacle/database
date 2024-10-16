@@ -6,7 +6,7 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
-<h1>If you can read this, the layout updated!</h1>
+<h1>If you can read this, the layout updated2</h1>
   
 <div class="contents"></div>
   
@@ -47,7 +47,7 @@ $("h2, h3, h4").each(function(index) {
       currentH3Id = null;
     }
     if (currentH2Id !== null) {
-      ToC += "</li>"; // Close previous h2
+      ToC += "</li>"; // Close previous h2 if it exists
     }
 
     // Increment the h2 counter and create a new list item for the h2
@@ -59,14 +59,14 @@ $("h2, h3, h4").each(function(index) {
           title +
         "</a>" +
         "<ol>"; // Start a new nested list for h3s
-    currentH2Id = el.attr("id");
+    currentH2Id = el.attr("id"); // Update current h2 ID
   }
 
   // Handle h3 elements
   if (el.is("h3")) {
     // Close previous h3 list if necessary
     if (currentH3Id !== null) {
-      ToC += "</li>"; // Close h3 but leave the ol open for new h4s
+      ToC += "</li>"; // Close previous h3 but leave the ol open for new h4s
     }
 
     // Create a new list item for the h3
@@ -75,7 +75,7 @@ $("h2, h3, h4").each(function(index) {
         "<a href='" + link + "'>" +
           title +
         "</a>";
-    currentH3Id = el.attr("id");
+    currentH3Id = el.attr("id"); // Update current h3 ID
   }
 
   // Handle h4 elements
@@ -97,7 +97,7 @@ if (currentH3Id !== null) {
   ToC += "</li></ol>"; // Close h3 list
 }
 if (currentH2Id !== null) {
-  ToC += "</li>"; // Close h2 list
+  ToC += "</li>"; // Close last h2 list
 }
 
 ToC +=
