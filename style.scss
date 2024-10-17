@@ -210,7 +210,7 @@ nav {
   padding-right: 20px;
   margin-left: 15px;
   margin-bottom: 15px;
-  background-color: blue;
+  background-color: #D3D3D3;
   border-color: #a2a9b1;
   border-width: thin;
   width: 400px;
@@ -219,8 +219,6 @@ nav {
 nav a {
 	color: $black;
 }
-
-// #D3D3D3
 
 nav:after {
     content:"\a";
