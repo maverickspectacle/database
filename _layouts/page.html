@@ -22,10 +22,10 @@ var ToC =
     "<h2>On this page:</h2>" +
     "<ol>";
 
-var newLine, el, title, link, currentH2Id = null, currentH3Id = null;
+var newLine, el, title, link, currentH2Id = null, currentH3Id = null, currentH4Id = null;
 
 // Loop through h2, h3, and h4 elements
-$("h2, h3").each(function(index) {
+$("h2, h3, h4").each(function(index) {
   el = $(this);
   title = el.text();
 
@@ -39,7 +39,11 @@ $("h2, h3").each(function(index) {
 
   // Handle h2 elements
   if (el.is("h2")) {
-    // Close any open h3 list
+    // Close any open h3 or h4 lists
+    if (currentH4Id !== null) {
+      ToC += "</li></ol>"; // Close h4 list
+      currentH4Id = null;
+    }
     if (currentH3Id !== null) {
       ToC += "</li></ol>"; // Close h3 list
       currentH3Id = null;
@@ -61,12 +65,18 @@ $("h2, h3").each(function(index) {
 
   // Handle h3 elements
   if (el.is("h3")) {
+    // Close any open h4 lists
+    if (currentH4Id !== null) {
+      ToC += "</li></ol>"; // Close h4 list
+      currentH4Id = null;
+    }
+
     // If this is the first h3 under the current h2, start a new nested list
     if (currentH3Id === null) {
       ToC += "<ol>"; // Start nested list for h3s
     }
 
-    // Close the previous h3 if necessary
+    // Close the previous h3 list item
     if (currentH3Id !== null) {
       ToC += "</li>"; // Close h3 list item
     }
@@ -80,10 +90,34 @@ $("h2, h3").each(function(index) {
     currentH3Id = el.attr("id");
   }
 
+  // Handle h4 elements
+  if (el.is("h4")) {
+    // If this is the first h4 under the current h3, start a new nested list
+    if (currentH4Id === null) {
+      ToC += "<ol>"; // Start nested list for h4s
+    }
+
+    // Close the previous h4 list item
+    if (currentH4Id !== null) {
+      ToC += "</li>"; // Close h4 list item
+    }
+
+    // Create a new list item for h4
+    newLine =
+      "<li>" +
+        "<a href='" + link + "'>" +
+          title +
+        "</a>";
+    currentH4Id = el.attr("id");
+  }
+
   ToC += newLine;
 });
 
 // Close any remaining open lists
+if (currentH4Id !== null) {
+  ToC += "</li></ol>"; // Close h4 list
+}
 if (currentH3Id !== null) {
   ToC += "</li></ol>"; // Close h3 list
 }
