@@ -72,6 +72,14 @@ a {
   }
 }
 
+ul {
+  list-style-type: disc;
+}
+
+ul ul, ol ul {
+  list-style-type: circle;
+}
+
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
