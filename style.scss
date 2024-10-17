@@ -61,6 +61,7 @@ h4 {
 
 p {
   margin: 15px 0;
+  word-wrap: break-word;
 }
 
 a {
@@ -83,6 +84,7 @@ ul ul, ol ul {
 ul, ol {
   margin: 15px 0;
   padding-left: 30px;
+  word-wrap: break-word;
 }
 
 ol ul, ul ol, ul ul, ol ol {
