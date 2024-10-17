@@ -207,13 +207,13 @@ nav {
   float: right;
   margin-top: 10px; // @TODO: Vertically middle align
   font-family: $helveticaNeue;
-  font-size: 18px;
+  font-size: 0.875em;
   display:inline;
   padding-left: 20px;
   padding-right: 20px;
   margin-left: 15px;
   margin-bottom: 15px;
-  background-color: orange;
+  background-color: blue;
   border-color: #a2a9b1;
   border-width: thin;
   width: 400px;
@@ -304,7 +304,7 @@ li{ display: block }
 .sidenav a {
   padding: 6px 8px 6px 16px;
   text-decoration: none;
-  font-size: 25px;
+  font-size: 0.875em;
   color: #818181;
   display: block;
 }
@@ -315,13 +315,13 @@ li{ display: block }
 
 .main {
   margin-left: 160px; /* Same as the width of the sidenav */
-  font-size: 28px; /* Increased text to enable scrolling */
+  font-size: 0.875em; /* Increased text to enable scrolling */
   padding: 0px 10px;
 }
 
 @media screen and (max-height: 450px) {
   .sidenav {padding-top: 15px;}
-  .sidenav a {font-size: 18px;}
+  .sidenav a {font-size: 0.875em;}
 }
 
 // Settled on moving the import of syntax highlighting to the bottom of the CSS
