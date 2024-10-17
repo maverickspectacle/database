@@ -5,6 +5,8 @@ layout: default
 <article class="page">
   
   <h1>{{ page.title }}</h1>
+
+<h1>If you can see this, the layout updated!</h1>
   
 <div class="contents"></div>
   
@@ -13,8 +15,6 @@ layout: default
 
   </div>
 
-OLD SCRIPT:
-
 <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
 <script>
 var ToC =
@@ -22,7 +22,7 @@ var ToC =
     "<h2>On this page:</h2>" +
     "<ol>";
 
-var newLine, el, title, link, currentH2Id = null, currentH3Id = null;
+var newLine, el, title, link, currentH3Id = null, currentH4Id = null;
 
 // Loop through h2, h3, and h4 elements
 $("h2, h3, h4").each(function(index) {
@@ -39,50 +39,52 @@ $("h2, h3, h4").each(function(index) {
 
   // Handle h2 elements
   if (el.is("h2")) {
-    // Close previous lists if necessary
+    // Close any open nested lists for h3 and h4 elements
     if (currentH3Id !== null) {
       ToC += "</li></ol>"; // Close h3
       currentH3Id = null;
     }
-    if (currentH2Id !== null) {
-      ToC += "</li>"; // Close h2
+    if (currentH4Id !== null) {
+      ToC += "</li></ol>"; // Close h4
+      currentH4Id = null;
     }
 
-    // Create a new list item for the h2
+    // Close the previous h2 item if necessary
+    ToC += currentH3Id === null ? "</li>" : ""; // Close h2
+
+    // Create a new list item for the h2 without nesting
     newLine =
       "<li>" +
         "<a href='" + link + "'>" +
           title +
         "</a>" +
-        "<ol>"; // Start a new nested list for h3s
-    currentH2Id = el.attr("id");
+      "</li>"; // No nested list for h2s
   }
 
-  // Handle h3 elements
+  // Handle h3 elements (start a nested list)
   if (el.is("h3")) {
-    // Close previous h3 list if necessary
     if (currentH3Id !== null) {
-      ToC += "</li>"; // Close h3 but leave the ol open for new h4s
+      ToC += "</li>"; // Close previous h3 but keep the ol open
     }
 
-    // Create a new list item for the h3
     newLine =
       "<li>" +
         "<a href='" + link + "'>" +
           title +
-        "</a>";
+        "</a>" +
+        "<ol>"; // Start a nested list for h4s
     currentH3Id = el.attr("id");
   }
 
-  // Handle h4 elements
+  // Handle h4 elements (nested under h3)
   if (el.is("h4")) {
-    // Create a nested list item for the h4 under the last h3
     newLine =
-      "<ol><li>" +
+      "<li>" +
         "<a href='" + link + "'>" +
           title +
         "</a>" +
-      "</li></ol>";
+      "</li>";
+    currentH4Id = el.attr("id");
   }
 
   ToC += newLine;
@@ -92,13 +94,7 @@ $("h2, h3, h4").each(function(index) {
 if (currentH3Id !== null) {
   ToC += "</li></ol>"; // Close h3 list
 }
-if (currentH2Id !== null) {
-  ToC += "</li>"; // Close h2 list
-}
-
-ToC +=
-   "</ol>" +
-  "</nav>";
+ToC += "</ol></nav>";
 
 // Append the ToC to the div with the class "contents"
 $(".contents").append(ToC);
