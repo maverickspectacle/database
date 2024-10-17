@@ -6,7 +6,7 @@ layout: default
   
   <h1>{{ page.title }}</h1>
 
-<h1>If you can see this, the layout updated2</h1>
+<h1>If you can see this, the layout updated3</h1>
   
 <div class="contents"></div>
   
@@ -39,15 +39,15 @@ $("h2, h3").each(function(index) {
 
   // Handle h2 elements
   if (el.is("h2")) {
-    // Close previous h3 nested list if it was open
+    // Close any open h3 list
     if (currentH3Id !== null) {
-      ToC += "</li></ol>"; // Close h3
+      ToC += "</li></ol>"; // Close h3 list
       currentH3Id = null;
     }
 
     // Close the previous h2 list item
     if (currentH2Id !== null) {
-      ToC += "</li>"; // Close h2
+      ToC += "</li>"; // Close h2 list item
     }
 
     // Create a new list item for h2
@@ -55,16 +55,20 @@ $("h2, h3").each(function(index) {
       "<li>" +
         "<a href='" + link + "'>" +
           title +
-        "</a>" +
-        "<ol>"; // Start nested list for h3s
+        "</a>";
     currentH2Id = el.attr("id");
   }
 
   // Handle h3 elements
   if (el.is("h3")) {
+    // If this is the first h3 under the current h2, start a new nested list
+    if (currentH3Id === null) {
+      ToC += "<ol>"; // Start nested list for h3s
+    }
+
     // Close the previous h3 if necessary
     if (currentH3Id !== null) {
-      ToC += "</li>"; // Close h3 but keep the ol open
+      ToC += "</li>"; // Close h3 list item
     }
 
     // Create a new list item for h3
