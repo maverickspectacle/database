@@ -77,16 +77,8 @@ ul, ol {
   padding-left: 30px;
 }
 
-ul {
-  list-style-type: disc;
-}
-
 ol ul, ul ol, ul ul, ol ol {
   margin: 0;
-}
-
-ul ul, ol ul {
-  list-style-type: circle;
 }
 
 em, i {
@@ -211,12 +203,10 @@ nav {
   padding-right: 20px;
   margin-left: 15px;
   margin-bottom: 15px;
-  background-color: green;
+  background-color: #D3D3D3;
   border-color: #a2a9b1;
   border-width: thin;
 }
-
-// #D3D3D3
 
 nav:after {
     content:"\a";
