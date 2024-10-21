@@ -289,6 +289,12 @@ Overall, even without controls for the possibility of publication bias, which al
 
 Some additional information should be noted. Each additional police officer abates approximately 0.1 homicides, effects which in per-capita terms are twice as large for black versus white victims. At the same time, larger police forces make more arrests for low-level "quality of life" offenses, which would have disproportionately burdensome effects for blacks. Thus, there is evidence that black communities are simultaneously over and under-policed<ref>https://www.nber.org/papers/w28202</ref>. Police officers may do some harm in terms of enforcing lower-level offenses to the black community, but they absolutely on net help. One homicide is abated for every additional police officer that exists within a community. Police officers absolutely do more to save the lives of black people in their communities than they do to harm them. Any narrative that says otherwise is actively harmful to the black community which activists are supposedly trying to help.
 
+**A Note on the BLM Movement**
+
+Black Lives Matter, or BLM, is a movement which has gained popularity and aims to address alleged systemic racism in the criminal justice system. Specifically, it takes a heavy focus on publicized killings of unarmed black men by police officers. Some of the criticisms of the movement are false or exaggerated. The BLM movement has been overwhelmingly non-violent, with 94% of all BLM demonstrations being peaceful<ref>https://acleddata.com/acleddatanew/wp-content/uploads/2021/05/ACLED_Report_A-Year-of-Racial-Justice-Protests_May2021.pdf</ref>. It has been violent, and it is understandable why many are uncomfortable with the idea of BLM protests coming into their communities, but the violence has been exaggerated. Additionally, contrary to the claims of some, BLM protests did not cause a rise in COVID within the areas where they were because they resulted in activities being averted which were more risky<ref>https://www.nber.org/system/files/working_papers/w27408/w27408.pdf</ref>.
+
+However, it is still fighting against an issue which doesn't really exist as demonstrated. Furthermore, it likely in fact harms the black community through promoting policing practices that increase overall homicides and increasing police attrition which has a similar effect. Research suggests that BLM protests have decreased police homicides and property crimes within the areas they are located, but have increased murders in general. However, demographic imbalance in protest variation and treatment timing warrant a cautious interpretation<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097</ref>. While this study is definitive, it is consistent with previous research suggesting the benefits of policing in reducing homicides in the black community.
+
 #### Educational
 
 Bias in educational systems, if it exists, would likely have effects on the earnings of blacks relative to whites. As with examining economic and criminal justice disparities, the default hypothesis given prior information should be that there exists little to no bias in the educational system. Here I will look at the possibility of racial bias in school punishment and grading:
@@ -407,14 +413,6 @@ Perceived racial privilege is associated with lower self-rated health and more p
 On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
 
 Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
-
-### BLM
-
-The BLM movement has been overwhelmingly non-violent, with 94% of all BLM demonstrations being peaceful<ref>https://acleddata.com/acleddatanew/wp-content/uploads/2021/05/ACLED_Report_A-Year-of-Racial-Justice-Protests_May2021.pdf</ref>.
-
-Research suggests that BLM protests have decreased police homicides and property crimes within the areas they are located, but have increased murders in general. However, demographic imbalance in protest variation and treatment timing warrant a cautious interpretation<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3767097</ref>.
-
-BLM protests did not cause a rise in COVID within the areas where they were because they resulted in activities being averted which were more risky<ref>https://www.nber.org/system/files/working_papers/w27408/w27408.pdf</ref>.
 
 ### Model Minority
 
