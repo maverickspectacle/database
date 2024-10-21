@@ -44,6 +44,8 @@ Oftentimes, an academic consensus on an issue can be a strong indicator of the t
 
 All of this suggests that from a biological or population genetics perspective, there is a level of use to using race as a category. It is simple, it corresponds already to most people's folk understandings of race, and it also corresponds to actual genetic differences between populations. There is a second argument against the usage of race as a category in science, and that is the concern that it can be used to legitimate oppression and claims of superiority. This argument was already addressed <span style="background:Red">here</span>.
 
+Additionally, from a medical perspective, having consistent racial classifications can provide some value. Pharmacogenetics research has very inconsistent race and ethnic classification due to racial definitions differing between various studies. Common taxonomy of geographic ancestry could produce reproducible research and clinical implementation of its results<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612983/</ref>. There may be some benefit in using traditional folk categories if they allow for good identification by a doctor or good self-identification of one's ethnic origin, and hence of one's genetic propensities from a medical perspective.
+
 ## Implications
 
 It is possible to assert that there are differences between races, including psychological differences, without having the concept of race necessarily be regarded as legitimate. For example, if you took a group of 100 people in a room and randomly assigned 50 to one side of the room, and the other 50 to the other side of the room, it is possible that there would exist mean group differences on a variety of metrics in spite of the complete randomness of the assignment of the groups. But even this is more of an extreme of a race than what race denialists have, because they don't suggest that races don't have differences between one another. Rather, they just suggest that race is a gradient so it's arbitrary to make a cutoff point between two groups in the gradient. In this situation, the dimension upon which the gradient exists would by definition imply a difference between the groups you identify, even if the groups are arbitrary in nature.
@@ -97,7 +99,21 @@ So all of the aforementioned information taken together strongly suggests that o
 
 ***Infectious Disease -** Exposure to infectious disease has been shown to be a strong predictor of IQ across both American states and across countries internationally<ref>Eppig, C. (2024, February 20). Why is average IQ higher in some places? Scientific American. https://www.scientificamerican.com/article/why-is-average-iq-higher-in-some-places/</ref>. This may be a partial predictor, but no evidence has been presented to suggest that it entirely explains the gap, especially when this exposure would likely be strongly correlated with socioeconomic status which controlling for does not eliminate the black-white IQ gap.
 
-The bottom line is that environmental explanations certainly account for a portion of racial gaps in intelligence, but there has been no strong evidence to suggest that they entirely explain the gaps. That is why this article promotes a mixed genetics-environment explanation for group differences in cognitive ability. The relative contribution of genes and environment is something which is left unaddressed, as I believe more research needs to be done in order to properly ascertain that question.
+The bottom line is that environmental explanations certainly account for a portion of racial gaps in intelligence, but there has been no strong evidence to suggest that they entirely explain the gaps. That is why this article promotes a mixed genetics-environment explanation for group differences in cognitive ability.
+
+#### Approximating the Gene-Environment Influences
+
+I have not done extensive research on the degree to which racial IQ gaps are genetic or environment. The evidence presented above strongly implies a dual role, but says little about the relative influences. Nonetheless I have devised a rough method by which one can quantify the gene-environment influences, utilizing heritability estimates from research.
+
+Overall, most research suggests that intelligence is overall about 60-80% heritable<span style="color:red">CITATION NEEDED</span>. We can say that this is a pooled estimate for the heritability of intelligence, including people of all races. This means that population genetic variation explains 60-80% of the variation in trait intelligence. We can call this "relevant genetic variation". At the same time, the heritability estimate suggests that population environmental variation explains 20-40% of the variation in trait intelligence. We can call this "relevant environmental variation". We can compare this pooled heritability estimate to the heritability estimates of individual ethnic groups, or "group heritability estimates".
+
+If it is the case that racial intelligence gaps were 100% environmental, that would mean that the relevant genetic variation would be identical in pooled samples as in individual group samples. Meanwhile, the pooled sample would have a higher relevant environmental variation than the individual group samples as it would include groups with different intelligence scores which are different entirely due to environment. Thus, moving from a pooled sample to a group sample, we would expect the heritability to be higher as the relevant environmental variation would decrease, meaning the relevant genetic variation would play a higher role. Conversely, if the gap was mostly genetic, we would expect the heritability to decrease as the effect of the reduction in relevant genetic variation moving from a pooled to group sample would exceed the effect of the reduction in relevant environmental variation. If group IQ differences are as much genetic and environmental as individual differences are, we would expect the heritability to be the same, as the reductions in the relevant environmental and genetic variations would cancel each other out when moving from pooled to group sampling. 
+
+Research suggests that there exists no ethnic differences in the heritability of intelligence<ref>https://sci-hub.se/https://doi.org/10.1016/j.intell.2019.101408</ref>, and that the heritability of intelligence among both blacks and whites is about 0.6. This is within the range of the pooled heritability of intelligence, if not slightly lower. Therefore, I conclude that the black-white IQ gap, and likely other racial IQ gaps, are caused by as much a mix of genetics and environment as individual differences in intelligence. That is, the gap is 60-80% genetic and 20-40% environmental.
+
+#### Implications
+
+Group IQ differences can help in part explain differences in wealth across countries. There is a positive correlation between national IQ score and innovation<ref>https://mpra.ub.uni-muenchen.de/76922/</ref>. Nations with higher average intelligence are more liberal (greater highest marginal individual tax rate and thus lower economic inequality), are less religious, and are more monogamous. Average intelligence appears to be the strongest predictor of these traits<ref>https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/iq-and-the-values-of-nations/B28886FC682668151084DF2E9DC5C0AF</ref>.
 
 ### Other Psychological Racial Differences
 
@@ -357,26 +373,6 @@ White guilt isn't necessarily a big problem now, but that doesn't mean that thes
 Furthermore, education about white privilege increases anti-white bias. Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
 
 ## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
-
-## Race
-
-### G Factor
-
-Spearman's g factor has also been demonstrated to exist across a multitude of nations, strongly suggesting that it is a universal phenomenon<ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
-
-The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
-
-### Heritability
-
-There exist no ethnic differences in the heritability of intelligence<ref>https://sci-hub.se/https://doi.org/10.1016/j.intell.2019.101408</ref>.
-
-### National IQs
-
-There is a positive correlation between national IQ score and innovation<ref>https://mpra.ub.uni-muenchen.de/76922/</ref>. Nations with higher average intelligence are more liberal (greater highest marginal individual tax rate and thus lower economic inequality), are less religious, and are more monogamous. Average intelligence appears to be the strongest predictor of these traits<ref>https://www.cambridge.org/core/journals/journal-of-biosocial-science/article/abs/iq-and-the-values-of-nations/B28886FC682668151084DF2E9DC5C0AF</ref>.
-
-### Other
-
-Pharmacogenetics research has very inconsistent race and ethnic classification due to racial definitions differing between various studies. Common taxonomy of geographic ancestry could produce reproducible research and clinical implementation of its results<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6612983/</ref>.
 
 ## Racism
 
