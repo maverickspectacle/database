@@ -97,6 +97,10 @@ There is expert consensus that g is an important non-trivial predictor or determ
 
 Inbreeding is related to a lower intelligence, with the effects of inbreeding depression being most strongly correlated with the subtest's g loading<ref>https://sci-hub.ru/https://doi.org/10.1016/0191-8869(83)90054-5</ref>.
 
+Spearman's g factor has also been demonstrated to exist across a multitude of nations, strongly suggesting that it is a universal phenomenon<ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
+
+The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
+
 ### IQ and Fertility
 
 There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>.
