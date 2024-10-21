@@ -350,6 +350,12 @@ Much of the mainstream narrative on race concerns the existence of anti-black ra
 
 All of this information paints a picture of white liberals overcompensating for perceived racism against black people in society, by engaging in racism in the reverse direction. Much of this risks leading to censorship of true information, an inability to communicate with those of different racial groups, and a general hatred and distrust of white people. And as demonstrated before, bias is not a major explanatory factor in racial disparities we see today in things such as wealth. So to whatever extent this is justified on the basis of correcting for an existing injustice, the reality is that said injustice is not occurring to even close to the same degree as is perceived.
 
+Much of the diversity education industry likely harms white people as well through its instilling of racial privilege ideas and increasing white guilt. White guilt is associated with belief in white privilege and belief that Europeans are perpetrators of racial discrimination<ref>https://pubmed.ncbi.nlm.nih.gov/15272965/</ref>. Furthermore, perceived racial privilege is associated with lower self-rated health and more physically and mentally unhealthy days<ref>https://www.researchgate.net/publication/23770469_Is_Perceived_Racial_Privilege_Associated_with_Health_Findings_from_the_Behavioral_Risk_Factor_Surveillance_System</ref>. Research suggests that diversity courses increase beliefs in white privilege and racism and more support for affirmative action. At the same time, white students express greater white guilt after completing such courses<ref>https://journals.sagepub.com/doi/abs/10.1080/00986280701700250</ref>.
+
+White guilt isn't necessarily a big problem now, but that doesn't mean that these types of courses don't contribute to it and thus harm white people. On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
+
+Furthermore, education about white privilege increases anti-white bias. Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
+
 ## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
 
 ## Race
@@ -401,18 +407,6 @@ Need for closure is related to religious fundamentalism and prejudice<ref>https:
 Younger children will discriminate against black people in general, while older children will only do so under low salience of anti-racist norms<ref>https://www.researchgate.net/publication/51747342_The_development_of_intergroup_bias_in_childhood_How_social_norms_can_shape_children's_racial_behaviours</ref>.
 
 Prejudice in the form of perceived physical and health danger is hard-wired into the human brain, through it being an adaptive response to perceived threat from outside groups<ref>https://www.sciencedaily.com/releases/2005/05/050525105357.htm</ref>.
-
-### Racial Privilege and Guilt
-
-Diversity courses increase beliefs in white privilege and racism and more support for affirmative action. White students express greater white guilt after completing such courses<ref>https://journals.sagepub.com/doi/abs/10.1080/00986280701700250</ref>.
-
-White guilt is associated with belief in white privilege and belief that Europeans are perpetrators of racial discrimination<ref>https://pubmed.ncbi.nlm.nih.gov/15272965/</ref>.
-
-Perceived racial privilege is associated with lower self-rated health and more physically and mentally unhealthy days<ref>https://www.researchgate.net/publication/23770469_Is_Perceived_Racial_Privilege_Associated_with_Health_Findings_from_the_Behavioral_Risk_Factor_Surveillance_System</ref>.
-
-On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
-
-Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
 
 ### Model Minority
 
