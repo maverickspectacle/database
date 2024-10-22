@@ -327,6 +327,34 @@ In summary, there may be some bias in the education system, specifically with gr
 
 ### Possible Remedying of Disparities
 
+#### Affirmative Action
+
+Affirmative action has a range of definitions, but is generally understood as referring ot various means by which hiring or admissions processes are changed to increase the number of minorities in institutions. This is done with the intent of equalizing group outcomes, often on the motivation that unequal group outcomes are a product of discrimination. An initial question we can examine is what the effects of affirmative action are in terms of achieving its goals:
+
+- **In College: Effect on Minority Admissions -** The evidence suggests that affirmative action in universities has positive effects on minority admissions<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20140783</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE%7CA53744951&v=2.1&it=r&sid=googleScholar&asid=f46747c4</ref><ref>https://www.jstor.org/stable/23261474?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A9999d33bbb0ee62950e23b72868c8010#metadata_info_tab_contents</ref><ref>https://www.jstor.org/stable/2962408</ref><ref>https://www.ceousa.org/wp-content/uploads/2013/02/VALaw.pdf</ref><ref>https://www.ceousa.org/wp-content/uploads/2012/01/ASU_LAW.pdf</ref>. This effect is stronger in more elite-level schools<ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>. This does come at the expense of some whites, but minority populations in these schools are still relatively small so this discrimination effect is relatively small as well.
+
+- **In College: Effect on Minority Performance and Labor Market Effects -** While affirmative action undoubtedly does increase the admission of minorities into universities, there is debate about if this comes at the expense of minorities, who may suffer from being put into more difficult courses. This effect is known as mismatch. There is some research which suggests that mismatch occurs, with the most important study looking at law school affirmative action<ref>https://www.jstor.org/stable/40040209</ref>.
+- Unfortunately, this study has the problem of presupposing in their regression models that the effect of GPA and SAT performance is uniform for races. When not looking at average effects, a different picture is painted in which prior performance is less of a predictor of future performance for black people. Moreover, the effect of school selectivity on performance is negative for the general population, but looking specifically at black people it positively predicts performance<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20140783</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>.
+- The mismatch effect could still nonetheless occur for some especially unqualified black candidates. I would need to do more research before I felt confident about this issue specifically, but it is certainly possible that in the United States, affirmative action is so extreme that it is suboptimal for advancing educational outcomes for minorities<ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref><ref>https://www.nber.org/system/files/working_papers/w20962/w20962.pdf</ref>. Some research suggests still that there is a slight reduction in GPA as a result of an increase in the difference between an individual's SAT score and the institutional average, suggesting affirmative action has a negative effect on minority student outcomes<ref>https://dash.harvard.edu/bitstream/handle/1/36853299/angel_onuoha_ec_970.pdf?sequence=1&isAllowed=y</ref>.
+- Importantly, mismatch effects presuppose either that students' enrollment decisions are irrational or that selective universities possess private information which affects school performance. There is some evidence for the latter, meaning if we presuppose that the former assertion is true, making such information more public could decrease mismatch effects where they exist<ref>https://onlinelibrary.wiley.com/doi/abs/10.3982/QE83</ref>.
+- Much of the research above on the subject suggests that the positive effects of affirmative action on minority performance translates into positive labor market effects downstream. There is some research which suggests otherwise, but this suffers from the same problem as another study mentioned before in that it assumes uniform effects of prior performance on future performance for racial groups<ref>https://www.jstor.org/stable/pdf/2117647.pdf?refreqid=excelsior%3A42e0ed4c8fa818183614196a852973f5&ab_segments=&origin=</ref>.
+- In short, it appears that mismatch is not an inherent feature of affirmative action programs although it can occur when such programs are sufficiently extreme. There is little evidence that affirmative action negatively impacts school performance for minorities and the overall evidence suggests it has positive labor market effects for such groups.
+
+So affirmative action in college may achieve its expected aims in some cases, but these are benefits which are irrelevant as the initial motivating reason for having affirmative action has been shown to be flawed.
+
+
+
+
+#### In College: Student Diversity and School Performance
+
+There also appears to be positive externalities derived from the increased student diversity created as a consequence of affirmative action. Most notably, it appears to improve school performance for all groups in general, meaning that affirmative action can cause boosts for non-minority students who aren't discriminated against<ref>https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>.
+
+#### Opinion and Psychology
+
+There are many explanatory factors involved in support and opposition to affirmative action. Racial prejudice or concerns about justice can predict opposition. On the other hand, white guilt can predict support<ref>https://www.jstor.org/stable/2111770</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.1995.tb02394.x</ref><ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
+
+Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>.
+
 ### Debunking False Narratives
 
 #### "Reverse Racism Doesn't Exist"
@@ -362,6 +390,8 @@ Much of the mainstream narrative on race concerns the existence of anti-black ra
 
 *Moreover, white liberals appear to be more nervous talking to minorities when compared to white people, likely due to a liberal hyper-sensitivity to racism against minority groups<ref>https://psycnet.apa.org/record/2006-22158-006</ref><ref>https://psycnet.apa.org/record/2019-12064-001</ref>.
 
+*In academic decision-making, there is a favoring of blacks, in spite of people possessing implicit and explicit preferences for whites over blacks<ref>https://www.researchgate.net/publication/290510377_An_Unintentional_Robust_and_Replicable_Pro-Black_Bias_in_Social_Judgment</ref>.
+
 *Finally, jokes against low-status groups are seen as worse by those with low system justification (who tend to be liberals) when compared to jokes against high-status groups, while there appears to be no bias by those with high system justification (who tend to be conservatives<ref>https://psyarxiv.com/qv764</ref>.
 
 All of this information paints a picture of white liberals overcompensating for perceived racism against black people in society, by engaging in racism in the reverse direction. Much of this risks leading to censorship of true information, an inability to communicate with those of different racial groups, and a general hatred and distrust of white people. And as demonstrated before, bias is not a major explanatory factor in racial disparities we see today in things such as wealth. So to whatever extent this is justified on the basis of correcting for an existing injustice, the reality is that said injustice is not occurring to even close to the same degree as is perceived.
@@ -375,12 +405,6 @@ Furthermore, education about white privilege increases anti-white bias. Social l
 ## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
 
 ## Racism
-
-### Misc Affirmative Action
-
-In academic decision-making, there is a favoring of blacks, in spite of people possessing implicit and explicit preferences for whites over blacks<ref>https://www.researchgate.net/publication/290510377_An_Unintentional_Robust_and_Replicable_Pro-Black_Bias_in_Social_Judgment</ref>.
-
-There is a slight reduction in GPA as a result of an increase in the difference between an individual's SAT score and the institutional average, suggesting affirmative action has a negative effect on minority student outcomes<ref>https://dash.harvard.edu/bitstream/handle/1/36853299/angel_onuoha_ec_970.pdf?sequence=1&isAllowed=y</ref>.
 
 ### Stereotypes
 
@@ -439,36 +463,6 @@ US students of mixed race are more likely than others to suffer from depression,
 Those of mixed black-white ancestry fall between blacks and whites in regard to self-rated overall health and have the worst self-rated mental health<ref>https://archive.ph/0Ezku</ref>.
 
 People are genetically inclined to choose as social partners those who resemble themselves at a genetic level<ref>https://sci-hub.ru/https://doi.org/10.1111/j.0956-7976.2005.01574.x</ref>.
-
-### Affirmative Action
-
-#### In College: Effect on Minority Admissions
-
-The evidence suggests that affirmative action in universities has positive effects on minority admissions<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20140783</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://go.gale.com/ps/i.do?p=AONE&u=googlescholar&id=GALE%7CA53744951&v=2.1&it=r&sid=googleScholar&asid=f46747c4</ref><ref>https://www.jstor.org/stable/23261474?searchText=&searchUri=&ab_segments=&searchKey=&refreqid=fastly-default%3A9999d33bbb0ee62950e23b72868c8010#metadata_info_tab_contents</ref><ref>https://www.jstor.org/stable/2962408</ref><ref>https://www.ceousa.org/wp-content/uploads/2013/02/VALaw.pdf</ref><ref>https://www.ceousa.org/wp-content/uploads/2012/01/ASU_LAW.pdf</ref>. This effect is stronger in more elite-level schools<ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>. This does come at the expense of some whites, but minority populations in these schools are still relatively small so this discrimination effect is relatively small as well.
-
-#### In College: Effect on Minority Performance and Labor Market Effects
-
-While affirmative action undoubtedly does increase the admission of minorities into universities, there is debate about if this comes at the expense of minorities, who may suffer from being put into more difficult courses. This effect is known as mismatch. There is some research which suggests that mismatch occurs, with the most important study looking at law school affirmative action<ref>https://www.jstor.org/stable/40040209</ref>.
-
-Unfortunately, this study has the problem of presupposing in their regression models that the effect of GPA and SAT performance is uniform for races. When not looking at average effects, a different picture is painted in which prior performance is less of a predictor of future performance for black people. Moreover, the effect of school selectivity on performance is negative for the general population, but looking specifically at black people it positively predicts performance<ref>https://www.aeaweb.org/articles?id=10.1257/aer.20140783</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>.
-
-The mismatch effect could still nonetheless occur for some especially unqualified black candidates. I would need to do more research before I felt confident about this issue specifically, but it is certainly possible that in the United States, affirmative action is so extreme that it is suboptimal for advancing educational outcomes for minorities<ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref><ref>https://www.nber.org/system/files/working_papers/w20962/w20962.pdf</ref>.
-
-Importantly, mismatch effects presuppose either that students' enrollment decisions are irrational or that selective universities possess private information which affects school performance. There is some evidence for the latter, meaning if we presuppose that the former assertion is true, making such information more public could decrease mismatch effects where they exist<ref>https://onlinelibrary.wiley.com/doi/abs/10.3982/QE83</ref>.
-
-Much of the research above on the subject suggests that the positive effects of affirmative action on minority performance translates into positive labor market effects downstream. There is some research which suggests otherwise, but this suffers from the same problem as another study mentioned before in that it assumes uniform effects of prior performance on future performance for racial groups<ref>https://www.jstor.org/stable/pdf/2117647.pdf?refreqid=excelsior%3A42e0ed4c8fa818183614196a852973f5&ab_segments=&origin=</ref>.
-
-In short, it appears that mismatch is not an inherent feature of affirmative action programs although it can occur when such programs are sufficiently extreme. There is little evidence that affirmative action negatively impacts school performance for minorities and the overall evidence suggests it has positive labor market effects for such groups.
-
-#### In College: Student Diversity and School Performance
-
-There also appears to be positive externalities derived from the increased student diversity created as a consequence of affirmative action. Most notably, it appears to improve school performance for all groups in general, meaning that affirmative action can cause boosts for non-minority students who aren't discriminated against<ref>https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>.
-
-#### Opinion and Psychology
-
-There are many explanatory factors involved in support and opposition to affirmative action. Racial prejudice or concerns about justice can predict opposition. On the other hand, white guilt can predict support<ref>https://www.jstor.org/stable/2111770</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.1995.tb02394.x</ref><ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
-
-Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>.
 
 ### Health/Healthcare
 
