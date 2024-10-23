@@ -342,18 +342,9 @@ Affirmative action has a range of definitions, but is generally understood as re
 
 So affirmative action in college may achieve its expected aims in some cases, but these are benefits which are irrelevant as the initial motivating reason for having affirmative action has been shown to be flawed.
 
+However, beyond its direct effects on minority and majority well-being, affirmative action can also have effects through how it changes the demographic makeup of an institution. Research suggests that there appears to be positive externalities derived from the increased student diversity created as a consequence of affirmative action. Most notably, it appears to improve school performance for all groups in general, meaning that affirmative action can cause boosts for non-minority students who aren't discriminated against<ref>https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>. This however is likely a product of intellectual diversity as opposed to demographic diversity in itself, so if this is one's aim one should seek to directly promote intellectual diversity over demographic diversity.
 
-
-
-#### In College: Student Diversity and School Performance
-
-There also appears to be positive externalities derived from the increased student diversity created as a consequence of affirmative action. Most notably, it appears to improve school performance for all groups in general, meaning that affirmative action can cause boosts for non-minority students who aren't discriminated against<ref>https://www.gse.harvard.edu/news/uk/18/07/case-affirmative-action</ref><ref>https://diversity.berkeley.edu/sites/default/files/understanding_affrirmative_action.pdf</ref><ref>https://www.jstor.org/stable/pdf/30162729.pdf?refreqid=excelsior%3Ab5df27a45b1892b4eddfe0f728629c58&ab_segments=&origin=</ref>.
-
-#### Opinion and Psychology
-
-There are many explanatory factors involved in support and opposition to affirmative action. Racial prejudice or concerns about justice can predict opposition. On the other hand, white guilt can predict support<ref>https://www.jstor.org/stable/2111770</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1559-1816.1995.tb02394.x</ref><ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
-
-Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>.
+**The Affirmative Action Dilemma -** Mentions of affirmative action can lead people to view groups who benefit from affirmative action more negatively<ref>https://journals.sagepub.com/doi/10.1177/0146167298241005</ref>. Affirmative action by its very nature attempts to hire or admit those who otherwise would not have had as strong of qualifications as their competitors. Such policies necessarily lead to situations whereby people will question whether any minority in their social space got their because of their merit or something else. Affirmative action to its proponents should be viewed as something positive for minorities, yet they hate the suggestion that any individual minority is a beneficiary. This is a product of the dilemma between a sacrifice of merit and an upholding of "equity".
 
 ### Debunking False Narratives
 
