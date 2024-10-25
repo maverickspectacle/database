@@ -137,7 +137,7 @@ These concentric circles of obligation explain why some degree of ethnocentrism 
 
 The normality of ingroup bias can help to explain why high in-group bias is positively related to self-esteem<ref>https://journals.sagepub.com/doi/10.1207/S15327957PSPR0402_04</ref>, and that across racial groups a sense of ethnic identity is positively associated with well-being<ref>https://journals.sagepub.com/doi/abs/10.1177/0272431699019003001</ref><ref>https://journals.sagepub.com/doi/10.1177/0272431600020001003</ref><ref>https://sci-hub.se/https://doi.org/10.1007/s10902-016-9735-z</ref>. Interactions between those of other racial groups is more psychologically difficult for a lot of people, which is why interracial interactions have been found to impair executive functioning<ref>https://groups.psych.northwestern.edu/spcl/documents/depletion_JPSP05.pdf</ref>.
 
-This ingroup bias is likely relatively malleable, but it exists in every racial group. The only group which doesn't have this is white liberals, who have a negative ingroup bias (in other words, an outgroup preference)<ref>https://www.tabletmag.com/sections/news/articles/americas-white-saviors</ref>. But the fact that white people have the lowest level of ingroup bias amongst every racial group might help to explain why white people tend to have lower levels of self-esteem<ref>https://pubmed.ncbi.nlm.nih.gov/12002695/</ref>, as well as worse mental health and higher suicide rates compared to at least most other racial groups<ref>https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf</ref><ref>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780380</ref><ref>https://yaleglobalhealthreview.com/2017/05/14/white-male-suicide-the-exception-to-privelege/</ref>. This furthermore might be one factor behind why mixed race people are the most likely of any racial group to report having a mental illness<ref>https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf</ref>, as mixed race people tend not have a coherent or strong racial identity.
+This ingroup bias is likely relatively malleable. For example research suggests that exposure to other races decreases racial prejudice and increases liking for strangers of that race<ref>https://pubmed.ncbi.nlm.nih.gov/16737372/</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705986/</ref>, pointing to an environmental influence on ingroup preference. Still, an ingroup preference exists in every racial group. The only group which doesn't have this is white liberals, who have a negative ingroup bias (in other words, an outgroup preference)<ref>https://www.tabletmag.com/sections/news/articles/americas-white-saviors</ref>. But the fact that white people have the lowest level of ingroup bias amongst every racial group might help to explain why white people tend to have lower levels of self-esteem<ref>https://pubmed.ncbi.nlm.nih.gov/12002695/</ref>, as well as worse mental health and higher suicide rates compared to at least most other racial groups<ref>https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf</ref><ref>https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2780380</ref><ref>https://yaleglobalhealthreview.com/2017/05/14/white-male-suicide-the-exception-to-privelege/</ref>. This furthermore might be one factor behind why mixed race people are the most likely of any racial group to report having a mental illness<ref>https://www.psychiatry.org/File%20Library/Psychiatrists/Cultural-Competency/Mental-Health-Disparities/Mental-Health-Facts-for-Diverse-Populations.pdf</ref>, as mixed race people tend not have a coherent or strong racial identity.
 
 In many areas within today's cultural climate there is a large push to suppress a natural ingroup bias. The notion of racism, which will be discussed later, has had its definition infinitely expanded to include an ever larger set of behaviors, including having some degree of ingroup preference (at least when it's whites having the ingroup preference). But experimental psychological research suggests that ingroup favoritism is not necessarily linked with outgroup hostility. Furthermore, ethnocentrism and xenophobia appear to be uncorrelated with one another<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/323821?journalCode=ca&</ref>.
 
@@ -192,6 +192,18 @@ Given that these initiatives likely predict in many circumstances the level of e
 Ethnic diversity appears to be weakly associated with lower mental health outcomes<ref>https://www.researchgate.net/publication/266144169_Cultural_Diversity_and_Subjective_Wellbeing</ref><ref>https://link.springer.com/article/10.1007/s00148-017-0657-9</ref><ref>https://www.researchgate.net/publication/327971738_Neighbourhood_Ethnic_Diversity_and_Mental_Health_in_Australia</ref>, and increases in own ethnic density are associated with improvements in mental health<ref>https://www.cambridge.org/core/journals/psychological-medicine/article/abs/ethnic-density-effects-for-adult-mental-health-systematic-review-and-metaanalysis-of-international-studies/A24EC5BAF9D8B12450A940A7D3A6A887</ref><ref>https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/ethnic-density-as-a-buffer-for-psychotic-experiences-findings-from-a-national-survey-empiric/6996920C34314755C7D02BC7C0C016FB</ref>. It should be noted however that this effect varies between individuals of different psychological orientations<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3321720</ref>. Individuals with low openness and low particularized trust tend to have lower psychological well-being as a result of immigration, which is typically associated with increases in ethnic diversity. On the other hand, immigration increases the psychological well-being of individuals with high openness and high particularized trust. In terms of general health, ethnic diversity and general health are inversely related to one another<ref>https://archive.is/UF8IT</ref><ref>https://link.springer.com/article/10.1007/s11205-016-1454-7</ref>. Additionally, ethnic diversity appears to itself contribute to poverty levels<ref>https://www.sciencedirect.com/science/article/abs/pii/S0305750X17300694?via%3Dihub</ref>.
 
 ### The Effects of Interracial Marriage
+
+Interracial marriages, because they go in opposition to natural ingroup bias, are naturally seen as non-normative by people. Among non-blacks there is more stigma and disapproval attached to relationships with blacks than to relationships with members of other groups<ref>https://pubmed.ncbi.nlm.nih.gov/22081799/</ref>. Furthermore, interracial couples elicit disgust and are dehumanized relative to same-race couples<ref>https://www.sciencedirect.com/science/article/abs/pii/S0022103116300555</ref>.
+
+Interracial relationships also suffer from a number of issues, such as an increased likelihood of divorce or termination<ref>https://www.census.gov/content/dam/Census/library/publications/2000/demo/interracial-instability.pdf</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3729.2008.00491.x</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0049089X04000882</ref>, increases in severe distress<ref>https://www.sciencedirect.com/science/article/abs/pii/S0049089X05000438</ref>, higher mortalityInterracial marriage is significantly associated with higher mortality risk than same-race marriages, even after controlling for sociodemographic covariates<ref>https://paa2012.populationassociation.org/papers/122630#:~:text=Pooled%20Data%20from%201986%20to,controlling%20for%20socio%2Ddemographic%20covariates.</ref>., and generally suffer from more relationship issues <ref>https://sci-hub.ru/https://doi.org/10.1037/a0025767</ref>.
+
+These issues likely arise for two reasons. First, people are genetically inclined to choose as social partners those who resemble themselves at a genetic level<ref>https://sci-hub.ru/https://doi.org/10.1111/j.0956-7976.2005.01574.x</ref>. Those who go against this inclination are thus likely more likely to suffer from issues. Second, those who pursue interracial relationships likely have non-normative views on the world in general, which might correlate with lower relationship satisfaction, worse mental health, along with other things. Some evidence suggests that mixed-race children tend to be disproportaiontely at risk:
+
+- Mixed race adolescents had higher risk when compared with single race adolescents on general health questions, school experience, smoking and drinking, among other risk variables<ref>https://archive.ph/dZqP1</ref>.
+- US students of mixed race are more likely than others to suffer from depression, substance abuse, sleep problems, and various aches and pains<ref>https://archive.ph/Js25I</ref>.
+- Those of mixed black-white ancestry fall between blacks and whites in regard to self-rated overall health and have the worst self-rated mental health<ref>https://archive.ph/0Ezku</ref>.
+
+This is likely due to selection bias amongst those who choose ot be interracial parents, as well as possible identity issues related to being mixed-race. Research on admixture and IQ suggests that outbreeding depression is not a major factor in explaining these outcomes. Similarly, there is mixed evidence on whether mixed-race children are more or less likely to have malformations from birth. Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common<ref>https://archive.ph/5kPn1</ref>.
 
 ### How to Accommodate for Ethnic Diversity
 
@@ -323,6 +335,10 @@ In summary, there may be some bias in the education system, specifically with gr
 
 #### Health
 
+Another question to ask is whether there is racism in health:
+
+- **Healthcare Access: Some Bias -** I would have to quantify the exact effects shown in these studies, but research suggests that there exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>. Furthermore, experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
+
 #### Other
 
 ### Possible Remedying of Disparities
@@ -369,6 +385,8 @@ Furthermore, note that advocates of white privilege when talking to a particular
 
 **The Empirical Issues**
 
+The empirical issue is that white people are not the most privileged group in society on any measure. In terms of income, various groups do better than whites, such as Asians<ref>https://www.jstor.org/stable/1085574?seq=1#metadata_info_tab_contents</ref>. While some of this may be due to immigration selection bias into western countries, much of it is ceertainly also due to the higher mean IQ that asians tend to possess, something demonstrated in earlier sections to be in part genetic in origin. To the extent that empirically "privilege" may exist, it certainly is not whites who have it.
+
 ### The Effect of Anti-White Racism
 
 Much of the mainstream narrative on race concerns the existence of anti-black racism, and oftentimes even the suggestion that anti-white racism exists can be seen as a dog-whistle for some "evil agenda". However, there is evidence that anti-white racism exists to some extent, particularly amongst liberals, even white liberals. As has been discussed before several times, white liberals are the only group of people to have an outgroup preference<ref>https://www.tabletmag.com/sections/news/articles/americas-white-saviors</ref>, suggesting from the outset that white liberals may engage in racism against their own ethnic group. There are numerous documented studies which empirically show that liberal racial bias exists to a fairly large extent:
@@ -397,75 +415,11 @@ Furthermore, education about white privilege increases anti-white bias. Social l
 
 ## Racism
 
-### Stereotypes
-
-People see same-size black men as larger and more threatening than same-size white men. Even black men are subject to this effect, although they didn't see the black men as more threatening than the white men<ref>https://www.apa.org/news/press/releases/2017/03/black-men-threatening</ref>. Black children are seen as older and less innocent and prompt a less essential conception of childhood than white same-age peers<ref>https://www.apa.org/pubs/journals/releases/psp-a0035663.pdf</ref>.
-
-### Lead Poisoning
-
-Blacks tend to have higher mean blood levels compared to whites and hispanics<ref>https://sci-hub.se/https://doi.org/10.1007/s40615-015-0124-9</ref>.
-
-### Bias and Identity
-
-Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref>.
-
-Perceived discrimination has a significant negative effect on psychological well-being<ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
-
-Exposure to other races decreases racial prejudice and increases liking for strangers of that race<ref>https://pubmed.ncbi.nlm.nih.gov/16737372/</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2705986/</ref>.
-
-Need for closure is related to religious fundamentalism and prejudice<ref>https://journals.sagepub.com/doi/10.1177/0146167210366306</ref>.
-
-Younger children will discriminate against black people in general, while older children will only do so under low salience of anti-racist norms<ref>https://www.researchgate.net/publication/51747342_The_development_of_intergroup_bias_in_childhood_How_social_norms_can_shape_children's_racial_behaviours</ref>.
-
-Prejudice in the form of perceived physical and health danger is hard-wired into the human brain, through it being an adaptive response to perceived threat from outside groups<ref>https://www.sciencedaily.com/releases/2005/05/050525105357.htm</ref>.
-
-### Model Minority
-
-Positive stereotypes about Asians appear to be harmful to the mental health of Asians<ref>https://psycnet.apa.org/record/2011-12143-002</ref>, are correlated with negative stereotypes of Asians<ref>https://journals.sagepub.com/doi/10.1177/0146167207309195</ref>, and also fail to take into account the diversity among Asians, some who score lower than white people in academics. Moreover, even after controlling for education and other relevant characteristics most Asian ethnicities for the main exception of Japanese earn less than whites, although they are more educationally successful<ref>https://depts.washington.edu/sibl/Publications/Model%20Minority%20Section%20(2011).pdf</ref><ref>https://www.tandfonline.com/doi/abs/10.1080/00091383.1989.9937601</ref>. Asians have higher median household and individual income. Academic differences between Asians and whites appear to be due to differences in family background<ref>https://www.jstor.org/stable/1085574?seq=1#metadata_info_tab_contents</ref>.
-
 ### Self-Reported Discrimination
 
 In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities<ref>https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm</ref>.
 
-### Interracial Relationships
-
-Interracial couples are 50% more likely to divorce, although it is not a major predictor compared to many other predictors<ref>https://www.census.gov/content/dam/Census/library/publications/2000/demo/interracial-instability.pdf</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1741-3729.2008.00491.x</ref>.
-
-Adolescents involved in interracial relationships are more likely to terminate their relationships, although there is no difference in stability. Adolescents involved are also less likely to reveal their relationships to their families, to the public eye, and less likely to meet their partners' parents<ref>https://www.sciencedirect.com/science/article/abs/pii/S0049089X04000882</ref>.
-
-Interracial marriage is associated with increases in severe distress for men or women of many racial groups<ref>https://www.sciencedirect.com/science/article/abs/pii/S0049089X05000438</ref>.
-
-Among non-blacks there is more stigma and disapproval attached to relationships with blacks than to relationships with members of other groups<ref>https://pubmed.ncbi.nlm.nih.gov/22081799/</ref>.
-
-Interracial couples elicit disgust and are dehumanized relative to same-race couples<ref>https://www.sciencedirect.com/science/article/abs/pii/S0022103116300555</ref>.
-
-People in same-race dyads tend to express more positive attitudes about their partners, feeling less negatively, have more friendly nonverbal behavior, and score higher on performance measures, than those in interracial dyads<ref>https://sci-hub.ru/https://doi.org/10.1037/a0025767</ref>.
-
-Some congenital malformations are more common amongst births to parents of mixed race-ethnicity, while others are less common<ref>https://archive.ph/5kPn1</ref>.
-
-Oxytocin creates intergroup bias because it motivates in-group favoritism and to a lesser extent out-group derogation<ref>https://archive.ph/2bm3</ref>.
-
-Interracial marriage is significantly associated with higher mortality risk than same-race marriages, even after controlling for sociodemographic covariates<ref>https://paa2012.populationassociation.org/papers/122630#:~:text=Pooled%20Data%20from%201986%20to,controlling%20for%20socio%2Ddemographic%20covariates.</ref>.
-
-Mixed race adolescents had higher risk when compared with single race adolescents on general health questions, school experience, smoking and drinking, among other risk variables<ref>https://archive.ph/dZqP1</ref>.
-
-US students of mixed race are more likely than others to suffer from depression, substance abuse, sleep problems, and various aches and pains<ref>https://archive.ph/Js25I</ref>.
-
-Those of mixed black-white ancestry fall between blacks and whites in regard to self-rated overall health and have the worst self-rated mental health<ref>https://archive.ph/0Ezku</ref>.
-
-People are genetically inclined to choose as social partners those who resemble themselves at a genetic level<ref>https://sci-hub.ru/https://doi.org/10.1111/j.0956-7976.2005.01574.x</ref>.
-
-### Health/Healthcare
-
-There exists low to moderate levels of implicit racial bias among healthcare professionals, which is significantly related to patient-provider interactions and health outcomes<ref>https://pubmed.ncbi.nlm.nih.gov/26469668/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/28249596/</ref>.
-
-If racial disparities in preventable deaths were eliminated, the annualized number of lives saved ranges from 475-812 in Minnesota. This translates into $1.2-2.9 billion per year in economic savings<ref>https://pubmed.ncbi.nlm.nih.gov/30823675/</ref>.
-
-Eliminating health disparities for minorities in the US would have reduced direct medical care expenditures by about $230 billion and indirect costs associated with illness and premature death by more than $1 trillion for the years 2003-2006<ref>https://pubmed.ncbi.nlm.nih.gov/21563622/</ref>.
-
-Racism is associated with poorer mental health, physical health, and general health<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580597/</ref><ref>https://www.researchgate.net/profile/Veronica-Johnson-8/publication/329022446_A_Meta-Analytic_Review_of_Racial_Discrimination_Relationships_to_Health_and_Culture/links/5c475fa2458515a4c73894d7/A-Meta-Analytic-Review-of-Racial-Discrimination-Relationships-to-Health-and-Culture.pdf</ref>.
-
-Experimental evidence suggests that there is racial discrimination against middle-class blacks compared to middle-class whites in accessing mental health care, although there is no discrimination between working-class blacks and whites<ref>https://journals.sagepub.com/doi/abs/10.1177/0022146516647098</ref>.
+Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
 
 ### Economics
 
