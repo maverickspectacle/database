@@ -330,6 +330,10 @@ Isungset et al. (2021) finds that as gender equality has increased over the 20th
 
 Attempting to counter a biological explanation for gender inequality, Breda et al. (2020) finds that the stereotype associating math to men is stronger in more egalitarian and developed countries, and is strongly associated with various measures of female underrepresentation in math-intensive fields<ref>https://www.pnas.org/content/117/49/31063</ref>. Therefore, the gender paradox if it exists is instead due to the reassertion of gender stereotypes occurring as societies become more gender equal. Economic development reshapes rather than suppresses gender norms, with an emergence of new or more forms of social differentiation across genders. However, the causality of this isn't clear. It may for instance be the case that people are observing the biological reality that women aren't attending STEM careers in spite of increased gender equality and forming those stereotypes as a consequence of that initial observation. Thus, this isn't inconsistent with biological explanations for gender inequality.
 
+#### Housing: Pro-Female Bias
+
+Men are disproportionately discriminated against in terms of housing, due to preferences rather than statistical discrimination<ref>https://crese.univ-fcomte.fr/uploads/wp/WP-2018-04.pdf</ref>. This suggests that these are irrational and unjust biases rather than justified actions undertaken by rental agents.
+
 ### Schooling: Little Bias
 
 There is a small female advantage in general scholastic achievement. This is largest for language courses and smallest for math courses<ref>https://www.researchgate.net/publication/261953087_Gender_Differences_in_Scholastic_Achievement_A_Meta-Analysis</ref>. Lindberg et al. (2010) in fact found no gender difference in mathematical performance<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3057475/</ref>.
@@ -691,10 +695,6 @@ Generally speaking it is only those gaps which favor men that are discussed. Dis
 Research suggests that men in the media today are overwhelmingly portrayed as negative, being frequently associated with violence and aggression. With the exception of a small minority of positive media portrayals of male heroes such as war veterans, firefighters, and rescuers, and portrayals of men as good fathers, husbands, and citizens, the only males presented positively are men and boys who have been feminized<ref>https://link.springer.com/chapter/10.1057%2F9780230625679_7</ref>. Women's violence is more likely to be reported as irrational or emotional, while men's violence is more likely to be presented as normal or rational<ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-2311.00200</ref>. Articles depicting men with mental illnesses are significantly more likely to have stigmatizing content and violence as themes. Articles depicting mentally ill women are significantly more likely to quote mental health experts, discuss mental health interventions, and have recovery and inadequate resources as themes<ref>https://link.springer.com/article/10.1007%2Fs00127-014-0902-4</ref>.
 
 ### Economics
-
-#### Housing
-
-Men are disproportionately discriminated against in terms of housing, due to preferences rather than statistical discrimination<ref>https://crese.univ-fcomte.fr/uploads/wp/WP-2018-04.pdf</ref>. This suggests that these are irrational and unjust biases rather than justified actions undertaken by rental agents.
 
 #### Workplace
 
