@@ -311,13 +311,31 @@ A common assumption, similar to race, is that all disparities that exist on the 
 
 ### Economic Disparities
 
-#### Workplace: Little Bias
+#### Workplace: Some Bias (Ambiguous Direction)
 
 Over time, as women have increasingly entered high-status occupations, occupations' people-things orientation became an increasingly strong predictor of women's participation in occupations<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0095960</ref>. Men tend to show interest in more scientific occupations, while women tend to show interest in more social occupations<ref>https://psycnet.apa.org/record/1934-01297-001</ref><ref>https://pubmed.ncbi.nlm.nih.gov/27505283/</ref><ref>https://www.tandfonline.com/doi/full/10.1080/21683603.2018.1521759</ref>. This is in part due to differences in sex hormones, which affect a person's things-people orientation<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3166361/</ref>.
 
 Experimental research on hiring discrimination finds that there exists high levels of discrimination against men applying to female jobs<ref>https://ftp.iza.org/dp8584.pdf</ref>, which outweighs all other gender based discrimination effects<ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0245513</ref>, with bias in male-dominated occupations being null<ref>https://www.researchgate.net/publication/282895214_Field_Experimental_Evidence_on_Gender_Discrimination_in_Hiring_Biased_as_Heckman_and_Siegelman_Predicted</ref><ref>https://academic.oup.com/esr/article/38/3/337/6412759?login=false</ref> or slightly in favor of males<ref>https://www.nature.com/articles/s41586-020-03136-0</ref>.
 
 Research suggests that gender quotas on the corporate boards of directors reduce company profitability and financial performance<ref>https://onlinelibrary.wiley.com/doi/10.1111/ecaf.12487</ref>. While it is not clear what the causality is of this effect, this evidence suggests that at the very least gender quotas do not have a positive effect on company financial performance. Solal & Snellman. (2019) found that one additional woman on a board of directors for a company results in a 2.3% decrease in the company's market value on average<ref>https://www.eurekalert.org/news-releases/876846</ref>. This is argued to be because a company with a gender-diverse board of directors is interpreted by shareholders as revealing a preference for diversity over market performance, as opposed to more women actually harming the company. The perceptions of women in boards, as opposed to their actual performance in boards, determines the market value.
+
+### Workplace Gender Gaps
+
+After adjusting for human capital development, work experience, the occupations and industries in which the sexes work, and career interruptions, the adjusted gender pay gap is between 4.8-7.1%. Other unadjusted factors include health insurance, other fringe benefits, and detailed features of overtime work<ref>https://www.academia.edu/35974504/An_Analysis_of_Reasons_for_the_Disparity_in_Wages_Between_Men_and_Women_Containing_A_Foreword_by_the_Department_of_Labor_A_Report_by_CONSAD_Research_Corp_0</ref>.
+
+The life satisfaction of men and especially fathers increases steeply with paid working hours. The life satisfaction of childless women is less related to long working hours and the life satisfaction of mothers hardly depends on working hours at all. Additionally, women and especially mothers are more satisfied with life when their male partners work longer while the life satisfaction of men hardly depends on their female partners' work hours. These differences are starker where gender attitudes are more traditional, but cannot be explained through differences in income, occupations, partner characteristics, period or cohort effects. These results are found in various cultures around the world<ref>https://link.springer.com/article/10.1007/s11205-020-02433-5</ref>.
+
+There tends to be prejudice against female leaders and against women getting promotions<ref>https://link.springer.com/article/10.1007%2Fs11199-006-9068-1</ref><ref>https://doi.apa.org/doiLanding?doi=10.1037%2F0021-9010.91.4.777</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0927537116301129?via%3Dihub</ref>.
+
+In nursing, 9 out of 10 doctors are women. Here, there is approximately a $5000 salary gap even after adjusting for factors such as experience, education, work hours, clinical specialty, and marital and parental status<ref>https://www.scientificamerican.com/article/even-in-nursing-no-equal-pay-for-women/</ref>.
+
+Between 1970 and 2007, many women entered highly rewarded occupations. However, this decreased the pay levels of these occupations due to them being feminized, particular in high-paid and male-typed occupations<ref>https://academic.oup.com/sf/article-abstract/91/4/1183/2235777</ref>.
+
+Women tend to negotiate salaries less, but this is in part due to the different ways in which society responds to women when they negotiate. Women who ask tend to get penalized more<ref>https://www.sciencedirect.com/science/article/abs/pii/S0749597806000884</ref>.
+
+Hiring experiments have shown that for mixed-gender and male stereotypical jobs gender discrimination was eliminated or if anything slightly reversed starting in 2009. Anti-male discrimination persisted over time in female stereotypical jobs however<ref>https://www.sciencedirect.com/science/article/pii/S0749597823000560#:~:text=A%20meta%2Danalysis%20of%20field,the%20degree%20of%20remaining%20bias</ref>.
+
+A Finnish study found that women and men worked approximately equal hours, but that the women devoted 50% more time to domestic work. Irrespective of gender, negative work-family spillover (work demands interfering with family affairs) was associated with health problems. Paid work hours per week for women (men) were 41.7 (42.8), domestic hours per week were 29.8 (20.6), and total work hours per week were 71.2 (63.5). Women were significantly more negatively affected by negative family-work spillover than men (family affairs interfering with work demands). Only for men, there was a positive association between sickness absence and domestic work hours. Women had slightly higher psychological distress and men had slightly higher suboptimal health. Both of these differences were only a few percentage points<ref>https://www.tandfonline.com/doi/pdf/10.1300/J013v40n03_01</ref>.
 
 #### STEM: Little Bias
 
@@ -702,13 +720,9 @@ Generally speaking it is only those gaps which favor men that are discussed. Dis
 
 Research suggests that men in the media today are overwhelmingly portrayed as negative, being frequently associated with violence and aggression. With the exception of a small minority of positive media portrayals of male heroes such as war veterans, firefighters, and rescuers, and portrayals of men as good fathers, husbands, and citizens, the only males presented positively are men and boys who have been feminized<ref>https://link.springer.com/chapter/10.1057%2F9780230625679_7</ref>. Women's violence is more likely to be reported as irrational or emotional, while men's violence is more likely to be presented as normal or rational<ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/1468-2311.00200</ref>. Articles depicting men with mental illnesses are significantly more likely to have stigmatizing content and violence as themes. Articles depicting mentally ill women are significantly more likely to quote mental health experts, discuss mental health interventions, and have recovery and inadequate resources as themes<ref>https://link.springer.com/article/10.1007%2Fs00127-014-0902-4</ref>.
 
-### Economics
-
-### Politics
+### Political Quotas
 
 Women perform just as well when they run for public office, but there is a gender gap in political ambition. This is due to a combination of women being less likely to be encouraged or recruited for office, and that public office careers have traits which women tend to find undesirable<ref>https://www.brookings.edu/wp-content/uploads/2016/06/05_women_lawless_fox.pdf</ref><ref>https://www.american.edu/spa/wpi/upload/2012-men-rule-report-web.pdf</ref>.
-
-### Political Quotas
 
 I am generally for a gender quota in political office, to help increase representation of women to be more proportional to men than is the case currently in most if not all political offices. Quotas have neutral to positive effects on the quality of politicians, and they normalize women getting into politics.
 
@@ -757,24 +771,6 @@ Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.ca
 The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate<ref>https://link.springer.com/article/10.1007/s10508-015-0666-2</ref>.
 
 The more similar the 2D:4D digit ratio was between men and women in a country, the more equal the sexes were in parliamentary and labor force participation<ref>https://journals.sagepub.com/doi/full/10.1177/147470491401200406#</ref>.
-
-### Workplace Gender Gaps
-
-After adjusting for human capital development, work experience, the occupations and industries in which the sexes work, and career interruptions, the adjusted gender pay gap is between 4.8-7.1%. Other unadjusted factors include health insurance, other fringe benefits, and detailed features of overtime work<ref>https://www.academia.edu/35974504/An_Analysis_of_Reasons_for_the_Disparity_in_Wages_Between_Men_and_Women_Containing_A_Foreword_by_the_Department_of_Labor_A_Report_by_CONSAD_Research_Corp_0</ref>.
-
-The life satisfaction of men and especially fathers increases steeply with paid working hours. The life satisfaction of childless women is less related to long working hours and the life satisfaction of mothers hardly depends on working hours at all. Additionally, women and especially mothers are more satisfied with life when their male partners work longer while the life satisfaction of men hardly depends on their female partners' work hours. These differences are starker where gender attitudes are more traditional, but cannot be explained through differences in income, occupations, partner characteristics, period or cohort effects. These results are found in various cultures around the world<ref>https://link.springer.com/article/10.1007/s11205-020-02433-5</ref>.
-
-There tends to be prejudice against female leaders and against women getting promotions<ref>https://link.springer.com/article/10.1007%2Fs11199-006-9068-1</ref><ref>https://doi.apa.org/doiLanding?doi=10.1037%2F0021-9010.91.4.777</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0927537116301129?via%3Dihub</ref>.
-
-In nursing, 9 out of 10 doctors are women. Here, there is approximately a $5000 salary gap even after adjusting for factors such as experience, education, work hours, clinical specialty, and marital and parental status<ref>https://www.scientificamerican.com/article/even-in-nursing-no-equal-pay-for-women/</ref>.
-
-Between 1970 and 2007, many women entered highly rewarded occupations. However, this decreased the pay levels of these occupations due to them being feminized, particular in high-paid and male-typed occupations<ref>https://academic.oup.com/sf/article-abstract/91/4/1183/2235777</ref>.
-
-Women tend to negotiate salaries less, but this is in part due to the different ways in which society responds to women when they negotiate. Women who ask tend to get penalized more<ref>https://www.sciencedirect.com/science/article/abs/pii/S0749597806000884</ref>.
-
-Hiring experiments have shown that for mixed-gender and male stereotypical jobs gender discrimination was eliminated or if anything slightly reversed starting in 2009. Anti-male discrimination persisted over time in female stereotypical jobs however<ref>https://www.sciencedirect.com/science/article/pii/S0749597823000560#:~:text=A%20meta%2Danalysis%20of%20field,the%20degree%20of%20remaining%20bias</ref>.
-
-A Finnish study found that women and men worked approximately equal hours, but that the women devoted 50% more time to domestic work. Irrespective of gender, negative work-family spillover (work demands interfering with family affairs) was associated with health problems. Paid work hours per week for women (men) were 41.7 (42.8), domestic hours per week were 29.8 (20.6), and total work hours per week were 71.2 (63.5). Women were significantly more negatively affected by negative family-work spillover than men (family affairs interfering with work demands). Only for men, there was a positive association between sickness absence and domestic work hours. Women had slightly higher psychological distress and men had slightly higher suboptimal health. Both of these differences were only a few percentage points<ref>https://www.tandfonline.com/doi/pdf/10.1300/J013v40n03_01</ref>.
 
 ### Random
 
