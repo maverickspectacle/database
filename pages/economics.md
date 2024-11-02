@@ -4,6 +4,8 @@ title: Economics
 permalink: /economics/
 ---
 
+## —————————————————————RESEARCHTOADD—————————————————————
+
 ## Economic Freedom
 
 **Economic freedom = based**
