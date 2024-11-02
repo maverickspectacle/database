@@ -28,8 +28,6 @@ A 2013 systematic literature review on the effects of economic freedom found tha
 
 ***Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature<ref>https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf</ref>. This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
 ## Socialism
 
 Socialism is gay and cringe.
@@ -45,32 +43,32 @@ Capitalism and its associated legal and cultural institutions are associated wit
 - Developing countries that score better in protecting economic rights tend to grow faster, score higher in human development, and economic rights are associated with democratic government and higher levels of average national income<ref>https://link.springer.com/article/10.1007/BF02687323</ref>.
 - Privately owned firms are more efficient and more profitable than otherwise comparable state-owned firms<ref>https://www.aeaweb.org/articles?id=10.1257/jel.39.2.321</ref>.
 - Market economies tend to have more productive efficiency compared to state socialist economies<ref>https://www.researchgate.net/publication/256353073_Productive_efficiency_under_capitalism_and_state_socialism</ref>.
+
+Specific cases:
+
 - The Soviet Union initially had high economic growth due to the fact that as a developing economy it could adopt western technology while forcibly mobilizing resources to use such technology. Once the country began to catch up with the west, it could no longer do this and its productivity diminished. Various piecemeal reforms it attempted undermined its institutions and failed to improve the situation<ref>https://www.investopedia.com/articles/investing/021716/why-ussr-collapsed-economically.asp#citation-2</ref>.
 - Xiaogang farmers, who agreed in 1978 to have personal property and no longer have collectivization, immediately had a massive increase in their agricultural productivity. This was used as a model for the rest of the Chinese economy to move to a market system<ref>https://www.npr.org/sections/money/2012/01/20/145360447/the-secret-document-that-transformed-china</ref>.
+- Delayed economic reform in India because of its prolonged experiment with socialism led to over ten million "missing children", amongst other negative effects on quality of life<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7</ref>.
 
 ### Quality of Life
 
-In general, high democracy, strong left-wing regimes, social democratic welfare states, high public spending, fair trade policies, extensions to compulsory education provision, microfinance initiatives in low-income countries, health and safety policy, and high-quality affordable housing have positive health outcomes, while neoliberal restructuring seems to be associated with increased health inequalities and higher income inequality with lower health and mortality<ref>https://journals.sagepub.com/doi/abs/10.2190/EQUY-ACG8-X59F-AE99</ref><ref>https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305001</ref>.
+Social democratic policies are associated with higher quality of life:
 
-Political traditions more committed to redistributive policies and full-employment policies have generally been more successful in improving population health<ref>https://pubmed.ncbi.nlm.nih.gov/11330781/</ref>.
+- In general, high democracy, strong left-wing regimes, social democratic welfare states, high public spending, fair trade policies, extensions to compulsory education provision, microfinance initiatives in low-income countries, health and safety policy, and high-quality affordable housing have positive health outcomes, while neoliberal restructuring seems to be associated with increased health inequalities and higher income inequality with lower health and mortality<ref>https://journals.sagepub.com/doi/abs/10.2190/EQUY-ACG8-X59F-AE99</ref><ref>https://ajph.aphapublications.org/doi/10.2105/AJPH.2019.305001</ref>.
+- Political traditions more committed to redistributive policies and full-employment policies have generally been more successful in improving population health<ref>https://pubmed.ncbi.nlm.nih.gov/11330781/</ref>.
 
-Capitalism does not show a preference for war<ref>https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf</ref><ref>https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf</ref>.
+However, markets are also associated with higher quality of life, implying a mixed economy approach is best for human well-being:
 
-High income, individualism, human rights, and societal equality strongly correlate with each other and with subjective well-being<ref>https://link.springer.com/chapter/10.1007/978-90-481-2352-0_3</ref>.
+- Low regulation and pro market attitudes have positive effects on life satisfaction<ref>https://www.tandfonline.com/doi/abs/10.1080/13504851.2012.762709</ref>.
+- Increases in economic freedom correspond to larger reductions of the extreme poverty rate<ref>https://web.archive.org/web/20200215062544/http://myweb.fsu.edu:80/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf</ref>.
+- There is a strong positive association between reforms towards more free markets with regard to governments' respect for human rights<ref>https://link.springer.com/article/10.1007/s11127-011-9847-2</ref>.
+- Capitalism does not show a preference for war<ref>https://pages.ucsd.edu/~egartzke/publications/gartzke_ajps_07-1.pdf</ref><ref>https://warwick.ac.uk/fac/soc/economics/staff/mharrison/public/capitalism_at_war.pdf</ref>.
 
-Low regulation and pro market attitudes have positive effects on life satisfaction<ref>https://www.tandfonline.com/doi/abs/10.1080/13504851.2012.762709</ref>.
+Gains in some socialist countries appear to be primarily due to improvements in healthcare and education, as opposed to economic central planning itself:
 
-There is a strong positive association between reforms towards more free markets with regard to governments' respect for human rights<ref>https://link.springer.com/article/10.1007/s11127-011-9847-2</ref>.
+- Between 1950-1980, China experienced the most rapid sustained increase in life expectancy of any population in documented global history, primarily through gains in school enrollment and public health campaigns<ref>https://www.tandfonline.com/doi/abs/10.1080/00324728.2014.972432?journalCode=rpst20</ref>.
 
-Increases in economic freedom correspond to larger reductions of the extreme poverty rate<ref>https://web.archive.org/web/20200215062544/http://myweb.fsu.edu:80/jsc07e/Documents/Papers/Connors%20-%20Economic%20Institutions%20and%20Global%20Poverty.pdf</ref>.
-
-### Misc
-
-Delayed economic reform in India because of its prolonged experiment with socialism led to over ten million "missing children", amongst other negative effects on quality of life<ref>https://www.cato.org/sites/cato.org/files/pubs/pdf/dbp4.pdf#page=7</ref>.
-
-Between 1950-1980, China experienced the most rapid sustained increase in life expectancy of any population in documented global history, primarily through gains in school enrollment and public health campaigns<ref>https://www.tandfonline.com/doi/abs/10.1080/00324728.2014.972432?journalCode=rpst20</ref>.
-
-
+## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Monetary/Fiscal Policy
 
