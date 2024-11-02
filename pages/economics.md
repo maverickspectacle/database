@@ -68,12 +68,6 @@ Gains in some socialist countries appear to be primarily due to improvements in 
 
 - Between 1950-1980, China experienced the most rapid sustained increase in life expectancy of any population in documented global history, primarily through gains in school enrollment and public health campaigns<ref>https://www.tandfonline.com/doi/abs/10.1080/00324728.2014.972432?journalCode=rpst20</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
-## Monetary/Fiscal Policy
-
-Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
-
 ## Labor Exploitation
 
 ### Child Labor
@@ -85,6 +79,12 @@ Historically, bans on child labor have not been the primary reason for declines 
 While sweatshops are commonly said to be unjust due to their poor labor conditions, when examining the evidence one should compare how the presence of sweatshops in **already impoverished countries** affects the workers who work in them as well as the broader domestic economy. Research suggests that multinational firms, the firms which have sweatshop jobs, pay more than domestic firms in third world countries and that sweatshop jobs provide workers with above average living standards<ref>http://hseuenglish102.pbworks.com/f/JobsworththeSweat.pdf</ref>. Foreign ownership of firms raises wages by expanding labor production and the scale of production, improving the conditions of work in the process. Not only that, but foreign-owned firms in fact make use of labor organizations and democratic institutions<ref>https://www.nber.org/system/files/chapters/c9541/c9541.pdf#page=45</ref>. While child labor occurs, the vast majority of child laborers of sweatshops and carpet factories are members of landless, very poor families, making it an economic necessity, especially in single mother families where it may be the only source of income. These are situations where children lack access to education regardless of whether they work in sweatshops or not due to them needing to work to sustain their families, regardless of the type of work<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>. All of this helps to explain why workers subjectively perceive factor employment to provide more stable compensation<ref>https://0x0.la/u/F6CEuq4.pdf</ref>.
 
 The closure of sweatshops cuts off a major source of income for the poor in the short-run, and decreases GDP in the medium term, which helps to explain why sweatshops have been a necessary existence at some point in the development of all nations since the beginning of the industrial revolution<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>.
+
+## —————————————————————RESEARCHTOADD—————————————————————
+
+## Monetary/Fiscal Policy
+
+Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
 
 ## Income Inequality
 
