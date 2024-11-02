@@ -80,36 +80,41 @@ While sweatshops are commonly said to be unjust due to their poor labor conditio
 
 The closure of sweatshops cuts off a major source of income for the poor in the short-run, and decreases GDP in the medium term, which helps to explain why sweatshops have been a necessary existence at some point in the development of all nations since the beginning of the industrial revolution<ref>https://www.cips-cepi.ca/2018/02/26/the-ethics-of-buying-clothes-produced-in-sweatshops/</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
-## Monetary/Fiscal Policy
-
-Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
-
 ## Income Inequality
 
 **Inequality Bad**
 
 List of various effects of income inequality:
 
-***Health -** Pickett & Wilkinson (2015) reviewed the literature on the effect of income inequality on health and found that the overwhelming majority of evidence strongly suggests that it negatively impacts population health and well-being<ref>https://pubmed.ncbi.nlm.nih.gov/25577953/</ref>. These effects can range from infant mortality<ref>https://pubmed.ncbi.nlm.nih.gov/11476836/</ref> to incidence rate of schizophrenia<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105302/pdf/nihms-599129.pdf</ref>. Economic growth is not associated with increases in happiness if it is accompanied by rising income inequality<ref>http://www.patbarclay.com/wp-content/uploads/2017/08/2015-Oishi-et-al.-x.pdf</ref>.
-***Crime and social cohesion -** Income inequality is associated with increased violent and property crime and decreased social trust<ref>https://academic.oup.com/eurpub/article/21/2/241/498070</ref><ref>https://psycnet.apa.org/record/2003-99209-003</ref><ref>https://www.researchgate.net/publication/2523129_Inequality_And_Violent_Crime</ref><ref>https://equalitytrust.org.uk/sites/default/files/Income%20Inequality%20and%20Crime%20-%20A%20Review%20and%20Explanation%20of%20the%20Time%20series%20evidence_0.pdf</ref>. Moreover, interregional inequality increases the number of domestic terror events which occur<ref>https://www.socialcapitalgateway.org/sites/socialcapitalgateway.org/files/data/paper/2017/03/19/terrorismezcurraetal2016-regionalinequalitiesandterrorismejpe.pdf</ref>, suggesting that the effects of inequality are not limited to simple crimes. There are some notable moderators to these effects, however. Firstly, research suggests that egalitarian culture, a perception that inequality is illegitimate, moderates the relationship between inequality and crime<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1984.tb00299.x</ref>. It should be noted though that this is not an independent effect, which suggests that inequality could in fact shape this egalitarian culture. Second is that after controlling for poverty, inequality has no effect, at least on homicide<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-4446.12083</ref>. Arguably inequality naturally creates poverty due to it depriving certain people of more relative to a more egalitarian situation with identical wealth, but the precise causal nature of the relationship is still important to note.
-***Economic Growth -** Dominici et al. (2006) and Neves et al. (2016) both employed meta-analysis to examine the effect of income inequality on economic growth<ref>https://papers.tinbergen.nl/06064.pdf</ref><ref>https://econpapers.repec.org/article/eeewdevel/v_3a78_3ay_3a2016_3ai_3ac_3ap_3a386-400.htm</ref>. There was a significant amount of variation in studies due to differences in methodology, differences in the effect size in countries and regions, among other factors. Cross-sectional studies typically reported a negative relationship between inequality and growth while panel studies (which take into account longitudinally) found no net effect and produced a wide diversity of results. The high levels of heterogeneity suggest that there is no clear relationship between inequality and growth and there are potentially multiple effects running in opposite directions. Nonetheless, some clear findings were discerned. Firstly, there is a stronger negative effect of inequality on economic growth for developing countries. This is likely due to in less developed countries there being more severe constraints to human capital accumulation, as well as higher political instability and social unrest. Additionally, this is likely due to richer countries having more growth-promoting aspects of inequality related to savings and incentives. Secondly, inequality has less of an effect on economic growth in the long-run.
-***Income Mobility -** More inequality is associated with less intergenerational income mobility, due to shaping the opportunities of people. This relationship is known as "The Great Gatsby Curve"<ref>https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.3.79#page=4</ref>.
+- **Health -** Pickett & Wilkinson (2015) reviewed the literature on the effect of income inequality on health and found that the overwhelming majority of evidence strongly suggests that it negatively impacts population health and well-being<ref>https://pubmed.ncbi.nlm.nih.gov/25577953/</ref>. These effects can range from infant mortality<ref>https://pubmed.ncbi.nlm.nih.gov/11476836/</ref> to incidence rate of schizophrenia<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4105302/pdf/nihms-599129.pdf</ref>. Economic growth is not associated with increases in happiness if it is accompanied by rising income inequality<ref>http://www.patbarclay.com/wp-content/uploads/2017/08/2015-Oishi-et-al.-x.pdf</ref>.
+- **Crime and social cohesion -** Income inequality is associated with increased violent and property crime and decreased social trust<ref>https://academic.oup.com/eurpub/article/21/2/241/498070</ref><ref>https://psycnet.apa.org/record/2003-99209-003</ref><ref>https://www.researchgate.net/publication/2523129_Inequality_And_Violent_Crime</ref><ref>https://equalitytrust.org.uk/sites/default/files/Income%20Inequality%20and%20Crime%20-%20A%20Review%20and%20Explanation%20of%20the%20Time%20series%20evidence_0.pdf</ref>. Moreover, interregional inequality increases the number of domestic terror events which occur<ref>https://www.socialcapitalgateway.org/sites/socialcapitalgateway.org/files/data/paper/2017/03/19/terrorismezcurraetal2016-regionalinequalitiesandterrorismejpe.pdf</ref>, suggesting that the effects of inequality are not limited to simple crimes. There are some notable moderators to these effects, however. Firstly, research suggests that egalitarian culture, a perception that inequality is illegitimate, moderates the relationship between inequality and crime<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1745-9125.1984.tb00299.x</ref>. It should be noted though that this is not an independent effect, which suggests that inequality could in fact shape this egalitarian culture. Second is that after controlling for poverty, inequality has no effect, at least on homicide<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/1468-4446.12083</ref>. Arguably inequality naturally creates poverty due to it depriving certain people of more relative to a more egalitarian situation with identical wealth, but the precise causal nature of the relationship is still important to note.
+- **Economic Growth -** Dominici et al. (2006) and Neves et al. (2016) both employed meta-analysis to examine the effect of income inequality on economic growth<ref>https://papers.tinbergen.nl/06064.pdf</ref><ref>https://econpapers.repec.org/article/eeewdevel/v_3a78_3ay_3a2016_3ai_3ac_3ap_3a386-400.htm</ref>. There was a significant amount of variation in studies due to differences in methodology, differences in the effect size in countries and regions, among other factors. Cross-sectional studies typically reported a negative relationship between inequality and growth while panel studies (which take into account longitudinally) found no net effect and produced a wide diversity of results. The high levels of heterogeneity suggest that there is no clear relationship between inequality and growth and there are potentially multiple effects running in opposite directions. Nonetheless, some clear findings were discerned. Firstly, there is a stronger negative effect of inequality on economic growth for developing countries. This is likely due to in less developed countries there being more severe constraints to human capital accumulation, as well as higher political instability and social unrest. Additionally, this is likely due to richer countries having more growth-promoting aspects of inequality related to savings and incentives. Secondly, inequality has less of an effect on economic growth in the long-run.
+- **Income Mobility -** More inequality is associated with less intergenerational income mobility, due to shaping the opportunities of people. This relationship is known as "The Great Gatsby Curve"<ref>https://pubs.aeaweb.org/doi/pdfplus/10.1257/jep.27.3.79#page=4</ref><ref>https://wol.iza.org/articles/income-inequality-and-social-origins</ref>.
+- **Authoritarianism -** Income inequality is associated with an increase in authoritarianism<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273660</ref>.
 
 Potential Positives:
 
-***Purchasing Power -** As income inequality increases, the market for products aimed towards the poor grows and such products become more profitable. Thus the poor will have a better purchasing power due to the increase in inferior goods provided to them<ref>https://www.jstor.org/stable/23809672</ref>. While this is somewhat beneficial, it does not appear to outweigh the broader negative effects on income mobility or health as laid out above and hence would not make inequality a good thing on net.
+- **Purchasing Power -** As income inequality increases, the market for products aimed towards the poor grows and such products become more profitable. Thus the poor will have a better purchasing power due to the increase in inferior goods provided to them<ref>https://www.jstor.org/stable/23809672</ref>. While this is somewhat beneficial, it does not appear to outweigh the broader negative effects on income mobility or health as laid out above and hence would not make inequality a good thing on net.
 
 Causes of Income Inequality:
 
-***Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
+- **Regulation -** Research suggests that a 10% increase in federal regulation is associated with an approximate 0.5 percent increase in income inequality as measured by the Gini coefficient<ref>https://www.mercatus.org/system/files/chambers-regulation-inequality-mercatus-working-paper-v1.pdf</ref>.
+
+## —————————————————————RESEARCHTOADD—————————————————————
+
+## Monetary/Fiscal Policy
+
+Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
 
 ## Innovation
 
 Innovation primarily comes from universities and federal laboratories, and is primarily collaborative<ref>https://itif.org/files/Where_do_innovations_come_from.pdf</ref><ref>https://www.nejm.org/doi/full/10.1056/nejmsa1008268</ref>.
 
 Patent rights have a positive effect on innovation<ref>https://0x0.la/u/K9fgvb6.pdf</ref>.
+
+## Poverty
+
+Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>.
 
 ## Regulation
 
@@ -206,16 +211,6 @@ Worker cooperatives have survival rates at least as good if not better than part
 Employee ownership has a positive and statistically significant relation to firm performance<ref>https://www.nber.org/system/files/working_papers/w5277/w5277.pdf</ref><ref>https://www.researchgate.net/publication/304459942_Employee_ownership_and_firm_performance_a_meta-analysis_Employee_ownership_a_meta-analysis</ref>.
 
 Codetermination rights lead to higher income equality<ref>https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4</ref>.
-
-## Inequality/Income Mobility
-
-Income inequality goes together with a lack of intergenerational mobility. Promoting intergenerational mobility may not only make societies more egalitarian but also more efficient, because there is now an expectation that people can raise their standard of living no matter their social origin, which is a powerful incentive to human capital accumulation and individual effort. Policies that counteract disparities in family background, such as educational interventions targeted at the children of the poor, may foster intergenerational mobility<ref>https://wol.iza.org/articles/income-inequality-and-social-origins</ref>.
-
-Income inequality is associated with an increase in authoritarianism<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3273660</ref>.
-
-Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>.
-
-Fiscal policy is the primary tool for governments to impact income distribution, but governments must balance equity with efficiency. This can be done through the introduction of means testing in programs<ref>https://www.imf.org/external/np/pp/eng/2014/012314.pdf</ref>.
 
 ## Trade and Globalization
 
