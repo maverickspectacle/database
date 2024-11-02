@@ -4,8 +4,6 @@ title: Economics
 permalink: /economics/
 ---
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
 ## Economic Freedom
 
 **Economic freedom = based**
@@ -29,6 +27,8 @@ A 2013 systematic literature review on the effects of economic freedom found tha
 ***Civil Society -** Economic freedom is associated with greater democracy<ref>https://core.ac.uk/download/pdf/231765996.pdf</ref>, greater political freedom<ref>https://www.sciencedirect.com/science/article/abs/pii/S0167268110000430</ref>, lower governmental corruption<ref>https://uca.edu/cahss/files/2020/07/02-Cramer-CLA-2020.pdf</ref>, a reduction in conflict<ref>http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.319.4651&rep=rep1&type=pdf</ref>, and greater tolerance of different groups of people<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2045577#:~:text=Regression%20analysis%20of%20up%20to,by%20how%20free%20markets%20are</ref><ref>https://www.cato.org/sites/cato.org/files/2021-01/economic-freedom-of-the-world-2020-chapter-3.pdf</ref>.
 
 ***Air Quality -** Economic freedom appears to create incentives to abate local air pollution such as fine particulate matter, although such incentives do not appear to be created for carbon dioxide emissions which are more global in nature<ref>https://www.fraserinstitute.org/sites/default/files/economic-freedom-and-air-quality.pdf</ref>. This would make sense given the difficulty of coordination on an international scale which is required to reduce carbon dioxide emissions.
+
+## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Socialism
 
