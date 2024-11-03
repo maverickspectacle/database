@@ -223,11 +223,19 @@ The effects of an expanded welfare state, usually measured in the form of social
 
 **Unified Analysis** The marginal value of public funds of various government policies is highest in direct investments on low-income children, including child health insurance expansions and college policies. These tend to pay for themselves. For policies targeting adults, they tend to involve budgetary tradeoffs as they cost the government on net. Expenditures on adults can have high MVPFs if they have spillover effects on children<ref>https://www.policyinsights.org/</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
+## Worker Ownership
+
+Worker ownership of corporations can be good in some contexts, but it isn't scalable and thus can never be a universal model. This is in part because there is less incentive for such organizations to start up.
+
+**The Good -** Codetermination laws are negatively associated with productivity, but profit-sharing, worker ownership, and worker participation in decision-making are all positively associated with productivity. All of these are stronger in labor-managed firms compared with participatory capitalist firms<ref>https://library.uniteddiversity.coop/Cooperatives/Worker_Participation_and_Productivity-Meta_Analysis.pdf</ref>. Worker cooperatives have survival rates at least as good if not better than participatory capitalist firms<ref>https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf</ref>. This is explained by their greater employment stability<ref>https://www.emerald.com/insight/content/doi/10.1016/S0885-3339(04)08001-9/full/html</ref>. Employee ownership has a positive and statistically significant relation to firm performance<ref>https://www.nber.org/system/files/working_papers/w5277/w5277.pdf</ref><ref>https://www.researchgate.net/publication/304459942_Employee_ownership_and_firm_performance_a_meta-analysis_Employee_ownership_a_meta-analysis</ref>. Codetermination rights lead to higher income equality<ref>https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4</ref>.
+
+**The Bad -** Worker cooperatives aren't rare because they are inefficient, but because they are less likely to start up. From the ground, this is due to wealth and credit constraints, entrepreneurial rents, and collective action problems. However, this does not explain why existing firms do not convert to worker cooperatives<ref>https://institute.coop/sites/default/files/resources/070%202013_Olsen_The%20Relative%20Survival%20of%20Worker%20Cooperatives%20and%20Barriers%20to%20Their%20Creation.pdf</ref>.
 
 ## Monetary/Fiscal Policy
 
 Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
+
+## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Innovation
 
@@ -322,18 +330,6 @@ Unionization reduces aggregate poverty<ref>https://www.cepr.net/unions-the-best-
 Right to work laws make it illegal for a group of unionized workers to negotiate a contract that requires each employee who enjoys the benefits of the contract terms to pay their share of costs for negotiating and policing the contract. These result in decreased wages<ref>https://www.epi.org/publication/bp299/</ref>, and also increase economic inequality indirectly by lowering labor power resources<ref>https://www.journals.uchicago.edu/doi/10.1086/708067</ref>.
 
 Doucouliagos & Laroche (2003) conducted a meta-analysis and found that after controlling for differences between studies, a negative association was discovered between unions and productivity in the UK, while a positive relationship was found in the US<ref>https://library.fes.de/libalt/journals/swetsfulltext/17556769.pdf</ref>. An additional bootstrapped meta-analysis also found a positive relationship in the US<ref>https://www.researchgate.net/publication/227640784_What_Do_Unions_Do_to_Productivity_A_Meta-Analysis</ref>. A more recent meta-analysis also suggested that unions are not invariably harmful to productivity, although the impact may depend on a number of factors including the sectors and counties concerned, the time period investigated and institutional settings such as labor market regulation<ref>https://tuac.org/wp-content/uploads/2017/12/Recent-Meta-20Dec17.pdf</ref>.
-
-## Worker Ownership
-
-Codetermination laws are negatively associated with productivity, but profit-sharing, worker ownership, and worker participation in decision-making are all positively associated with productivity. All of these are stronger in labor-managed firms compared with participatory capitalist firms<ref>https://library.uniteddiversity.coop/Cooperatives/Worker_Participation_and_Productivity-Meta_Analysis.pdf</ref>.
-
-Worker cooperatives aren't rare because they are inefficient, but because they are less likely to start up. From the ground, this is due to wealth and credit constraints, entrepreneurial rents, and collective action problems. However, this does not explain why existing firms do not convert to worker cooperatives<ref>https://institute.coop/sites/default/files/resources/070%202013_Olsen_The%20Relative%20Survival%20of%20Worker%20Cooperatives%20and%20Barriers%20to%20Their%20Creation.pdf</ref>.
-
-Worker cooperatives have survival rates at least as good if not better than participatory capitalist firms<ref>https://www.uk.coop/sites/default/files/2020-10/worker_co-op_report.pdf</ref>. This is explained by their greater employment stability<ref>https://www.emerald.com/insight/content/doi/10.1016/S0885-3339(04)08001-9/full/html</ref>.
-
-Employee ownership has a positive and statistically significant relation to firm performance<ref>https://www.nber.org/system/files/working_papers/w5277/w5277.pdf</ref><ref>https://www.researchgate.net/publication/304459942_Employee_ownership_and_firm_performance_a_meta-analysis_Employee_ownership_a_meta-analysis</ref>.
-
-Codetermination rights lead to higher income equality<ref>https://www.mzes.uni-mannheim.de/publications/wp/wp-147.pdf#page=4</ref>.
 
 ## Trade and Globalization
 
