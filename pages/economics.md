@@ -235,6 +235,22 @@ Worker ownership of corporations can be good in some contexts, but it isn't scal
 
 Quantitative easing tends to ease financial conditions and support economic growth, and can be especially powerful during times of financial stress<ref>https://www.piie.com/publications/policy-briefs/quantitative-easing-underappreciated-success</ref>.
 
+## Housing
+
+### Rent Control
+
+**Rent control is gay and cringe.**
+
+Rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation<ref>https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf</ref>.
+
+## Zoning/Regulation
+
+**Regulations are cringe unless absolutely necessary.**
+
+In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Zoning has instead been found to be consistently associated with decreased affordability<ref>https://www.nber.org/system/files/working_papers/w8835/w8835.pdf</ref><ref>https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability</ref>.
+
+Housing regulation is a significant contributor to high house prices<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref><ref>https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/</ref><ref>https://www.vtpi.org/park-hou.pdf</ref>.
+
 ## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Innovation
@@ -301,27 +317,15 @@ US pharmaceutical innovation is not exceptionally good compared to other countri
 
 Lack of health insurance is associated with mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/</ref>. Numerous studies have estimates that tens of thousands of deaths in the US are due to a lack of health insurance<ref>https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/</ref><ref>https://www.cbpp.org/sites/default/files/atoms/files/11-6-19health.pdf</ref>, although Kronick (2009) finds that there is no relationship between insurance and mortality risk after adjusting for demographic, health status, and health behavior characteristics<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739025/</ref>. This study however appears to suffer from the sociologist's fallacy.
 
-## Rent Control
-
-Rent control does a poor job at targeting benefits to those who need them. Residents of rent-controlled units are less likely to move, meaning they often continue to live in houses that don't properly fit their needs. Rent control and rent stabilization policies also reduce the available supply of housing, which generally leads to higher rents in the uncontrolled market. There are also significant fiscal costs associated with implementing rent control and no consistent relationship between rent control and the prevalence of homelessness. There is also no substantial evidence supporting the idea that rent control decreases economic or racial segregation<ref>https://www.nmhc.org/globalassets/knowledge-library/rent-control-literature-review-final2.pdf</ref>.
-
 ## Housing First
 
 The Finnish national program to reduce homelessness started in 2008 and renewed in 2012 built on housing first. This was a broad partnership between the national and municipal authorities and the non-profit sector, where Finland converted shelters into apartment units and constructed housing. Clients have a choice of programs, some of which ask for a commitment to sobriety, while others do not. Instead of receiving housing subsidies linked to the rent of the apartment, tenants pay for the entire rent using government-provided income sources, such as housing, child, disability, unemployment, student, and pension allowances, depending on the person's circumstances. If these don't suffice, social assistance fills the gap. To prevent conflict between tenants, tenants engage in "neighborhood work". This program led to homelessness largely ending<ref>https://0x0.la/u/w4UVmBP.pdf</ref>. While the Finnish housing interventions cost money, they save money in terms of the services needed by one person. Finland has a very low homeless population because they give people houses first as opposed to expecting people to sort their problems out before getting a home. Rents are paid for by the government, although the tenants can pay a portion depending on their income. Moreover, on top of this, to drive down housing costs, Finland has increased the supply of affordable rental housing to counter housing shortages<ref>https://www.weforum.org/agenda/2018/02/how-finland-solved-homelessness/</ref>.
 
 Medicine Hat practiced housing first and became the first city in Canada to end chronic homelessness<ref>https://community.solutions/case-studies/medicine-hat-becomes-first-city-in-canada-to-end-chronic-homelessness/</ref>, although it lasted only 5 months. As of 2022, the number of people chronically rose to 19<ref>https://www.cbc.ca/news/canada/calgary/homeless-medicine-hat-point-in-time-count-1.6600717</ref>.
 
-## Housing Regulation
-
-Housing regulation is a significant contributor to high house prices<ref>https://www.nber.org/system/files/working_papers/w10124/w10124.pdf</ref><ref>https://www.nahb.org/blog/2021/05/regulatory-costs-add-a-whopping-93870-to-new-home-prices/</ref><ref>https://www.vtpi.org/park-hou.pdf</ref>.
-
 ## Inheritance Taxation
 
 Inheritance taxation can reduce wealth inequality. It has been argued that it leads to businesses, particularly small businesses, going bankrupt due to inheritances following taxation being insufficient to continue a business. However, heirs are generally poorer at managing businesses so inheritance taxation can help reduce skills-capital mismatch<ref>https://www.oecd-ilibrary.org/taxation/inheritance-taxation-in-oecd-countries_6315055c-en</ref>.
-
-## Zoning
-
-In most places, housing costs are close to the marginal physical costs of new construction, meaning that physical costs in most cases have little to do with relatively high prices. Zoning has instead been found to be consistently associated with decreased affordability<ref>https://www.nber.org/system/files/working_papers/w8835/w8835.pdf</ref><ref>https://www.cato.org/policy-analysis/zoning-land-use-planning-housing-affordability</ref>.
 
 ## Unions
 
