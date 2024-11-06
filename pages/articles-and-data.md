@@ -73,6 +73,7 @@ permalink: /articles-and-data/
 * [The Barstool Right: Toward a Principled Laddishness](https://www.waltbismarck.com/p/the-barstool-right)
 * [I Shan't Shut Up About Slave Morality: It's good to be strong! Boo to Analytic Philosophy! I hate utils!](https://www.waltbismarck.com/p/i-shant-shut-up-about-slave-morality)
 * [The Best Revenge is Living Well](https://bradalonius.substack.com/p/the-best-revenge-is-living-well?utm_source=cross-post&publication_id=820418&post_id=150443230&utm_campaign=2294090&isFreemail=true&r=4ep0tc&triedRedirect=true&utm_medium=email)
+* [https://www.richardhanania.com/p/the-autism-horseshoe The Autism Horseshoe]
 
 ## Other
 
