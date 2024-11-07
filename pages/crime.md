@@ -62,11 +62,11 @@ The legalization of marijuana does not result in increased adolescent marijuana 
 
 Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments<ref>Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: What has been demonstrated? A systematic literature review. Drug and Alcohol Dependence, 145, 48–68. https://doi.org/10.1016/j.drugalcdep.2014.10.012</ref><ref>Ng, J., Sutherland, C., & Kolber, M. R. (2017, November 1). Does evidence support supervised injection sites? PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/</ref>. Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained<ref>Bayoumi, A. M., & Zaric, G. S. (2008). The cost-effectiveness of Vancouver’s supervised injection facility. Canadian Medical Association Journal, 179(11), 1143–1151. https://doi.org/10.1503/cmaj.080808</ref>.
 
-## =======================================RESEARCHTOADD=======================================
-
 ## Guns
 
 ### Homicide
+
+**Moar guns = moar homicides**
 
 In high-income countries with more firearms, both men and women are at higher risk of homicide, particularly firearm homicide<ref>https://files.catbox.moe/td3g80.pdf</ref>.
 
@@ -82,6 +82,8 @@ Across developed countries, where guns are more available there are more homicid
 
 ### Suicide
 
+**Moar guns = Moar suicides**
+
 Homes in the US with and without firearms have no differences in mental health, substance dependence, abuse, suicidal ideation, and suicide planning. Having made a suicide attempt however is more common in households with firearms<ref>https://injuryprevention.bmj.com/content/15/3/183.short</ref>.
 
 There is an association between gun ownership and overall risk of suicide, with the risk highest immediately after the purchase of a handgun. This suggests that some firearms are specifically used for the purpose of committing suicide<ref>https://nap.nationalacademies.org/read/10881/chapter/9</ref>.
@@ -90,9 +92,13 @@ Changes in a household's gun ownership over time are associated with significant
 
 ### Economic Cost
 
+**Guns have health costs**
+
 Firearm injuries in the US have an economic cost between hundreds of millions per year to tens of billions per year<ref>https://www.childrenssafetynetwork.org/sites/default/files/TheCostofGunViolence.pdf</ref><ref>https://www.sciencedirect.com/science/article/abs/pii/S0039606014000609</ref><ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2017.303684</ref>.
 
 ### General Strictness
+
+**Gun control reduces deaths**
 
 Stand-your-ground laws are at least in some contexts associated with increases in violence<ref>https://ajph.aphapublications.org/doi/full/10.2105/AJPH.2020.306101</ref>.
 
