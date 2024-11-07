@@ -371,8 +371,6 @@ Contra Kaczynski, based
 
 The British industrial revolution passed through a two-stage evolution of inequality. In the first half of the 19th century, wages stagnated while productivity and profit expanded. In the middle of the 19th century, real wages began to grow in line with productivity. Technological progress appears to be the prime mover behind the industrial revolution, which required capital accumulation. The rise in profits financed the necessary capital accumulation to achieve this, and once accumulation caught up with the requirements of technology wages rose in line with productivity<ref>https://ideas.repec.org/p/oxf/wpaper/315.html</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
 ## References
 
 <ol id="source-list"></ol>
