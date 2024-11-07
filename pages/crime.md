@@ -40,21 +40,29 @@ Predictors of Crime:
 - **Poverty/Inequality -** Both poverty and income inequality are associated with violent crime, with homicide and assault showing stronger associations than rape and robbery<ref>Sci-HuB | Poverty, Income Inequality, and Violent Crime: A Meta-Analysis of Recent Aggregate Data Studies. Criminal Justice Review, 18(2), 182–202 | 10.1177/073401689301800203. (n.d.). https://sci-hub.ru/https://doi.org/10.1177/073401689301800203</ref>. Poverty, social exclusion, wage and income inequality, cultural and family background, level of education, age, and sex contribute to violent crime<ref>Buonanno, P. (2003). The Socioeconomic Determinants of Crime. A Review of the literature. ideas.repec.org. https://ideas.repec.org/p/mib/wpaper/63.html</ref>. Higher social spending is associated with significantly lower crime, particularly homicide. This suggests that poverty itself is in fact an important predictor of criminality<ref>https://www.jstor.org/stable/3097192</ref><ref>https://www.sciencedirect.com/science/article/pii/S0047235220300623#:~:text=The%20welfare%20state%20suppresses%20crime,have%20any%20effect%20on%20homicide.</ref><ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/coep.12522</ref><ref>https://bmjopen.bmj.com/content/bmjopen/7/10/e016379.full.pdf</ref>.
 - **Racial Heterogeneity -** Racial heterogeneity, poverty, and family disruption are strong and stable predictors of crime, while variables related to the use of the criminal justice system were weak predictors. Social disorganization and resource/economic deprivation theories received strong empirical support, while deterrence/rational choice and subcultural theories received weak support<ref>Sci-Hub | Assessing Macro-Level Predictors and Theories of Crime: A Meta-Analysis. Crime and Justice, 32, 373–450 | 10.1086/655357. (n.d.). https://sci-hub.ru/https://doi.org/10.1086/655357</ref>.
 
-## =======================================RESEARCHTOADD=======================================
+## Drug Policy
 
-## Drug Policy and Crime
+### Effect on Crime
+
+**Enforcement increases crime, helps cartels**
 
 Drug-related and gang-related homicides, as well as robberies, in states bordering Mexico with medical marijuana laws decreased following the passage of such laws. There was a decrease in the amount of cocaine seized and an increase in the price of cocaine, suggesting that such laws cripple drug-trafficking organizations who rely on revenue from marijuana<ref>Gavrilova, E., Kamada, T., & Zoutman, F. T. (2015, January 19). Is legal pot crippling Mexican drug trafficking organizations? The effect of medical marijuana laws on US crime. https://openaccess.nhh.no/nhh-xmlui/handle/11250/274521</ref>.
 
 Increasing drug law enforcement leads to higher gun violence and high homicide rates, and the disruption of drug markets increases violence without decreasing drug supply<ref>Werb, D., Rowell, G., Guyatt, G., Kerr, T., Montaner, J., & Wood, E. (2011). Effect of drug law enforcement on drug market violence: A systematic review. International Journal of Drug Policy, 22(2), 87–94. https://doi.org/10.1016/j.drugpo.2011.02.002</ref>.
 
-## Drug Policy and Drug Use
+### Effect on Drug Use
+
+**Somewhat positive effect**
 
 The legalization of marijuana does not result in increased adolescent marijuana usage<ref>Choo, E. K., Benz, M., Zaller, N., Warren, O., Rising, K. L., & McConnell, K. J. (2014). The impact of state medical marijuana legislation on adolescent marijuana use. Journal of Adolescent Health, 55(2), 160–166. https://doi.org/10.1016/j.jadohealth.2014.02.018</ref><ref>Sci-Hub | Medical Marijuana Laws and Teen Marijuana Use | 10.1093/Aler/AHV002. (n.d.). https://sci-hub.usualwant.com/10.1093/aler/ahv002</ref>, although it may slightly increase general marijuana usage<ref>Zellers, S. M., Ross, J. M., Saunders, G. R. B., Ellingson, J. M., Anderson, J. E., Corley, R. P., Iacono, W., Hewitt, J. K., Hopfer, C. J., McGue, M. K., & Vrieze, S. (2022). Impacts of recreational cannabis legalization on cannabis use: a longitudinal discordant twin study. Addiction, 118(1), 110–118. https://doi.org/10.1111/add.16016</ref>.
 
-## Supervised Injection Sites
+### Supervised Injection Sites
+
+**Based**
 
 Supervised injection sites reduce overdose mortality, reduce ambulance calls for treating overdoses, and decrease HIV infections, without increasing drug injection, trafficking, or crime in the surrounding environments<ref>Potier, C., Laprévote, V., Dubois-Arber, F., Cottencin, O., & Rolland, B. (2014). Supervised injection services: What has been demonstrated? A systematic literature review. Drug and Alcohol Dependence, 145, 48–68. https://doi.org/10.1016/j.drugalcdep.2014.10.012</ref><ref>Ng, J., Sutherland, C., & Kolber, M. R. (2017, November 1). Does evidence support supervised injection sites? PubMed Central (PMC). https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5685449/</ref>. Decreased needle sharing and better health services at safe injection sites resulted in Vancouver's supervised injection facility saving more than $20 million and 1070 life years gained<ref>Bayoumi, A. M., & Zaric, G. S. (2008). The cost-effectiveness of Vancouver’s supervised injection facility. Canadian Medical Association Journal, 179(11), 1143–1151. https://doi.org/10.1503/cmaj.080808</ref>.
+
+## =======================================RESEARCHTOADD=======================================
 
 ## Guns
 
