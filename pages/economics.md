@@ -286,8 +286,6 @@ Facts about public opinion:
 - Natives tend to support redistribution less when the share of immigrants in their resident region is higher. This effect is driven by areas with large welfare states and by centrist or rightist respondents<ref>https://docs.iza.org/dp12130.pdf</ref>.
 - Exposure to refugee arrivals induces sizable and lasting increases in natives' hostility toward refugees and immigrants and support for restrictive asylum and immigration policies<ref>https://sci-hub.ru/https://doi.org/10.1017/S0003055418000813</ref>. Similarly research in Australia has suggested that Australians living in electoral districts with higher percentages of non-white immigrants are more likely to want lower immigrant numbers than those living in districts with fewer non-white immigrants<ref>https://www.tandfonline.com/doi/abs/10.1080/10361146.2018.1450357</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
 ## Innovation
 
 Innovation primarily comes from universities and federal laboratories, and is primarily collaborative<ref>https://itif.org/files/Where_do_innovations_come_from.pdf</ref><ref>https://www.nejm.org/doi/full/10.1056/nejmsa1008268</ref>.
@@ -296,67 +294,57 @@ Patent rights have a positive effect on innovation<ref>https://0x0.la/u/K9fgvb6.
 
 ## Poverty
 
-Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>.
+- **Effect on Fertility -** Winners of lotteries in the 1800s, although having slightly more children than non-winners, did not send them to school more. Sons of winners had no better outcomes in terms of education, income, or literacy<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5436311/</ref>. Additionally, a $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>. This suggests that income can have a positive effect on fertility.
 
 ## Regulation
 
-Low regulation and pro-market attitudes have a positive effect on life satisfaction<ref>https://sci-hub.se/10.1080/13504851.2012.762709</ref>.
+Regulation cringe
 
-Regulation creates significant costs to the economy<ref>https://fee.org/articles/the-poverty-of-regulation/</ref><ref>https://www.mercatus.org/publications/regulation/cumulative-cost-regulations</ref>.
-
-Regulation is associated with an increased poverty rate<ref>https://www.mercatus.org/publications/regulation/regulation-and-poverty</ref>.
-
-Regulations promote higher consumer prices, which have a disproportionately negative effect on low-income households<ref>https://link.springer.com/article/10.1007/s11127-017-0479-z</ref>.
-
-Regulations tend to have regressive effects on low-wage workers, as even if their wages do not directly decrease due to regulation, their wages fall relative to those of managers and accountants in regulated industries<ref>https://link.springer.com/article/10.1007/s11127-018-0517-5</ref>.
-
-More-regulated industries experience fewer new firm births and slower employment growth. Firms may even successfully lobby government officials to increase regulations to raise their smaller rivals' costs. In fact, regulations inhibit employment growth in small firms more than in large firms<ref>https://www.mercatus.org/system/files/Bailey-Regulation-Entrepreneurship.pdf</ref>.
-
-An increase in regulatory restrictions on a particular industry is associated with a reduction in the total number of small firms within that industry, without any association with the number of large firms in that industry<ref>https://www.researchgate.net/publication/325330609_Regulation_Entrepreneurship_and_Firm_Size</ref>.
-
-Regulatory growth increases operating costs per unit of output<ref>https://www.mercatus.org/system/files/fullenbaum-regulatory-growth-mercatus-working-paper-v1.pdf</ref>.
-
-Around the world, stricter regulation tends to increase unemployment. Tight hiring and firing rules and military conscription most clearly appear to have adverse effects<ref>https://www.sciencedirect.com/science/article/pii/S0147596708000772</ref>.
-
-Anticompetitive business regulations such as price controls and administrative obstacles to starting a new business appear to lower labor force participation and employment rates<ref>https://www.sciencedirect.com/science/article/abs/pii/S0148619508000337</ref>.
-
-There is a weak but positive effect of financial liberalization on growth on average<ref>https://www.sciencedirect.com/science/article/abs/pii/S0261560612002033</ref>.
-
-## Poverty
-
-A $100,000 increase in housing wealth among homeowners causes a 16-18% increase in the probability of having a child<ref>https://sci-hub.ru/https://doi.org/10.1162/REST_a_00266</ref>.
+- **Economic Growth: Decreased -** Regulation creates significant costs to the economy<ref>https://fee.org/articles/the-poverty-of-regulation/</ref><ref>https://www.mercatus.org/publications/regulation/cumulative-cost-regulations</ref>. Regulatory growth increases operating costs per unit of output<ref>https://www.mercatus.org/system/files/fullenbaum-regulatory-growth-mercatus-working-paper-v1.pdf</ref>. More-regulated industries experience fewer new firm births and slower employment growth. Firms may even successfully lobby government officials to increase regulations to raise their smaller rivals' costs. In fact, regulations inhibit employment growth in small firms more than in large firms<ref>https://www.mercatus.org/system/files/Bailey-Regulation-Entrepreneurship.pdf</ref>. An increase in regulatory restrictions on a particular industry is associated with a reduction in the total number of small firms within that industry, without any association with the number of large firms in that industry<ref>https://www.researchgate.net/publication/325330609_Regulation_Entrepreneurship_and_Firm_Size</ref>. There is a weak but positive effect of financial liberalization on growth on average<ref>https://www.sciencedirect.com/science/article/abs/pii/S0261560612002033</ref>.
+- **Poverty: Increased -** Regulation is associated with an increased poverty rate<ref>https://www.mercatus.org/publications/regulation/regulation-and-poverty</ref>. Regulations promote higher consumer prices, which have a disproportionately negative effect on low-income households<ref>https://link.springer.com/article/10.1007/s11127-017-0479-z</ref>. Regulations tend to have regressive effects on low-wage workers, as even if their wages do not directly decrease due to regulation, their wages fall relative to those of managers and accountants in regulated industries<ref>https://link.springer.com/article/10.1007/s11127-018-0517-5</ref>.
+- **Employment: Decreased -** Around the world, stricter regulation tends to increase unemployment. Tight hiring and firing rules and military conscription most clearly appear to have adverse effects<ref>https://www.sciencedirect.com/science/article/pii/S0147596708000772</ref>. Anticompetitive business regulations such as price controls and administrative obstacles to starting a new business appear to lower labor force participation and employment rates<ref>https://www.sciencedirect.com/science/article/abs/pii/S0148619508000337</ref>.
+- **Life Satisfaction: Decreased -** Low regulation and pro-market attitudes have a positive effect on life satisfaction<ref>https://sci-hub.se/10.1080/13504851.2012.762709</ref>.
 
 ## Big Government
 
-Fiscal policy or public spending has a sizable negative effect on profits and business investment<ref>https://www.aeaweb.org/articles?id=10.1257/00028280260136255</ref>.
+Big government bad.
 
-There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95<ref>https://www.ifn.se/Wfiles/wp/wp503.pdf</ref>.
+- **Economic Growth: Negative -** Government size negatively correlates with growth when controlling for economic freedom and globalization<ref>https://link.springer.com/article/10.1007/s11127-009-9484-1</ref>. Fiscal policy or public spending has a sizable negative effect on profits and business investment<ref>https://www.aeaweb.org/articles?id=10.1257/00028280260136255</ref>. There is a robust negative effect of government spending and taxation on economic growth in rich countries, based on a sample during the period of 1970-95<ref>https://www.ifn.se/Wfiles/wp/wp503.pdf</ref>.
 
-Government size negatively correlates with growth when controlling for economic freedom and globalization<ref>https://link.springer.com/article/10.1007/s11127-009-9484-1</ref>.
+## Housing
 
-## Healthcare
+### Housing First
 
-Veterans affairs healthcare generally performs similarly or better than non veterans affairs healthcare<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215146/</ref>.
-
-Longer healthcare wait times are associated with greater risk of mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/</ref><ref>https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf</ref><ref>https://jamanetwork.com/journals/jama/fullarticle/2664460</ref>.
-
-Public healthcare in low and middle-income countries was less efficient than private healthcare, but private healthcare had worse patient outcomes and more frequently violated medical standards of practice<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378609/</ref>.
-
-The US spends far more on healthcare than other high-income countries, but their quality of care is worse notably in terms of mortality amenable to health. Universality appears to be the best way to improve healthcare, although there is diversity in how that is achieved<ref>https://interactives.commonwealthfund.org/2017/july/mirror-mirror/</ref>.
-
-Single-payer healthcare financing in the US has been found in the majority of studies to amount to a net savings in the long-run<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013</ref>.
-
-Direct government funding is more important in the development of the most innovative new drugs, than it is for standard drugs. Government funding has played an indirect role by funding basic underlying research that is built on in almost half of the drugs approved and in almost 2/3rds of priority-review drugs<ref>https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2009.0917</ref>.
-
-US pharmaceutical innovation is not exceptionally good compared to other countries as a proportion of its GDP and many countries with drug price regulation are significant contributors to pharmaceutical innovation<ref>https://ajph.aphapublications.org/doi/10.2105/AJPH.2009.178491</ref>.
-
-Lack of health insurance is associated with mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/</ref>. Numerous studies have estimates that tens of thousands of deaths in the US are due to a lack of health insurance<ref>https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/</ref><ref>https://www.cbpp.org/sites/default/files/atoms/files/11-6-19health.pdf</ref>, although Kronick (2009) finds that there is no relationship between insurance and mortality risk after adjusting for demographic, health status, and health behavior characteristics<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739025/</ref>. This study however appears to suffer from the sociologist's fallacy.
-
-## Housing First
+**Based - Save money, are effective in reducing homelessness**
 
 The Finnish national program to reduce homelessness started in 2008 and renewed in 2012 built on housing first. This was a broad partnership between the national and municipal authorities and the non-profit sector, where Finland converted shelters into apartment units and constructed housing. Clients have a choice of programs, some of which ask for a commitment to sobriety, while others do not. Instead of receiving housing subsidies linked to the rent of the apartment, tenants pay for the entire rent using government-provided income sources, such as housing, child, disability, unemployment, student, and pension allowances, depending on the person's circumstances. If these don't suffice, social assistance fills the gap. To prevent conflict between tenants, tenants engage in "neighborhood work". This program led to homelessness largely ending<ref>https://0x0.la/u/w4UVmBP.pdf</ref>. While the Finnish housing interventions cost money, they save money in terms of the services needed by one person. Finland has a very low homeless population because they give people houses first as opposed to expecting people to sort their problems out before getting a home. Rents are paid for by the government, although the tenants can pay a portion depending on their income. Moreover, on top of this, to drive down housing costs, Finland has increased the supply of affordable rental housing to counter housing shortages<ref>https://www.weforum.org/agenda/2018/02/how-finland-solved-homelessness/</ref>.
 
 Medicine Hat practiced housing first and became the first city in Canada to end chronic homelessness<ref>https://community.solutions/case-studies/medicine-hat-becomes-first-city-in-canada-to-end-chronic-homelessness/</ref>, although it lasted only 5 months. As of 2022, the number of people chronically rose to 19<ref>https://www.cbc.ca/news/canada/calgary/homeless-medicine-hat-point-in-time-count-1.6600717</ref>.
+
+## Trade and Globalization
+
+**Based**
+
+While there is publication bias in the literature, even correcting for publication bias economic globalization has a positive effect on economic growth, although this is primarily driven by trade globalization. Financial globalization may have zero effect<ref>https://onlinelibrary.wiley.com/doi/10.1111/twec.13235</ref>. International trade regulation can create jobs in the sectors it protects or promotes, but almost always at the expense of destroying a roughly equivalent number of jobs elsewhere in the economy<ref>https://wol.iza.org/articles/international-trade-regulation-and-job-creation</ref>.
+
+## Healthcare
+
+**Universality Based:**
+- Veterans affairs healthcare generally performs similarly or better than non veterans affairs healthcare<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5215146/</ref>.
+- Public healthcare in low and middle-income countries was less efficient than private healthcare, but private healthcare had worse patient outcomes and more frequently violated medical standards of practice<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3378609/</ref>.
+- The US spends far more on healthcare than other high-income countries, but their quality of care is worse notably in terms of mortality amenable to health. Universality appears to be the best way to improve healthcare, although there is diversity in how that is achieved<ref>https://interactives.commonwealthfund.org/2017/july/mirror-mirror/</ref>.
+- Single-payer healthcare financing in the US has been found in the majority of studies to amount to a net savings in the long-run<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1003013</ref>.
+- Lack of health insurance is associated with mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2775760/</ref>. Numerous studies have estimates that tens of thousands of deaths in the US are due to a lack of health insurance<ref>https://news.harvard.edu/gazette/story/2009/09/new-study-finds-45000-deaths-annually-linked-to-lack-of-health-coverage/</ref><ref>https://www.cbpp.org/sites/default/files/atoms/files/11-6-19health.pdf</ref>, although Kronick (2009) finds that there is no relationship between insurance and mortality risk after adjusting for demographic, health status, and health behavior characteristics<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2739025/</ref>. This study however appears to suffer from the sociologist's fallacy.
+
+**Drug Innovation - Not a reason for support non-universal healthcare**
+- Direct government funding is more important in the development of the most innovative new drugs, than it is for standard drugs. Government funding has played an indirect role by funding basic underlying research that is built on in almost half of the drugs approved and in almost 2/3rds of priority-review drugs<ref>https://www.healthaffairs.org/doi/full/10.1377/hlthaff.2009.0917</ref>.
+- US pharmaceutical innovation is not exceptionally good compared to other countries as a proportion of its GDP and many countries with drug price regulation are significant contributors to pharmaceutical innovation<ref>https://ajph.aphapublications.org/doi/10.2105/AJPH.2009.178491</ref>.
+
+**Reducing wait times is important**
+
+Longer healthcare wait times are associated with greater risk of mortality<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1955366/</ref><ref>https://www.fraserinstitute.org/sites/default/files/effect-of-wait-times-on-mortality-in-canada.pdf</ref><ref>https://jamanetwork.com/journals/jama/fullarticle/2664460</ref>.
+
+## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Inheritance Taxation
 
@@ -369,12 +357,6 @@ Unionization reduces aggregate poverty<ref>https://www.cepr.net/unions-the-best-
 Right to work laws make it illegal for a group of unionized workers to negotiate a contract that requires each employee who enjoys the benefits of the contract terms to pay their share of costs for negotiating and policing the contract. These result in decreased wages<ref>https://www.epi.org/publication/bp299/</ref>, and also increase economic inequality indirectly by lowering labor power resources<ref>https://www.journals.uchicago.edu/doi/10.1086/708067</ref>.
 
 Doucouliagos & Laroche (2003) conducted a meta-analysis and found that after controlling for differences between studies, a negative association was discovered between unions and productivity in the UK, while a positive relationship was found in the US<ref>https://library.fes.de/libalt/journals/swetsfulltext/17556769.pdf</ref>. An additional bootstrapped meta-analysis also found a positive relationship in the US<ref>https://www.researchgate.net/publication/227640784_What_Do_Unions_Do_to_Productivity_A_Meta-Analysis</ref>. A more recent meta-analysis also suggested that unions are not invariably harmful to productivity, although the impact may depend on a number of factors including the sectors and counties concerned, the time period investigated and institutional settings such as labor market regulation<ref>https://tuac.org/wp-content/uploads/2017/12/Recent-Meta-20Dec17.pdf</ref>.
-
-## Trade and Globalization
-
-While there is publication bias in the literature, even correcting for publication bias economic globalization has a positive effect on economic growth, although this is primarily driven by trade globalization. Financial globalization may have zero effect<ref>https://onlinelibrary.wiley.com/doi/10.1111/twec.13235</ref>.
-
-International trade regulation can create jobs in the sectors it protects or promotes, but almost always at the expense of destroying a roughly equivalent number of jobs elsewhere in the economy<ref>https://wol.iza.org/articles/international-trade-regulation-and-job-creation</ref>.
 
 ## Misc. Economics
 
