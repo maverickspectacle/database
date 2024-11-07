@@ -4,21 +4,28 @@ title: Crime
 permalink: /crime/
 ---
 
-## Private Prisons
+## Punishment Practices
+
+### Private Prisons
+
+Probably cringe
 
 Cost savings from private prisons are minimal to null, and quality of confinement is slightly better for publicly managed prisons, with slightly better skills training and slightly fewer inmate grievances<ref>Pratt, T. C., & Maahs, J. (1999). Are Private Prisons More Cost-Effective than Public Prisons? A Meta-Analysis of Evaluation Research Studies. Crime & Delinquency, 45(3), 358–371. https://doi.org/10.1177/0011128799045003004</ref><ref>Lundahl, B. W., Kunz, C., Brownell, C., Harris, N., & Van Vleet, R. (2009). Prison privatization. Research on Social Work Practice, 19(4), 383–394. https://doi.org/10.1177/1049731509331946</ref>. Private prison inmates tend to have higher recidivism<ref>Spivak, A. L., & Sharp, S. F. (2008). Inmate recidivism as a measure of private prison performance. Crime & Delinquency, 54(3), 482–508. https://doi.org/10.1177/0011128707307962</ref><ref>Duwe, G., & Clark, V. (2013). The effects of private prison confinement on offender recidivism. Criminal Justice Review, 38(3), 375–394. https://doi.org/10.1177/0734016813478823</ref>.
 
-## Rehabilitation
+### Rehabilitation
+
+Probably based
 
 Restorative justice programs are significantly more effective in terms of victim and offender satisfaction, restitution compliance, and recidivism, although these are tempered by self-selection bias inherent in restorative justice research<ref>Latimer, J., Dowden, C., & Muise, D. (2005). The Effectiveness of Restorative Justice Practices: A Meta-Analysis. The Prison Journal, 85(2), 127–144. https://doi.org/10.1177/0032885505276969</ref>.
 
-## Death Penalty
+### Death Penalty
 
-The consensus among criminologists is that the death penalty does not add any significant deterrent effect above that of long-term imprisonment<ref>Radelet, M. L., Ph. D., Lacock, T. L., Sheilah’s Fund, Tides Foundation, & Death Penalty Information Center. (2009). DO EXECUTIONS LOWER HOMICIDE RATES?: THE VIEWS OF LEADING CRIMINOLOGISTS. In Northwestern University, School of Law, THE JOURNAL OF CRIMINAL LAW & CRIMINOLOGY (Vol. 99, Issue 2, pp. 489–491). https://dpic-cdn.org/production/legacy/DeterrenceStudy2009.pdf</ref>.
+Gay and cringe
 
-Each death penalty inmate in the US is approximately $1.12 million (2015 USD) more than a general population inmate. This comes from more expensive living conditions, a much more extensive legal process, and increasing resistance to the death penalty from chemical manufacturers overseas<ref>The Death Penalty vs. Life Incarceration: A Financial Analysis. (n.d.). ResearchGate. https://www.researchgate.net/publication/324804378_The_Death_Penalty_vs_Life_Incarceration_A_Financial_Analysis</ref>.
+- **Deterrence: Null -** The consensus among criminologists is that the death penalty does not add any significant deterrent effect above that of long-term imprisonment<ref>Radelet, M. L., Ph. D., Lacock, T. L., Sheilah’s Fund, Tides Foundation, & Death Penalty Information Center. (2009). DO EXECUTIONS LOWER HOMICIDE RATES?: THE VIEWS OF LEADING CRIMINOLOGISTS. In Northwestern University, School of Law, THE JOURNAL OF CRIMINAL LAW & CRIMINOLOGY (Vol. 99, Issue 2, pp. 489–491). https://dpic-cdn.org/production/legacy/DeterrenceStudy2009.pdf</ref>. Empirical evidence also suggests that the death penalty has no deterrent effect on homicides<ref>Cochran, J. K., Chamlin, M. B., & Seth, M. (1994). DETERRENCE OR BRUTALIZATION? AN IMPACT ASSESSMENT OF OKLAHOMA’S RETURN TO CAPITAL PUNISHMENT*. Criminology, 32(1), 107–134. https://doi.org/10.1111/j.1745-9125.1994.tb01148.x</ref><ref>Zimring, F., Fagan, J., & Johnson, D. T. (n.d.). Executions, Deterrence and Homicide: A tale of two cities. Scholarship Archive. https://scholarship.law.columbia.edu/faculty_scholarship/1587/</ref>.
+- **Cost: High -** Each death penalty inmate in the US is approximately $1.12 million (2015 USD) more than a general population inmate. This comes from more expensive living conditions, a much more extensive legal process, and increasing resistance to the death penalty from chemical manufacturers overseas<ref>The Death Penalty vs. Life Incarceration: A Financial Analysis. (n.d.). ResearchGate. https://www.researchgate.net/publication/324804378_The_Death_Penalty_vs_Life_Incarceration_A_Financial_Analysis</ref>.
 
-The death penalty has no deterrent effect on homicides<ref>Cochran, J. K., Chamlin, M. B., & Seth, M. (1994). DETERRENCE OR BRUTALIZATION? AN IMPACT ASSESSMENT OF OKLAHOMA’S RETURN TO CAPITAL PUNISHMENT*. Criminology, 32(1), 107–134. https://doi.org/10.1111/j.1745-9125.1994.tb01148.x</ref><ref>Zimring, F., Fagan, J., & Johnson, D. T. (n.d.). Executions, Deterrence and Homicide: A tale of two cities. Scholarship Archive. https://scholarship.law.columbia.edu/faculty_scholarship/1587/</ref>.
+## =======================================RESEARCHTOADD=======================================
 
 ## Crime
 
