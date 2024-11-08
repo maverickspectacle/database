@@ -6,6 +6,8 @@ permalink: /psychology/
 
 ## Heritability
 
+Across a large number of traits analyzed, there was a mean 49% heritability of the traits among populations<ref>https://www.nature.com/articles/ng.3285</ref>.
+
 Heritability is a very misleading concept for several reasons. It is often assumed to be the amount of a trait that is due to genetics, but there is no measure of this. There are several limitations to the notion of heritability<ref>https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1400</ref>:
 
 * First, heritability looks at the proportion of population variance in a trait that can be explained by population differences in genetics. This means that heritability estimates can be very different for the same trait depending on the population examined. For example, in the case of a population with very little environmental variation, you will have a significantly higher heritability estimate for a trait compared with a population with very high environmental variation.
@@ -122,6 +124,8 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Mental Heath -** Religiousity and spirituality is associated with better mental health<ref>https://www.tandfonline.com/doi/full/10.1080/10508619.2020.1729570</ref>, lower depressive symptoms and less anxiety<ref>https://www.frontiersin.org/articles/10.3389/fmed.2022.877213/full</ref>, as well as increased life satisfaction<ref>https://www.researchgate.net/publication/364086091_A_Meta-Analysis_of_ReligionSpirituality_and_Life_Satisfaction</ref>.
 - **Sense of Purpose -** Conservative religiousity is associated with high levels of a sense of purpose in life<ref>https://journals.sagepub.com/doi/10.1177/009164718601400105</ref>. For socially connected individuals, a religious belief in itself has minimal impact on their sense of purpose in life. However, for those who are socially disconnected, being highly religious predicted greater levels of purpose in life<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12401</ref>. Because though religion brings people social connection in many cases, controlling for it may only tell the effect of theistic belief in sense of purpose and not the broader effect of religiousity in general. A sense of meaning in life is a crucial element of religious coping and psychological well-being<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580713/</ref>.
 - **Crime -** Religion is negatively associated with crime on both an individual level<ref>https://journals.sagepub.com/doi/abs/10.1177/0022427801038001001#:~:text=The%20results%20of%20the%20meta,effect%20on%20individuals'%20criminal%20behavior</ref> and a societal level<ref>https://www.sciencedirect.com/science/article/pii/0191886996000232</ref>, as well as being negatively associated with involvement in delinquent behaviors<ref>https://scholarlycommons.obu.edu/articles/131/</ref>.
+- **Intelligence -** There is a negative relationship between intelligence and religiosity. Possible reasons include that intelligent people are less likely to conform, that intelligent people tend to adopt an analytic rather than intuitive thinking, and that several functions such as compensatory control, self-regulation, self-enhancement, and secure attachment, are also conferred by intelligence<ref>https://journals.sagepub.com/doi/10.1177/1088868313497266</ref>. Scientists are significantly less likely to believe in the existence of a god compared to the general public<ref>https://www.pewforum.org/2009/11/05/scientists-and-belief/</ref>.
+- **Human Rights -** Most human rights practices are worse in societies where citizens are more religious and that muslim majority nations provide less respect for almost all human rights<ref>https://muse.jhu.edu/article/730069/pdfimage</ref>.
 
 ## Autism
 
@@ -145,7 +149,7 @@ Interesting factoids about autism:
 
 ## Self Control
 
-Low self-control in childhood is associated with unemployment in adulthood, even after adjusting for intelligence, social class, and gender<ref>https://journals.sagepub.com/doi/10.1177/0956797615569001</ref>. It is also associated with lower social responsibility<ref>https://psycnet.apa.org/record/1962-04824-001</ref>, more disciplinary referrals<ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>, in addition to differences in physical health, substance dependence, personal finances, and criminal offending outcomes<ref>https://www.pnas.org/doi/10.1073/pnas.1010076108</ref>. Assignment to different schooling opportunities is not significantly associated with child time preferences<ref>https://www.sciencedirect.com/science/article/pii/S004727271930091X</ref>.
+Self control has a 60% heritability<ref>https://www.sciencedirect.com/science/article/pii/S0149763418307905</ref>. Low self-control in childhood is associated with unemployment in adulthood, even after adjusting for intelligence, social class, and gender<ref>https://journals.sagepub.com/doi/10.1177/0956797615569001</ref>. It is also associated with lower social responsibility<ref>https://psycnet.apa.org/record/1962-04824-001</ref>, more disciplinary referrals<ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>, in addition to differences in physical health, substance dependence, personal finances, and criminal offending outcomes<ref>https://www.pnas.org/doi/10.1073/pnas.1010076108</ref>. Assignment to different schooling opportunities is not significantly associated with child time preferences<ref>https://www.sciencedirect.com/science/article/pii/S004727271930091X</ref>.
 
 ## Suicide
 
@@ -175,37 +179,17 @@ Anomaly (2018) defended the concept of eugenics or genetic enhancement and advoc
 
 Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations<ref>https://pubmed.ncbi.nlm.nih.gov/16513986/</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
+## Weight Loss
 
-## MAOA Gene
+Obesity is associated with higher all-cause mortality<ref>https://jamanetwork.com/journals/jama/fullarticle/1555137</ref>. Obesity has a substantial heritability, although there is significant variability in the heritability estimate across studies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355836/</ref>. Reduced energy diets and weight loss medications result in some weight loss outcomes, while advice-only and exercise-alone had minimal effects<ref>https://pubmed.ncbi.nlm.nih.gov/17904936/</ref>.
 
-The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
+## Delay Gratification
 
-## Biorealism
+Contrary to expert opinion based on polling, delay of gratification times have been increasing over the past 50 years, with a fifth of a standard increase in ability per decade. These correspond to secular gains in IQ seen, suggesting a possible common cause<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289620300295</ref>.
 
-Across a large number of traits analyzed, there was a mean 49% heritability of the traits among populations<ref>https://www.nature.com/articles/ng.3285</ref>.
+## Economic Outcomes
 
-Contrary to expert opinion based on polling, delay of gratification times have been increasing over the past 50 years, with a fifth of a standard increase in ability per decade<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2020.101451</ref>.
-
-Individuals carrying the S allele of the serotonin transporter functional polymorphism 5-HTTLPR produce significantly less 5-HTT mRNA and protein, which results in higher concentrations of serotonin in the synaptic cleft relative to individuals carrying the L allele. Evidence suggests that individuals carrying the S allele tend to have higher negative emotion. There is evidence that collectivistic cultures are significantly more likely to comprise individuals carrying the S allele of the 5-HTTLPR<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842692/</ref>.
-
-Whites tend to have lower job status and income when the level of general intelligence is taken into account<ref>https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g</ref>.
-
-Self control has a 60% heritability<ref>https://www.sciencedirect.com/science/article/pii/S0149763418307905</ref>.
-
-Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
-
-There exists genetic influences which explain the overlap between low IQ and antisocial behavior in young children<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2254220/</ref>.
-
-Frisell et al. (2012) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%<ref>https://link.springer.com/article/10.1007/s10519-011-9483-0</ref>.
-
-Black children tend to have less delay of gratification than white children<ref>https://www.tandfonline.com/doi/abs/10.1080/00224545.1974.9923126</ref><ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>. A one standard deviation increase in the discount rate is associated with an increase in the number of disciplinary referrals a child has the following school year by 14%.
-
-## Biology of Economics
-
-Savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time<ref>https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents</ref>.
-
-Lifetime income is 24% heritable in women and 54% heritable in men<ref>https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264</ref>.
+Savings propensities are about 33% heritable, and individuals are born with a persistent genetic predisposition to a specific savings behavior. Parenting has some effect on savings among younger individuals but this effect decays over time<ref>https://www.jstor.org/stable/10.1086/679284#metadata_info_tab_contents</ref>. Lifetime income is 24% heritable in women and 54% heritable in men<ref>https://sci-hub.ru/https://doi.org/10.2139/ssrn.2253264</ref>.
 
 ## Belief
 
@@ -217,31 +201,28 @@ A 2004 meta-analysis found that there is a sleeper effect, where a discounting p
 
 Confirmation bias is the tendency to seek or interpret evidence in ways that are partial to existing beliefs, expectations, or a hypothesis in hand<ref>https://journals.sagepub.com/doi/10.1037/1089-2680.2.2.175</ref>. This has been shown in the case of the evaluation of political arguments, where attitudinally congruent arguments are uncritically supported and evaluated as stronger than attitudinally incongruent arguments, which are counter-argued against<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/j.1540-5907.2006.00214.x</ref>. The latter can be referred to as a disconfirmation bias. This can lead to attitude polarization. Whether a person's prior belief is accompanied by emotional conviction affects the magnitude and form of the disconfirmation bias<ref>https://psycnet.apa.org/record/1996-01782-001</ref>.
 
-## Religion
+## Biorealism
 
-There is a negative relationship between intelligence and religiosity. Possible reasons include that intelligent people are less likely to conform, that intelligent people tend to adopt an analytic rather than intuitive thinking, and that several functions such as compensatory control, self-regulation, self-enhancement, and secure attachment, are also conferred by intelligence<ref>https://journals.sagepub.com/doi/10.1177/1088868313497266</ref>.
-
-Most human rights practices are worse in societies where citizens are more religious and that muslim majority nations provide less respect for almost all human rights<ref>https://muse.jhu.edu/article/730069/pdfimage</ref>.
-
-Scientists are significantly less likely to believe in the existence of a god compared to the general public<ref>https://www.pewforum.org/2009/11/05/scientists-and-belief/</ref>.
+Misc biorealism factoids:
+- Parental incarceration generally has positive effects on the child through the removal of a negative role model<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3034539</ref><ref>https://www.aeaweb.org/articles?id=10.1257/aer.20190415&from=f</ref>.
+- There exists genetic influences which explain the overlap between low IQ and antisocial behavior in young children<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2254220/</ref>.
+- Frisell et al. (2012) found varying estimates for the heritability of violent crime, with models producing a range from 20-55%<ref>https://link.springer.com/article/10.1007/s10519-011-9483-0</ref>.
 
 ## Journalists
 
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
-## Weight Loss
+## —————————————————————RESEARCHTOADD—————————————————————
 
-Obesity is associated with higher all-cause mortality<ref>https://jamanetwork.com/journals/jama/fullarticle/1555137</ref>.
+## Race
 
-Obesity has a substantial heritability, although there is significant variability in the heritability estimate across studies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3355836/</ref>.
+The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
 
-Reduced energy diets and weight loss medications result in some weight loss outcomes, while advice-only and exercise-alone had minimal effects<ref>https://pubmed.ncbi.nlm.nih.gov/17904936/</ref>.
+Individuals carrying the S allele of the serotonin transporter functional polymorphism 5-HTTLPR produce significantly less 5-HTT mRNA and protein, which results in higher concentrations of serotonin in the synaptic cleft relative to individuals carrying the L allele. Evidence suggests that individuals carrying the S allele tend to have higher negative emotion. There is evidence that collectivistic cultures are significantly more likely to comprise individuals carrying the S allele of the 5-HTTLPR<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842692/</ref>.
 
-## Misc
+Whites tend to have lower job status and income when the level of general intelligence is taken into account<ref>https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g</ref>.
 
-Delay gratification times have been increasing over the past 50 years, corresponding to secular gains in IQ seen, suggesting a possible common cause<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289620300295</ref>.
-
-Richardson (2017) argues that GWAS correlations with cognitive measures between populations are inevitable and meaningless<ref>https://www.embopress.org/doi/full/10.15252/embr.201744140</ref>. First, there is already some cryptic but functionally irrelevant genetic stratification which can covary adventitiously with cognitive variation and social class. Second, the dependent variables of cognitive and educational ability reflect prior social stratification.
+Black children tend to have less delay of gratification than white children<ref>https://www.tandfonline.com/doi/abs/10.1080/00224545.1974.9923126</ref><ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>. A one standard deviation increase in the discount rate is associated with an increase in the number of disciplinary referrals a child has the following school year by 14%.
 
 ## References
 
