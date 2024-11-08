@@ -212,18 +212,6 @@ Misc biorealism factoids:
 
 Journalists generally prefer parties with more left-wing positions<ref>https://www.researchgate.net/publication/353756955_The_Left-liberal_Skew_of_Western_Media</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
-## Race
-
-The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
-
-Individuals carrying the S allele of the serotonin transporter functional polymorphism 5-HTTLPR produce significantly less 5-HTT mRNA and protein, which results in higher concentrations of serotonin in the synaptic cleft relative to individuals carrying the L allele. Evidence suggests that individuals carrying the S allele tend to have higher negative emotion. There is evidence that collectivistic cultures are significantly more likely to comprise individuals carrying the S allele of the 5-HTTLPR<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2842692/</ref>.
-
-Whites tend to have lower job status and income when the level of general intelligence is taken into account<ref>https://www.researchgate.net/publication/229357056_Occupation_and_income_related_to_psychometric_g</ref>.
-
-Black children tend to have less delay of gratification than white children<ref>https://www.tandfonline.com/doi/abs/10.1080/00224545.1974.9923126</ref><ref>https://ideas.repec.org/a/eee/pubeco/v95y2011i11p1377-1385.html</ref>. A one standard deviation increase in the discount rate is associated with an increase in the number of disciplinary referrals a child has the following school year by 14%.
-
 ## References
 
 <ol id="source-list"></ol>
