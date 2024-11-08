@@ -74,6 +74,7 @@ permalink: /articles-and-data/
 * [I Shan't Shut Up About Slave Morality: It's good to be strong! Boo to Analytic Philosophy! I hate utils!](https://www.waltbismarck.com/p/i-shant-shut-up-about-slave-morality)
 * [The Best Revenge is Living Well](https://bradalonius.substack.com/p/the-best-revenge-is-living-well?utm_source=cross-post&publication_id=820418&post_id=150443230&utm_campaign=2294090&isFreemail=true&r=4ep0tc&triedRedirect=true&utm_medium=email)
 * [https://www.richardhanania.com/p/the-autism-horseshoe The Autism Horseshoe]
+* [https://substack.com/home/post/p-150810515 Race in America and the Dork Right]
 
 ## Other
 
