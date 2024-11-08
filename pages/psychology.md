@@ -4,6 +4,14 @@ title: Psychology
 permalink: /psychology/
 ---
 
+## Heritability
+
+Heritability is a very misleading concept for several reasons. It is often assumed to be the amount of a trait that is due to genetics, but there is no measure of this. There are several limitations to the notion of heritability<ref>https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1400</ref>:
+
+* First, heritability looks at the proportion of population variance in a trait that can be explained by population differences in genetics. This means that heritability estimates can be very different for the same trait depending on the population examined. For example, in the case of a population with very little environmental variation, you will have a significantly higher heritability estimate for a trait compared with a population with very high environmental variation.
+* Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
+* Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
+
 ## Intelligence
 
 ### G Factor
@@ -106,6 +114,15 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Discrimination -** Compared to conservatives, moderates and liberals are much less accepting of discriminatory actions. Conservatives tend to value employers' decision rights while others value utilitarian concerns<ref>https://www.nber.org/papers/w30236#fromrss</ref>.
 - **Interracial Interactions -** White liberals but not white conservatives present less competence to black interaction partners than white ones, suggesting that well-intentioned liberal whites may draw on low-status/competence stereotypes to affiliate with minorities<ref>https://osf.io/preprints/psyarxiv/pv2ab</ref>.
 
+## Religious Belief
+
+**Correlates:**
+
+- **Suicide -** Religion overall plays a protective role in preventing suicide<ref>https://academic.oup.com/aje/article/155/5/413/171404</ref><ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131715</ref>. This can be seen in terms of both suicide attempts and completed suicides, although religion does not reduce suicidal ideation<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310534/#:~:text=Several%20studies%20have%20found%20lower,after%20adjusting%20for%20social%20support</ref>. This may be due to religion providing access to a supportive community, shaping a person’s beliefs about suicide, providing a source of hope and providing ways to interpret suffering.
+- **Mental Heath -** Religiousity and spirituality is associated with better mental health<ref>https://www.tandfonline.com/doi/full/10.1080/10508619.2020.1729570</ref>, lower depressive symptoms and less anxiety<ref>https://www.frontiersin.org/articles/10.3389/fmed.2022.877213/full</ref>, as well as increased life satisfaction<ref>https://www.researchgate.net/publication/364086091_A_Meta-Analysis_of_ReligionSpirituality_and_Life_Satisfaction</ref>.
+- **Sense of Purpose -** Conservative religiousity is associated with high levels of a sense of purpose in life<ref>https://journals.sagepub.com/doi/10.1177/009164718601400105</ref>. For socially connected individuals, a religious belief in itself has minimal impact on their sense of purpose in life. However, for those who are socially disconnected, being highly religious predicted greater levels of purpose in life<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12401</ref>. Because though religion brings people social connection in many cases, controlling for it may only tell the effect of theistic belief in sense of purpose and not the broader effect of religiousity in general. A sense of meaning in life is a crucial element of religious coping and psychological well-being<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580713/</ref>.
+- **Crime -** Religion is negatively associated with crime on both an individual level<ref>https://journals.sagepub.com/doi/abs/10.1177/0022427801038001001#:~:text=The%20results%20of%20the%20meta,effect%20on%20individuals'%20criminal%20behavior</ref> and a societal level<ref>https://www.sciencedirect.com/science/article/pii/0191886996000232</ref>, as well as being negatively associated with involvement in delinquent behaviors<ref>https://scholarlycommons.obu.edu/articles/131/</ref>.
+
 ## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Knowledge Retention
@@ -125,37 +142,11 @@ Interesting factoids about autism:
 * People with ASD, primarily males, have more hypersexual and paraphilic fantasies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/</ref>.
 * Individuals with ASD are less able to understand and infer other people's beliefs, intentions, and feelings, less likely to respond to the specific emotions of people in pain, less cognitively aware of the belief in, intention of and feeling for others, and have less immediate response to the special emotions of people in pain. People with ASD are as likely to immediately share and resonate with the emotions of other people, and are more likely to share or become affectively congruent with others' emotional states<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794557/</ref>.
 
-## Heritability
-
-Heritability is a very misleading concept for several reasons. It is often assumed to be the amount of a trait that is due to genetics, but there is no measure of this. There are several limitations to the notion of heritability<ref>https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1400</ref>:
-
-* First, heritability looks at the proportion of population variance in a trait that can be explained by population differences in genetics. This means that heritability estimates can be very different for the same trait depending on the population examined. For example, in the case of a population with very little environmental variation, you will have a significantly higher heritability estimate for a trait compared with a population with very high environmental variation.
-* Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
-* Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
-
 ## Personality
 
 Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness<ref>https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197</ref>.
 
 Academic performance correlates significantly with agreeableness, conscientiousness, and openness. Correlations between conscientiousness and academic performance were largely independent of intelligence. Conscientiousness is as strong of a predictor of tertiary academic performance as intelligence, after controlling for secondary academic performance<ref>https://sci-hub.se/https://doi.org/10.1037/a0014996</ref>.
-
-## Religious Belief
-
-### Religiosity and Suicide
-
-Religion overall plays a protective role in preventing suicide<ref>https://academic.oup.com/aje/article/155/5/413/171404</ref><ref>https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0131715</ref>. This can be seen in terms of both suicide attempts and completed suicides, although religion does not reduce suicidal ideation<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7310534/#:~:text=Several%20studies%20have%20found%20lower,after%20adjusting%20for%20social%20support</ref>. This may be due to religion providing access to a supportive community, shaping a person’s beliefs about suicide, providing a source of hope and providing ways to interpret suffering.
-
-### Religiosity and Mental Health
-
-Religiousity and spirituality is associated with better mental health<ref>https://www.tandfonline.com/doi/full/10.1080/10508619.2020.1729570</ref>, lower depressive symptoms and less anxiety<ref>https://www.frontiersin.org/articles/10.3389/fmed.2022.877213/full</ref>, as well as increased life satisfaction<ref>https://www.researchgate.net/publication/364086091_A_Meta-Analysis_of_ReligionSpirituality_and_Life_Satisfaction</ref>.
-
-### Religiosity and Sense of Purpose
-
-Conservative religiousity is associated with high levels of a sense of purpose in life<ref>https://journals.sagepub.com/doi/10.1177/009164718601400105</ref>. For socially connected individuals, a religious belief in itself has minimal impact on their sense of purpose in life. However, for those who are socially disconnected, being highly religious predicted greater levels of purpose in life<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12401</ref>. Because though religion brings people social connection in many cases, controlling for it may only tell the effect of theistic belief in sense of purpose and not the broader effect of religiousity in general. A sense of meaning in life is a crucial element of religious coping and psychological well-being<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580713/</ref>.
-
-### Religiosity and Crime
-
-Religion is negatively associated with crime on both an individual level<ref>https://journals.sagepub.com/doi/abs/10.1177/0022427801038001001#:~:text=The%20results%20of%20the%20meta,effect%20on%20individuals'%20criminal%20behavior</ref> and a societal level<ref>https://www.sciencedirect.com/science/article/pii/0191886996000232</ref>, as well as being negatively associated with involvement in delinquent behaviors<ref>https://scholarlycommons.obu.edu/articles/131/</ref>.
 
 ## Self Control
 
