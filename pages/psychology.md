@@ -4,40 +4,47 @@ title: Psychology
 permalink: /psychology/
 ---
 
-## Autism
+## Intelligence
 
-Interesting factoids about autism:
+### Correlates
 
-* Autistic people have particular morphological features which can strongly predict someone having autism<ref>https://pubmed.ncbi.nlm.nih.gov/21999758/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/20473590/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/22669539/</ref>.
-* Premature mortality is markedly increased in ASD owing to a multitude of medical conditions<ref>https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/premature-mortality-in-autism-spectrum-disorder/4C9260DB64DFC29AF945D32D1C15E8F2</ref>.
-* Neurotypical peers are less willing to interact with autistic people based on thin slice judgments. These do not change with increased exposure and occur across both children and adults<ref>https://www.nature.com/articles/srep40700#discussion</ref>. However, these biases disappear when impressions are based on conversational content lacking audio-visual cues. This suggests that style and not substance drives negative impressions of autistic people.
-* Children with autism have significantly higher levels of suicidal ideation and higher rates of suicide attempts<ref>https://www.sciencedirect.com/science/article/abs/pii/S1750946712000931</ref>.
-* Autism is highly heritable<ref>https://www.nature.com/articles/4001896</ref>.
-* People with autism display facial expressions less frequently, for a less amount of time, and are less likely to share facial expressions with others or mimic expressions. Their facial expressions are also lower in quality and less accurately judged. However, people with ASD do not express emotions less intensely nor is their reaction time slower in response to stimuli<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/aur.2037</ref>.
-* People with ASD, primarily males, have more hypersexual and paraphilic fantasies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/</ref>.
-* Individuals with ASD are less able to understand and infer other people's beliefs, intentions, and feelings, less likely to respond to the specific emotions of people in pain, less cognitively aware of the belief in, intention of and feeling for others, and have less immediate response to the special emotions of people in pain. People with ASD are as likely to immediately share and resonate with the emotions of other people, and are more likely to share or become affectively congruent with others' emotional states<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794557/</ref>.
+- **Crime -** Research suggests that intelligence is correlated with crime, most research suggesting independently of socio-economics status<ref>https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=2123&context=jclc</ref><ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-9125.1996.tb01220.x</ref><ref>https://www.sciencedirect.com/science/article/pii/S0191886911000912</ref>. This predictive validity of IQ persists in cross-state comparisons<ref>https://www.sciencedirect.com/science/article/pii/S0191886909005169</ref>. This relationship, however, is not perfectly linear. People who have very low intelligence have slightly lower criminality than people with fairly low intelligence, and people with very high intelligence have slightly higher criminality than people with fairly high intelligence<ref>https://www.sciencedirect.com/science/article/pii/S016028961500077X</ref><ref>https://clcjbooks.rutgers.edu/books/criminal-genius-a-portrait-of-high-iq-offenders/</ref>.
+- **Individual Income/Wealth -** There is a relationship between an individual’s intelligence level and their future income. People with higher intelligence levels tend to have higher incomes<ref>https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6fdb1364dc3e73c44441ba55a15f1b9bc49265a</ref><ref>https://ifstudies.org/blog/can-intelligence-predict-income</ref>. Importantly, however, this relationship does not appear to translate perfectly in terms of total wealth. While intelligence predicts higher income, it has a quadratic relationship with financial distress<ref>https://www.sciencedirect.com/science/article/pii/S0160289607000219</ref>. Therefore, it is not entirely clear how much net wealth is affected by intelligence. IQ is a better predictor of socioeconomic success than parental SES or grades<ref>https://pubmed.ncbi.nlm.nih.gov/11334871/</ref>. IQ and conscientiousness are also more important than SES for educational attainment<ref>https://pubmed.ncbi.nlm.nih.gov/11916378/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/11058498/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/29611892/</ref>.
+- **Educational Attainment -** Intelligence is a major predictor of school achievements, partially through more intelligent people having higher levels of motivation to succeed in school environments<ref>https://www.sciencedirect.com/science/article/pii/S0160289615001269</ref><ref>https://www.sciencedirect.com/science/article/pii/S1747938X18300691</ref>.
+- **Adoption -** Adopted siblings or peers have higher IQ scores than their nonadopted siblings or peers who stayed behind<ref>https://pubmed.ncbi.nlm.nih.gov/15740423/</ref>. These effects are not g-loaded<ref>https://www.sciencedirect.com/science/article/abs/pii/S0191886914005248</ref>.
+- **Lead -** There is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
+- **Health -** Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
+- **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>.
 
-## Heritability
-
-Heritability is a very misleading concept for several reasons. It is often assumed to be the amount of a trait that is due to genetics, but there is no measure of this. There are several limitations to the notion of heritability<ref>https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1400</ref>:
-
-* First, heritability looks at the proportion of population variance in a trait that can be explained by population differences in genetics. This means that heritability estimates can be very different for the same trait depending on the population examined. For example, in the case of a population with very little environmental variation, you will have a significantly higher heritability estimate for a trait compared with a population with very high environmental variation.
-* Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
-* Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
+## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Intelligence
 
-### IQ and Crime
+### SES and IQ
 
-Research suggests that intelligence is correlated with crime, most research suggesting independently of socio-economics status<ref>https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=2123&context=jclc</ref><ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-9125.1996.tb01220.x</ref><ref>https://www.sciencedirect.com/science/article/pii/S0191886911000912</ref>. This predictive validity of IQ persists in cross-state comparisons<ref>https://www.sciencedirect.com/science/article/pii/S0191886909005169</ref>. This relationship, however, is not perfectly linear. People who have very low intelligence have slightly lower criminality than people with fairly low intelligence, and people with very high intelligence have slightly higher criminality than people with fairly high intelligence<ref>https://www.sciencedirect.com/science/article/pii/S016028961500077X</ref><ref>https://clcjbooks.rutgers.edu/books/criminal-genius-a-portrait-of-high-iq-offenders/</ref>.
+Experiments suggest that the effects of interventions that raise IQ fade away following the intervention because children who receive the interventions lose their IQ advantage<ref>https://pubmed.ncbi.nlm.nih.gov/25281007/</ref>.
 
-### IQ and Individual Income/Wealth
+Students attending selective schools tend to outperform their non-selective counterparts in national exams. However, there are substantial mean genetic differences between students of different school types on a polygenic score associated with higher education. After controlling for factors involved in pupil selection, there were no significant genetic differences between school types, and the variance in exam scores explained by school type dropped to less than 1%. This suggests that genetic and exam differences between school types are primarily due to heritable characteristics involved in pupil admission<ref>https://pubmed.ncbi.nlm.nih.gov/12578471/</ref>.
 
-There is a relationship between an individual’s intelligence level and their future income. People with higher intelligence levels tend to have higher incomes<ref>https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6fdb1364dc3e73c44441ba55a15f1b9bc49265a</ref><ref>https://ifstudies.org/blog/can-intelligence-predict-income</ref>. Importantly, however, this relationship does not appear to translate perfectly in terms of total wealth. While intelligence predicts higher income, it has a quadratic relationship with financial distress<ref>https://www.sciencedirect.com/science/article/pii/S0160289607000219</ref>. Therefore, it is not entirely clear how much net wealth is affected by intelligence.
+Maynard & Murnane (1979) looked at the impact of a negative income tax experiment and found that it increased the average reading achievement of children in grades 4 through 6, but not for older children<ref>https://pubmed.ncbi.nlm.nih.gov/25328893/</ref>. Similarly, Duncan et al. (2011) conducted a random monetary assignment experiment and found that an increase in annual income results in a substantial increase in young children's achievement<ref>https://pubmed.ncbi.nlm.nih.gov/28081903/</ref>.
 
-### IQ and Educational Attainment
+Financial stress can temporarily lower IQ<ref>https://pubmed.ncbi.nlm.nih.gov/32188746/</ref>.
 
-Intelligence is a major predictor of school achievements, partially through more intelligent people having higher levels of motivation to succeed in school environments<ref>https://www.sciencedirect.com/science/article/pii/S0160289615001269</ref><ref>https://www.sciencedirect.com/science/article/pii/S1747938X18300691</ref>.
+Childhood IQ is associated with class mobility in adulthood across all social classes<ref>https://pubmed.ncbi.nlm.nih.gov/32661290/</ref>. Polygenic scores have been identified that are associated with social mobility<ref>https://pubmed.ncbi.nlm.nih.gov/29049045/</ref>.
+
+Low childhood self-control is associated with unemployment throughout the life span<ref>https://journals.sagepub.com/doi/full/10.1177/0956797615569001</ref>.
+
+Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
+
+### Education and IQ
+
+The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>.
+
+Headstart gains are correlated at -0.8 with g loadings, suggesting that headstart gains are generally not on the g factor<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289614000932</ref>.
+
+Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
+
+Schooling gains are not g loaded<ref>https://pubmed.ncbi.nlm.nih.gov/31109385/</ref>.
 
 ### Heritability of Intelligence
 
@@ -48,14 +55,6 @@ There are a very high number of genetic loci which have been found to be associa
 High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>.
 
 Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
-
-### Adoption and IQ
-
-Adopted siblings or peers have higher IQ scores than their nonadopted siblings or peers who stayed behind<ref>https://pubmed.ncbi.nlm.nih.gov/15740423/</ref>. These effects are not g-loaded<ref>https://www.sciencedirect.com/science/article/abs/pii/S0191886914005248</ref>.
-
-### Lead and IQ
-
-There is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
 
 ### Emotional Intelligence
 
@@ -72,10 +71,6 @@ Across a variety of fields, students lose a large percentage of the knowledge th
 ### Test Anxiety
 
 Test anxiety does not induce measurement bias in aptitude and cognitive ability test scores<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030</ref>. Rather, test anxiety is most closely related to psychometric g<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003</ref>.
-
-### IQ and Health
-
-Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
 
 ### IQ Testing Bias
 
@@ -100,12 +95,6 @@ Inbreeding is related to a lower intelligence, with the effects of inbreeding de
 Spearman's g factor has also been demonstrated to exist across a multitude of nations, strongly suggesting that it is a universal phenomenon<ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
 
 The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
-
-### IQ and Fertility
-
-There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>.
-
-Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>.
 
 ### Predictive Validity
 
@@ -139,36 +128,6 @@ General cognitive ability is associated with a lower inclination to believe vari
 
 Reaction time tasks correlate with psychometric intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/29795215/</ref>.
 
-### SES and IQ
-
-Experiments suggest that the effects of interventions that raise IQ fade away following the intervention because children who receive the interventions lose their IQ advantage<ref>https://pubmed.ncbi.nlm.nih.gov/25281007/</ref>.
-
-Students attending selective schools tend to outperform their non-selective counterparts in national exams. However, there are substantial mean genetic differences between students of different school types on a polygenic score associated with higher education. After controlling for factors involved in pupil selection, there were no significant genetic differences between school types, and the variance in exam scores explained by school type dropped to less than 1%. This suggests that genetic and exam differences between school types are primarily due to heritable characteristics involved in pupil admission<ref>https://pubmed.ncbi.nlm.nih.gov/12578471/</ref>.
-
-IQ is a better predictor of socioeconomic success than parental SES or grades<ref>https://pubmed.ncbi.nlm.nih.gov/11334871/</ref>.
-
-IQ and conscientiousness are also more important than SES for educational attainment<ref>https://pubmed.ncbi.nlm.nih.gov/11916378/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/11058498/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/29611892/</ref>.
-
-Maynard & Murnane (1979) looked at the impact of a negative income tax experiment and found that it increased the average reading achievement of children in grades 4 through 6, but not for older children<ref>https://pubmed.ncbi.nlm.nih.gov/25328893/</ref>. Similarly, Duncan et al. (2011) conducted a random monetary assignment experiment and found that an increase in annual income results in a substantial increase in young children's achievement<ref>https://pubmed.ncbi.nlm.nih.gov/28081903/</ref>.
-
-Financial stress can temporarily lower IQ<ref>https://pubmed.ncbi.nlm.nih.gov/32188746/</ref>.
-
-Childhood IQ is associated with class mobility in adulthood across all social classes<ref>https://pubmed.ncbi.nlm.nih.gov/32661290/</ref>. Polygenic scores have been identified that are associated with social mobility<ref>https://pubmed.ncbi.nlm.nih.gov/29049045/</ref>.
-
-Low childhood self-control is associated with unemployment throughout the life span<ref>https://journals.sagepub.com/doi/full/10.1177/0956797615569001</ref>.
-
-Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
-
-### Education and IQ
-
-The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>.
-
-Headstart gains are correlated at -0.8 with g loadings, suggesting that headstart gains are generally not on the g factor<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289614000932</ref>.
-
-Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
-
-Schooling gains are not g loaded<ref>https://pubmed.ncbi.nlm.nih.gov/31109385/</ref>.
-
 ### Flynn Effect
 
 The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/</ref>.
@@ -176,6 +135,27 @@ The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.n
 The Flynn effect is negatively correlated with g loadings at -0.38, suggesting the Flynn effect is not g loaded and that group differences and the Flynn effect have different causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289613000226</ref>.
 
 After correcting for increased guessing, the correlation between the flynn effect and g loadings goes down to -0.82<ref>https://www.sciencedirect.com/science/article/pii/S0160289613001761</ref>.
+
+## Autism
+
+Interesting factoids about autism:
+
+* Autistic people have particular morphological features which can strongly predict someone having autism<ref>https://pubmed.ncbi.nlm.nih.gov/21999758/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/20473590/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/22669539/</ref>.
+* Premature mortality is markedly increased in ASD owing to a multitude of medical conditions<ref>https://www.cambridge.org/core/journals/the-british-journal-of-psychiatry/article/premature-mortality-in-autism-spectrum-disorder/4C9260DB64DFC29AF945D32D1C15E8F2</ref>.
+* Neurotypical peers are less willing to interact with autistic people based on thin slice judgments. These do not change with increased exposure and occur across both children and adults<ref>https://www.nature.com/articles/srep40700#discussion</ref>. However, these biases disappear when impressions are based on conversational content lacking audio-visual cues. This suggests that style and not substance drives negative impressions of autistic people.
+* Children with autism have significantly higher levels of suicidal ideation and higher rates of suicide attempts<ref>https://www.sciencedirect.com/science/article/abs/pii/S1750946712000931</ref>.
+* Autism is highly heritable<ref>https://www.nature.com/articles/4001896</ref>.
+* People with autism display facial expressions less frequently, for a less amount of time, and are less likely to share facial expressions with others or mimic expressions. Their facial expressions are also lower in quality and less accurately judged. However, people with ASD do not express emotions less intensely nor is their reaction time slower in response to stimuli<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/aur.2037</ref>.
+* People with ASD, primarily males, have more hypersexual and paraphilic fantasies<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5789215/</ref>.
+* Individuals with ASD are less able to understand and infer other people's beliefs, intentions, and feelings, less likely to respond to the specific emotions of people in pain, less cognitively aware of the belief in, intention of and feeling for others, and have less immediate response to the special emotions of people in pain. People with ASD are as likely to immediately share and resonate with the emotions of other people, and are more likely to share or become affectively congruent with others' emotional states<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6794557/</ref>.
+
+## Heritability
+
+Heritability is a very misleading concept for several reasons. It is often assumed to be the amount of a trait that is due to genetics, but there is no measure of this. There are several limitations to the notion of heritability<ref>https://wires.onlinelibrary.wiley.com/doi/10.1002/wcs.1400</ref>:
+
+* First, heritability looks at the proportion of population variance in a trait that can be explained by population differences in genetics. This means that heritability estimates can be very different for the same trait depending on the population examined. For example, in the case of a population with very little environmental variation, you will have a significantly higher heritability estimate for a trait compared with a population with very high environmental variation.
+* Second, given that all traits are filtered through genetics, it is impossible to actually separate out genetic from environmental effects. Genes turn on and respond in various ways depending on the environment, so the strict separation between genetic and environmental influences is highly dubious.
+* Third, twin studies which are the hallmark of heritability estimates assume that identical twins have no more similar environments than fraternal twins, and thus attribute all differences between groups to genetics. However, identical twins are exposed to demonstrably similar environments than are fraternal twins, starting in the womb. Identical twins often share a placenta while fraternal twins always have two separate placentas. Identical twins that share a placenta have more similar IQs and personalities than identical twins who do not share a placenta. This effect however appears to be small and only limited to a few phenotypes<ref>https://sci-hub.ru/https://doi.org/10.1007/s10519-015-9745-3</ref>. More significantly, it is likely that identical twins will be treated in social interactions more similarly than fraternal twins, increasing the similarity of their environments further. This has been shown to undermine research finding a strong heritability for schizophrenia, as identical twins have a smaller differences in their level of bullying, sexual abuse, physical maltreatment, emotional neglect and abuse, and general trauma compared to fraternal twins<ref>https://pubmed.ncbi.nlm.nih.gov/25972816/</ref>. Only some of those traits could be reasonably suggested to be genetic. This is consistent with research suggesting that the equal environments assumption is not strictly valid for most outcomes, with a likely modest bias<ref>https://sci-hub.hkvisa.net/10.1080/19485565.1968.9987750</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.ssresearch.2013.10.004</ref>.
 
 ## Personality
 
