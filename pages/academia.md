@@ -155,6 +155,10 @@ Distrust in science has grown significantly since the onset of COVID<ref>https:/
 
 Statistical significance thresholds dichotomize evidence which is cringe<ref>https://amstat.tandfonline.com/doi/abs/10.1080/01621459.2017.1289846#.YeL28GjMKUk</ref>.
 
+## Knowledge Retention
+
+Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion<ref>https://sci-hub.ru/https://doi.org/10.2307/1182376</ref><ref>https://sci-hub.ru/https://doi.org/10.1177/0273475306291463</ref><ref>https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y</ref>.
+
 ## References
 
 <ol id="source-list"></ol>
