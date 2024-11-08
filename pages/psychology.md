@@ -6,26 +6,34 @@ permalink: /psychology/
 
 ## Intelligence
 
+### Heritability
+
+Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754247/</ref>. There are a very high number of genetic loci which have been found to be associated with intelligence<ref>https://www.nature.com/articles/ng.3869</ref><ref>https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews</ref><ref>https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf</ref>. High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>. Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
+
+**Wilson Effect:** The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>.
+
+### Bias/Alternative Theories
+
 ### Correlates
 
 - **Crime -** Research suggests that intelligence is correlated with crime, most research suggesting independently of socio-economics status<ref>https://scholarlycommons.law.northwestern.edu/cgi/viewcontent.cgi?article=2123&context=jclc</ref><ref>https://onlinelibrary.wiley.com/doi/pdf/10.1111/j.1745-9125.1996.tb01220.x</ref><ref>https://www.sciencedirect.com/science/article/pii/S0191886911000912</ref>. This predictive validity of IQ persists in cross-state comparisons<ref>https://www.sciencedirect.com/science/article/pii/S0191886909005169</ref>. This relationship, however, is not perfectly linear. People who have very low intelligence have slightly lower criminality than people with fairly low intelligence, and people with very high intelligence have slightly higher criminality than people with fairly high intelligence<ref>https://www.sciencedirect.com/science/article/pii/S016028961500077X</ref><ref>https://clcjbooks.rutgers.edu/books/criminal-genius-a-portrait-of-high-iq-offenders/</ref>.
 - **Individual Income/Wealth -** There is a relationship between an individual’s intelligence level and their future income. People with higher intelligence levels tend to have higher incomes<ref>https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=d6fdb1364dc3e73c44441ba55a15f1b9bc49265a</ref><ref>https://ifstudies.org/blog/can-intelligence-predict-income</ref>. Importantly, however, this relationship does not appear to translate perfectly in terms of total wealth. While intelligence predicts higher income, it has a quadratic relationship with financial distress<ref>https://www.sciencedirect.com/science/article/pii/S0160289607000219</ref>. Therefore, it is not entirely clear how much net wealth is affected by intelligence. IQ is a better predictor of socioeconomic success than parental SES or grades<ref>https://pubmed.ncbi.nlm.nih.gov/11334871/</ref>. IQ and conscientiousness are also more important than SES for educational attainment<ref>https://pubmed.ncbi.nlm.nih.gov/11916378/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/11058498/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/29611892/</ref>.
-- **Educational Attainment -** Intelligence is a major predictor of school achievements, partially through more intelligent people having higher levels of motivation to succeed in school environments<ref>https://www.sciencedirect.com/science/article/pii/S0160289615001269</ref><ref>https://www.sciencedirect.com/science/article/pii/S1747938X18300691</ref>.
+- **Educational Attainment -** Intelligence is a major predictor of school achievements, partially through more intelligent people having higher levels of motivation to succeed in school environments<ref>https://www.sciencedirect.com/science/article/pii/S0160289615001269</ref><ref>https://www.sciencedirect.com/science/article/pii/S1747938X18300691</ref>. Experiments suggest that the effects of interventions that raise IQ fade away following the intervention because children who receive the interventions lose their IQ advantage<ref>https://pubmed.ncbi.nlm.nih.gov/25281007/</ref>. Headstart gains are correlated at -0.8 with g loadings, suggesting that headstart gains are generally not on the g factor<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289614000932</ref>. Schooling gains are not g loaded<ref>https://pubmed.ncbi.nlm.nih.gov/31109385/</ref>.
 - **Adoption -** Adopted siblings or peers have higher IQ scores than their nonadopted siblings or peers who stayed behind<ref>https://pubmed.ncbi.nlm.nih.gov/15740423/</ref>. These effects are not g-loaded<ref>https://www.sciencedirect.com/science/article/abs/pii/S0191886914005248</ref>.
 - **Lead -** There is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
 - **Health -** Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
-- **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>.
+- **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>. Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
 - **Brain Size/Chemistry -** Brain size is positively associated with g<ref>https://pubmed.ncbi.nlm.nih.gov/32076418/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25855618/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/31473014/</ref>. This is of genetic origin as whole-brain gray and white matter is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/32286890/</ref>, and there is a genetic correlation between intracranial volume and years of education<ref>https://pubmed.ncbi.nlm.nih.gov/32286899/</ref>, as well as intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/15922990/</ref>. Human intelligence can be predicted with some accuracy using neuroimaging techniques<ref>https://pubmed.ncbi.nlm.nih.gov/14749147/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>.
 - **Conspiracism -** General cognitive ability is associated with a lower inclination to believe various conspiracies and paranormal phenomena, but only among individuals who strongly value epistemic rationality<ref>https://pubmed.ncbi.nlm.nih.gov/30624183/</ref>.
 - **Reaction Times -** Reaction time tasks correlate with psychometric intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/29795215/</ref>.
+- **SAT -** The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>. Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
+
 
 ## —————————————————————RESEARCHTOADD—————————————————————
 
 ## Intelligence
 
 ### SES and IQ
-
-Experiments suggest that the effects of interventions that raise IQ fade away following the intervention because children who receive the interventions lose their IQ advantage<ref>https://pubmed.ncbi.nlm.nih.gov/25281007/</ref>.
 
 Students attending selective schools tend to outperform their non-selective counterparts in national exams. However, there are substantial mean genetic differences between students of different school types on a polygenic score associated with higher education. After controlling for factors involved in pupil selection, there were no significant genetic differences between school types, and the variance in exam scores explained by school type dropped to less than 1%. This suggests that genetic and exam differences between school types are primarily due to heritable characteristics involved in pupil admission<ref>https://pubmed.ncbi.nlm.nih.gov/12578471/</ref>.
 
@@ -36,28 +44,6 @@ Financial stress can temporarily lower IQ<ref>https://pubmed.ncbi.nlm.nih.gov/32
 Childhood IQ is associated with class mobility in adulthood across all social classes<ref>https://pubmed.ncbi.nlm.nih.gov/32661290/</ref>. Polygenic scores have been identified that are associated with social mobility<ref>https://pubmed.ncbi.nlm.nih.gov/29049045/</ref>.
 
 Low childhood self-control is associated with unemployment throughout the life span<ref>https://journals.sagepub.com/doi/full/10.1177/0956797615569001</ref>.
-
-Polygenic scores that predict higher earnings, education and health also predict lower fertility<ref>https://files.catbox.moe/41zw1p.pdf</ref>. This may suggest that earnings-increasing human capital may either increase or decrease fertility through income and substitution effects in the labor market.
-
-### Education and IQ
-
-The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>.
-
-Headstart gains are correlated at -0.8 with g loadings, suggesting that headstart gains are generally not on the g factor<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289614000932</ref>.
-
-Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
-
-Schooling gains are not g loaded<ref>https://pubmed.ncbi.nlm.nih.gov/31109385/</ref>.
-
-### Heritability of Intelligence
-
-Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754247/</ref>.
-
-There are a very high number of genetic loci which have been found to be associated with intelligence<ref>https://www.nature.com/articles/ng.3869</ref><ref>https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews</ref><ref>https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf</ref>.
-
-High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>.
-
-Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
 
 ### Emotional Intelligence
 
@@ -78,10 +64,6 @@ Test anxiety does not induce measurement bias in aptitude and cognitive ability 
 ### IQ Testing Bias
 
 IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004</ref>.
-
-### Wilson Effect
-
-The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>.
 
 ### G Factor
 
