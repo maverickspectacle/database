@@ -123,12 +123,6 @@ Political views appear to be roughly 40% heritable<ref>https://link.springer.com
 - **Sense of Purpose -** Conservative religiousity is associated with high levels of a sense of purpose in life<ref>https://journals.sagepub.com/doi/10.1177/009164718601400105</ref>. For socially connected individuals, a religious belief in itself has minimal impact on their sense of purpose in life. However, for those who are socially disconnected, being highly religious predicted greater levels of purpose in life<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/jopy.12401</ref>. Because though religion brings people social connection in many cases, controlling for it may only tell the effect of theistic belief in sense of purpose and not the broader effect of religiousity in general. A sense of meaning in life is a crucial element of religious coping and psychological well-being<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4580713/</ref>.
 - **Crime -** Religion is negatively associated with crime on both an individual level<ref>https://journals.sagepub.com/doi/abs/10.1177/0022427801038001001#:~:text=The%20results%20of%20the%20meta,effect%20on%20individuals'%20criminal%20behavior</ref> and a societal level<ref>https://www.sciencedirect.com/science/article/pii/0191886996000232</ref>, as well as being negatively associated with involvement in delinquent behaviors<ref>https://scholarlycommons.obu.edu/articles/131/</ref>.
 
-## —————————————————————RESEARCHTOADD—————————————————————
-
-## Knowledge Retention
-
-Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion<ref>https://sci-hub.ru/https://doi.org/10.2307/1182376</ref><ref>https://sci-hub.ru/https://doi.org/10.1177/0273475306291463</ref><ref>https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y</ref>.
-
 ## Autism
 
 Interesting factoids about autism:
@@ -144,9 +138,10 @@ Interesting factoids about autism:
 
 ## Personality
 
-Neuroticism is the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness<ref>https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197</ref>.
+**Correlates:**
 
-Academic performance correlates significantly with agreeableness, conscientiousness, and openness. Correlations between conscientiousness and academic performance were largely independent of intelligence. Conscientiousness is as strong of a predictor of tertiary academic performance as intelligence, after controlling for secondary academic performance<ref>https://sci-hub.se/https://doi.org/10.1037/a0014996</ref>.
+- **Well-Being -** Neuroticismis the strongest predictor of life satisfaction, happiness, and negative affect. Positive affect is predicted equally well by extraversion and agreeableness<ref>https://sci-hub.se/https://doi.org/10.1037/0033-2909.124.2.197</ref>.
+- **Academic Performance -** Academic performance correlates significantly with agreeableness, conscientiousness, and openness. Correlations between conscientiousness and academic performance were largely independent of intelligence. Conscientiousness is as strong of a predictor of tertiary academic performance as intelligence, after controlling for secondary academic performance<ref>https://sci-hub.se/https://doi.org/10.1037/a0014996</ref>.
 
 ## Self Control
 
@@ -154,11 +149,7 @@ Low self-control in childhood is associated with unemployment in adulthood, even
 
 ## Suicide
 
-Suicide is mainly associated with social isolation, such as marital status and living alone, loneliness, alienation, and belongingness<ref>https://pubmed.ncbi.nlm.nih.gov/30445391/</ref>. In terms of cross-country differences in suicide, high unemployment is positviely associated with male suicide, while income is negatively associated with male suicide up until a high threshold of income<ref>https://journals.sagepub.com/doi/10.1177/1069397103253708</ref>.
-
-Suicidal acts are significantly more likely to be fatal for men than for women<ref>https://www.acpjournals.org/doi/10.7326/M19-1324</ref>.
-
-Between 1963 and 1975 the annual number of suicides in England and Wales showed a sudden and unexpected decline, inconsistent with trends in most other European countries. This appears to have been a result of the progressive removal of carbon monoxide from the public gas supply, which accounted for more than 40% of suicides in 1963. Suicide by domesic gas was essentially eliminated by 1975<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/449144</ref>.
+Suicide is mainly associated with social isolation, such as marital status and living alone, loneliness, alienation, and belongingness<ref>https://pubmed.ncbi.nlm.nih.gov/30445391/</ref>. In terms of cross-country differences in suicide, high unemployment is positviely associated with male suicide, while income is negatively associated with male suicide up until a high threshold of income<ref>https://journals.sagepub.com/doi/10.1177/1069397103253708</ref>. Suicidal acts are significantly more likely to be fatal for men than for women<ref>https://www.acpjournals.org/doi/10.7326/M19-1324</ref>. Between 1963 and 1975 the annual number of suicides in England and Wales showed a sudden and unexpected decline, inconsistent with trends in most other European countries. This appears to have been a result of the progressive removal of carbon monoxide from the public gas supply, which accounted for more than 40% of suicides in 1963. Suicide by domesic gas was essentially eliminated by 1975<ref>https://www.journals.uchicago.edu/doi/abs/10.1086/449144</ref>.
 
 ## Tattoos
 
@@ -166,9 +157,7 @@ People with tattoos tend to be rated as less attractive, more promiscuous, and m
 
 People with tattoos are more likely to engage in risk-taking behaviors<ref>https://pubmed.ncbi.nlm.nih.gov/22153289/</ref>, including physical violence<ref>https://pubmed.ncbi.nlm.nih.gov/12042538/</ref>, more drinking and illicit drug consumption, higher suicidal ideation/attempts and depression<ref>https://pubmed.ncbi.nlm.nih.gov/22726901/</ref>, psychiatric disorders such as antisocial personality disorder and borderline personality disorder<ref>https://pubmed.ncbi.nlm.nih.gov/2333825/</ref><ref>https://www.sciencedaily.com/releases/2008/07/080715204734.htm</ref>, higher levels of psychopathy and schizophrenia<ref>https://pubmed.ncbi.nlm.nih.gov/1781185/</ref>, higher impulsiveness, adventurism, empathy, and neuroticism<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>, and have an earlier age of first intercourse and are more sexually active<ref>https://pubmed.ncbi.nlm.nih.gov/22616886/</ref>.
 
-Moreover, people with tattoos are more likely to have experienced childhood abuse and neglect<ref>https://pubmed.ncbi.nlm.nih.gov/35449026/</ref>, and score about 5 points lower on IQ tests<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>. They also appear to die earlier than those without tattoos, possibly due to health concerns but also potentially due to higher levels of risk-taking behavior<ref>https://pubmed.ncbi.nlm.nih.gov/24926092/</ref>.
-
-Tattoos may signify something traumatic or extreme in someone's life or may signify impulsiveness in itself.
+Moreover, people with tattoos are more likely to have experienced childhood abuse and neglect<ref>https://pubmed.ncbi.nlm.nih.gov/35449026/</ref>, and score about 5 points lower on IQ tests<ref>https://pubmed.ncbi.nlm.nih.gov/15119003/</ref>. They also appear to die earlier than those without tattoos, possibly due to health concerns but also potentially due to higher levels of risk-taking behavior<ref>https://pubmed.ncbi.nlm.nih.gov/24926092/</ref>. Tattoos may signify something traumatic or extreme in someone's life or may signify impulsiveness in itself.
 
 ## Trigger Warnings
 
@@ -182,13 +171,15 @@ Facial width-to-height ratio is a predictor of one's propensity for aggressive b
 
 Anomaly (2018) defended the concept of eugenics or genetic enhancement and advocated for numerous "eugenic" policy proposals. Policy proposals include free contraception, genetic education and counseling, and incentives and penalties<ref>https://link.springer.com/article/10.1007/s40592-018-0081-2</ref>. Jonathan Anomaly believes that states should apply as little coercion as possible to facilitate the emergence of future people with desirable traits.
 
-## MAOA Gene
-
-The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
-
 ## Altruism and Ethics
 
 Humans routinely help others to achieve their goals, even when the helper receives no immediate benefit and the person helped is a stranger. Such altruistic behaviors exist in human children as young as 18 months in age and also exist in chimpanzees although with less robust skills and motivations<ref>https://pubmed.ncbi.nlm.nih.gov/16513986/</ref>.
+
+## —————————————————————RESEARCHTOADD—————————————————————
+
+## MAOA Gene
+
+The 2-repeat allele of the MAOA gene is carried by 0.1% of caucasian males and 5.2% of African-American males. African-American males who carried the 2-repeat allele are significantly more likely to be arrested and incarcerated, are more anti-social, and have higher involvement in violent behaviors over the life course<ref>https://lesacreduprintemps19.files.wordpress.com/2012/12/exploring-the-association-between-the-2-repeat-allele-of-the-maoa-gene.pdf</ref>. A similar analysis could not be done for caucasians due to its rarity amongst caucasians.
 
 ## Biorealism
 
