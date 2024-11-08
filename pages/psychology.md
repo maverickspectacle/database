@@ -6,6 +6,14 @@ permalink: /psychology/
 
 ## Intelligence
 
+### G Factor
+
+The there exists a general intelligence, or g factor, which is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>. General cognitive ability can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>. There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>.
+
+Rats display a general factor of intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/8510832/</ref>, as well as dogs<ref>https://www.sciencedirect.com/science/article/pii/S016028961630023X</ref>. The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
+
+This general factor has been shown to also exist in international cognitive ability comparisons, suggesting it is a universal phenomenon<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634</ref><ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
+
 ### Heritability
 
 Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5754247/</ref>. There are a very high number of genetic loci which have been found to be associated with intelligence<ref>https://www.nature.com/articles/ng.3869</ref><ref>https://www.nature.com/articles/s41467-018-04362-x?ref=iqpredictionnews</ref><ref>https://www.biorxiv.org/content/10.1101/2020.04.03.024554v3.full.pdf</ref>. High intelligence is also familial, heritable, and caused by the same genetic and environmental factors responsible for the normal distribution of intelligence<ref>https://files.catbox.moe/xd769q.pdf</ref>. Additionally, intellectual disability is heritable at 51%<ref>https://acamh.onlinelibrary.wiley.com/doi/10.1111/jcpp.13560</ref>. Similarly, educational attainment is reasonably heritable<ref>https://www.nature.com/articles/s41598-020-69526-6</ref><ref>https://files.catbox.moe/3t8uvr.pdf</ref>.
@@ -13,6 +21,16 @@ Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.
 **Wilson Effect:** The heritability of IQ increases with age, reaching a maximum of about 0.6-0.8<ref>https://www.researchgate.net/figure/A-meta-analysis-of-11000-pairs-of-twins-shows-that-the-heritability-of-intelligence_fig1_265690996</ref>.
 
 ### Bias/Alternative Theories
+
+Possible sources of bias:
+
+- **Test Anxiety -** Test anxiety does not induce measurement bias in aptitude and cognitive ability test scores<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030</ref>. Rather, test anxiety is most closely related to psychometric g<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003</ref>.
+- **Test-Retest Gains -** IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004</ref>.
+
+Alternative views of intelligence:
+
+- **Emotional Intelligence -** Emotional intelligence can be reduced to g, personality trait agreeableness, and sex<ref>https://sci-hub.ru/https://doi.org/10.1016/j.paid.2003.11.014</ref>.
+- **Multiple Intelligences -** Highly diverse tests of purely cognitive abilities are strongly g-loaded, suggesting that multiple intelligences do not exist<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.02.004</ref>.
 
 ### Correlates
 
@@ -27,7 +45,11 @@ Intelligence is highly heritable at as high as 0.8<ref>https://www.ncbi.nlm.nih.
 - **Conspiracism -** General cognitive ability is associated with a lower inclination to believe various conspiracies and paranormal phenomena, but only among individuals who strongly value epistemic rationality<ref>https://pubmed.ncbi.nlm.nih.gov/30624183/</ref>.
 - **Reaction Times -** Reaction time tasks correlate with psychometric intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/29795215/</ref>.
 - **SAT -** The SAT is strongly correlated with g<ref>https://journals.sagepub.com/doi/abs/10.1111/j.0956-7976.2004.00687.x</ref>. Coaching has a small but positive effect on SAT scores<ref>https://meridian.allenpress.com/her/article-abstract/53/1/1/31190/Evaluating-the-Effect-of-Coaching-on-SAT-Scores-A?redirectedFrom=fulltext</ref>.
+- **Inbreeding -** Inbreeding is related to a lower intelligence, with the effects of inbreeding depression being most strongly correlated with the subtest's g loading<ref>https://sci-hub.ru/https://doi.org/10.1016/0191-8869(83)90054-5</ref>.
 
+### Flynn Effect
+
+The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/</ref>. The Flynn effect is negatively correlated with g loadings at -0.38, suggesting the Flynn effect is not g loaded and that group differences and the Flynn effect have different causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289613000226</ref>. After correcting for increased guessing, the correlation between the flynn effect and g loadings goes down to -0.82<ref>https://www.sciencedirect.com/science/article/pii/S0160289613001761</ref>.
 
 ## —————————————————————RESEARCHTOADD—————————————————————
 
@@ -44,42 +66,6 @@ Financial stress can temporarily lower IQ<ref>https://pubmed.ncbi.nlm.nih.gov/32
 Childhood IQ is associated with class mobility in adulthood across all social classes<ref>https://pubmed.ncbi.nlm.nih.gov/32661290/</ref>. Polygenic scores have been identified that are associated with social mobility<ref>https://pubmed.ncbi.nlm.nih.gov/29049045/</ref>.
 
 Low childhood self-control is associated with unemployment throughout the life span<ref>https://journals.sagepub.com/doi/full/10.1177/0956797615569001</ref>.
-
-### Emotional Intelligence
-
-Emotional intelligence can be reduced to g, personality trait agreeableness, and sex<ref>https://sci-hub.ru/https://doi.org/10.1016/j.paid.2003.11.014</ref>.
-
-### Multiple Intelligences
-
-Highly diverse tests of purely cognitive abilities are strongly g-loaded, suggesting that multiple intelligences do not exist<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.02.004</ref>.
-
-### Knowledge Retention
-
-Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion<ref>https://sci-hub.ru/https://doi.org/10.2307/1182376</ref><ref>https://sci-hub.ru/https://doi.org/10.1177/0273475306291463</ref><ref>https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y</ref>.
-
-### Test Anxiety
-
-Test anxiety does not induce measurement bias in aptitude and cognitive ability test scores<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2007.11.003</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.08.007</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.lindif.2016.06.030</ref>. Rather, test anxiety is most closely related to psychometric g<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2013.11.003</ref>.
-
-### IQ Testing Bias
-
-IQ test-retest score gains are correlated with g loadings at -1, meaning that score gains are not g-loaded at all<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2006.07.006</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.tics.2018.10.004</ref>.
-
-### G Factor
-
-Rats display a general factor of intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/8510832/</ref>, as well as dogs<ref>https://www.sciencedirect.com/science/article/pii/S016028961630023X</ref>.
-
-The there exists a general intelligence, or g factor, which is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/15651931/</ref><ref>https://sci-hub.hkvisa.net/https://linkinghub.elsevier.com/retrieve/pii/S0160289614000099</ref>. General cognitive ability can predict academic performance, career potential, creativity, and job performance<ref>https://sci-hub.ru/https://doi.org/10.1037/0022-3514.86.1.148</ref>.
-
-This general factor has been shown to also exist in international cognitive ability comparisons<ref>https://onlinelibrary.wiley.com/doi/abs/10.1002/per.634</ref>.
-
-There is expert consensus that g is an important non-trivial predictor or determinant of important real world outcomes, and that g tests are valid and generally do not have racial bias<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2008.03.007</ref>.
-
-Inbreeding is related to a lower intelligence, with the effects of inbreeding depression being most strongly correlated with the subtest's g loading<ref>https://sci-hub.ru/https://doi.org/10.1016/0191-8869(83)90054-5</ref>.
-
-Spearman's g factor has also been demonstrated to exist across a multitude of nations, strongly suggesting that it is a universal phenomenon<ref>https://emilkirkegaard.dk//en/wp-content/uploads/The-g-factor-of-international-cognitive-ability-comparisons-the-homogeneity-of-results-in-PISA-TIMSS-PIRLS-and-IQ-tests-across-nations.pdf</ref><ref>https://psycnet.apa.org/fulltext/2019-01683-001.pdf</ref>.
-
-The g factor also exists amongst chimpanzees, and the more g-loaded cognitive abilities had more genetic variance and phenotypic variance and were more heritable, suggesting it is associated with high interspecies variance and evolves rapidly<ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2015.04.002</ref>.
 
 ### Predictive Validity
 
@@ -101,13 +87,9 @@ National IQ is positively correlated with economic development, and is the best 
 
 National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables<ref>https://pubmed.ncbi.nlm.nih.gov/27866536/</ref>.
 
-### Flynn Effect
+## Knowledge Retention
 
-The average decadal IQ increase since 1951 has been 2.6 points<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4152423/</ref>.
-
-The Flynn effect is negatively correlated with g loadings at -0.38, suggesting the Flynn effect is not g loaded and that group differences and the Flynn effect have different causes<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160289613000226</ref>.
-
-After correcting for increased guessing, the correlation between the flynn effect and g loadings goes down to -0.82<ref>https://www.sciencedirect.com/science/article/pii/S0160289613001761</ref>.
+Across a variety of fields, students lose a large percentage of the knowledge they receive in a course within the first two years following completion<ref>https://sci-hub.ru/https://doi.org/10.2307/1182376</ref><ref>https://sci-hub.ru/https://doi.org/10.1177/0273475306291463</ref><ref>https://sci-hub.ru/https://doi.org/10.1186/1472-6920-6-5</ref><ref>https://sci-hub.ru/https://doi.org/10.1007/s10459-008-9101-y</ref>.
 
 ## Autism
 
