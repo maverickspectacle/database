@@ -15,6 +15,9 @@ permalink: /psychology/
 - **Lead -** There is an inverse relationship between blood lead concentration and IQ and reading test scores<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC1257652/</ref><ref>https://www.nber.org/system/files/working_papers/w22558/w22558.pdf</ref>. These effects are g loaded<ref>https://sci-hub.se/https://doi.org/10.1016/j.paid.2018.09.005</ref>.
 - **Health -** Higher intelligence is associated with a substantially lower risk of death, even after adjusting for childhood and adult socioeconomic status as well as education, although adult SES and education attenuate it substantially<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyq190</ref>. Research suggests that this effect is mostly genetic in origin<ref>https://sci-hub.ru/https://doi.org/10.1093/ije/dyv112</ref>.
 - **Fertility -** There is a small negative correlation between cognitive ability and fertility among modern humans<ref>https://sci-hub.ru/https://doi.org/10.1016/0160-2896(95)90012-8</ref><ref>https://sci-hub.ru/https://doi.org/10.1016/j.intell.2017.05.002</ref>. There is strong assortative mating for intelligence<ref>https://journals.sagepub.com/doi/full/10.1177/09567976231105382</ref>. Intelligence is positively associated with childlessness<ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>. There exists a Jensen effect on dysgenic fertility, meaning that the more g loaded a test score is, the more it is associated with lower fertility<ref>https://pubmed.ncbi.nlm.nih.gov/32184024/</ref>.
+- **Brain Size/Chemistry -** Brain size is positively associated with g<ref>https://pubmed.ncbi.nlm.nih.gov/32076418/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25855618/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/31473014/</ref>. This is of genetic origin as whole-brain gray and white matter is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/32286890/</ref>, and there is a genetic correlation between intracranial volume and years of education<ref>https://pubmed.ncbi.nlm.nih.gov/32286899/</ref>, as well as intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/15922990/</ref>. Human intelligence can be predicted with some accuracy using neuroimaging techniques<ref>https://pubmed.ncbi.nlm.nih.gov/14749147/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>.
+- **Conspiracism -** General cognitive ability is associated with a lower inclination to believe various conspiracies and paranormal phenomena, but only among individuals who strongly value epistemic rationality<ref>https://pubmed.ncbi.nlm.nih.gov/30624183/</ref>.
+- **Reaction Times -** Reaction time tasks correlate with psychometric intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/29795215/</ref>.
 
 ## —————————————————————RESEARCHTOADD—————————————————————
 
@@ -115,18 +118,6 @@ IQ is a significant predictor of financial development<ref>https://sci-hub.ru/ht
 National IQ is positively correlated with economic development, and is the best predictor of economic growth<ref>https://pubmed.ncbi.nlm.nih.gov/29328072/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/30191806/</ref>.
 
 National IQ is correlated with a variety of educational, cognitive, economic, political, demographic, sociological, geographic, and climate variables<ref>https://pubmed.ncbi.nlm.nih.gov/27866536/</ref>.
-
-### Brain Size/Chemistry and IQ
-
-Brain size is positively associated with g<ref>https://pubmed.ncbi.nlm.nih.gov/32076418/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25855618/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/31473014/</ref>. This is of genetic origin as whole-brain gray and white matter is highly heritable<ref>https://pubmed.ncbi.nlm.nih.gov/32286890/</ref>, and there is a genetic correlation between intracranial volume and years of education<ref>https://pubmed.ncbi.nlm.nih.gov/32286899/</ref>, as well as intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/15922990/</ref>.
-
-Human intelligence can be predicted with some accuracy using neuroimaging techniques<ref>https://pubmed.ncbi.nlm.nih.gov/14749147/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/25546071/</ref>.
-
-### Misc
-
-General cognitive ability is associated with a lower inclination to believe various conspiracies and paranormal phenomena, but only among individuals who strongly value epistemic rationality<ref>https://pubmed.ncbi.nlm.nih.gov/30624183/</ref>.
-
-Reaction time tasks correlate with psychometric intelligence<ref>https://pubmed.ncbi.nlm.nih.gov/29795215/</ref>.
 
 ### Flynn Effect
 
