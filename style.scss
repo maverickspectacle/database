@@ -285,7 +285,7 @@ footer {
 }
 
 ol { counter-reset: item }
-li{ display: block }
+li{ display: list-item; }
 
 .sidenav {
   height: 100%;
