@@ -8,35 +8,32 @@ permalink: /academia/
 
 ### Returns to Education
 
-According to Abel & Deitz (2019), the average annual rate of return for a college bachelor's degree, in spite of rising college costs, is around 14%, meaning it is still a good investment<ref>https://libertystreeteconomics.newyorkfed.org/2019/06/despite-rising-costs-college-is-still-a-good-investment/</ref>. Research suggests that there is large variation depending on a number of factors. While college selectivity and where one studies has relatively little effect on a person's long-term financial returns to their education<ref>https://sci-hub.se/https://doi.org/10.1007/BF00992285</ref><ref>https://sci-hub.se/https://doi.org/10.1162/003355302320935089</ref>, what a person studies has a large effect on their financial returns<ref>https://www.economist.com/united-states/2015/03/12/it-depends-what-you-study-not-where</ref>.
+**Degrees are Mostly Signalling:** According to Abel & Deitz (2019), the average annual rate of return for a college bachelor's degree, in spite of rising college costs, is around 14%, meaning it is still a good investment<ref>https://libertystreeteconomics.newyorkfed.org/2019/06/despite-rising-costs-college-is-still-a-good-investment/</ref>. Research suggests that there is large variation depending on a number of factors. While college selectivity and where one studies has relatively little effect on a person's long-term financial returns to their education<ref>https://sci-hub.se/https://doi.org/10.1007/BF00992285</ref><ref>https://sci-hub.se/https://doi.org/10.1162/003355302320935089</ref>, what a person studies has a large effect on their financial returns<ref>https://www.economist.com/united-states/2015/03/12/it-depends-what-you-study-not-where</ref>. There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals<ref>http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf</ref><ref>https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf</ref>. In 2011, a Russian educational reform shortened the university study period by one year and reduced the content of the curricula but did not change the quality of admitted students. This had no adverse effect on wages and on the probability of being employed, suggesting no returns to higher education<ref>https://wp.hse.ru/data/2020/09/22/1584505319/236EC2020.pdf</ref>.
 
-Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
+**Basic Education is Economically Good:** Literacy and numeracy have substantial economic value. More years in education alone does not improve this economic value, but it must be combined with a rigorous evaluation and curriculum<ref>https://wol.iza.org/articles/what-is-economic-value-of-literacy-and-numeracy</ref>.
 
-### Homeschooling
+### Effects of Schooling
 
-There are a variety of reasons why parents and youth may decide to do homeschooling, including increasing family bonding, to accomplish more academically, to customize or individualize the curriculum and learning environment, to provide a safer environment, or to teach and impart a particular set of values, beliefs, or worldview.The home-educated tend to score above average on achievement tests regardless of their parents' level of formal education and also score above average on SAT and ACT tests. The home-educated typically do above average on measures of social, emotional, and psychological development and tend to engage more in civic life in adulthood. The causality of these relationships is not clear however<ref>https://files.eric.ed.gov/fulltext/ED556234.pdf</ref>.
+- **Crime: Reduced -** Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
+- **Class Size: Positive -** Class size increases educational attainment even controlling for IQ<ref>https://sci-hub.ru/https://doi.org/10.2307/1164099</ref>.
 
-### Schooling and Crime
+### Types of Schooling
 
-Improved schooling reduces crime rates. The causal link does not appear to be the reverse, as this was researched using randomized treatment, thus in effect acting as an experiment<ref>https://dash.harvard.edu/bitstream/handle/1/12308135/Deming_BSLC_QJE.pdf?sequence=1</ref>.
+#### Homeschooling
 
-### Effects of Class Size
+**Homeschooling Based** There are a variety of reasons why parents and youth may decide to do homeschooling, including increasing family bonding, to accomplish more academically, to customize or individualize the curriculum and learning environment, to provide a safer environment, or to teach and impart a particular set of values, beliefs, or worldview.The home-educated tend to score above average on achievement tests regardless of their parents' level of formal education and also score above average on SAT and ACT tests. The home-educated typically do above average on measures of social, emotional, and psychological development and tend to engage more in civic life in adulthood. The causality of these relationships is not clear however<ref>https://files.eric.ed.gov/fulltext/ED556234.pdf</ref>.
 
-Class size increases educational attainment even controlling for IQ<ref>https://sci-hub.ru/https://doi.org/10.2307/1164099</ref>.
+#### Charter Schools
+
+**Mixed:** Charter schools have very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math<ref>https://files.eric.ed.gov/fulltext/ED526353.pdf</ref>. Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts<ref>http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf</ref>.
 
 ### Performance-Related Pay
 
-Performance-related pay positively affects student test scores, especially those which were group-based as opposed to individual-based<ref>https://fordhaminstitute.org/national/commentary/does-teacher-merit-pay-affect-student-test-scores</ref>.
-
-### Charter Schools
-
-Charter schools have very heterogeneous effects depending on the study, although on the net there is a small positive effect of charter schools on elementary reading and math, as well as middle school math. There is no statistically significant effect on middle school reading or high school reading or math<ref>https://files.eric.ed.gov/fulltext/ED526353.pdf</ref>.
-
-Charter schools tend to be more fiscally costly for school districts because separate governance arrangements can create excess costs and the financing policies can distribute resources to or away from districts<ref>http://www.columbia.edu/~rr2165/pdfs/nycharterfiscal.pdf</ref>.
+**Based:** Performance-related pay positively affects student test scores, especially those which were group-based as opposed to individual-based<ref>https://fordhaminstitute.org/national/commentary/does-teacher-merit-pay-affect-student-test-scores</ref>.
 
 ### School Choice
 
-School choice improves academic outcomes for both choice participants and public schools, saves tax dollars, and reduces racial segregation<ref>https://www.edchoice.org/research-library/?report=win-win-solution/</ref>.
+**Based:** School choice improves academic outcomes for both choice participants and public schools, saves tax dollars, and reduces racial segregation<ref>https://www.edchoice.org/research-library/?report=win-win-solution/</ref>.
 
 ### Head Start Program
 
@@ -45,6 +42,10 @@ Compared to at-home care, attending a head start center generates significant po
 ### Partisan Bias
 
 There is little evidence of partisan bias in political science grading<ref>https://journals.sagepub.com/doi/abs/10.1177/1532673X14561655?journalCode=aprb</ref>.
+
+## --------------------------RESEARCHTOADD-----------------------------------
+
+## Schooling
 
 ### Tuition Control
 
@@ -65,12 +66,6 @@ Degree inflation is becoming widespread in the US and is making its economy more
 The mean tuition-enrollment elasticity across studies is close to zero after controlling for publication bias<ref>http://meta-analysis.cz/education/education.pdf</ref>.
 
 Attending a relatively high tuition college has a net positive influence on educational attainment, occupational status, and income. This remained significant even after controlling for student background characteristics such as socioeconomic origins, secondary school achievement, and educational and occupational aspirations. It still remained significant after controlling for academic selectivity and private/public control<ref>https://www.researchgate.net/profile/Mark-Smylie/publication/226126111_College_Tuition_Costs_and_Early_Career_Socioeconomic_Achievement_Do_You_Get_What_You_Pay_For/links/55b21bd608aed621ddfd840d/College-Tuition-Costs-and-Early-Career-Socioeconomic-Achievement-Do-You-Get-What-You-Pay-For.pdf</ref>.
-
-### Returns to Education
-
-There exists substantial sheepskin effects on returns to education, where there are increases in earnings due to the credential itself as opposed to the underlying skills or abilities demonstrated by individuals<ref>http://econ.queensu.ca/pub/jdi/deutsch/edu_conf/Ferrer.pdf</ref><ref>https://www.econstor.eu/bitstream/10419/188353/1/pjcss433.pdf</ref>.
-
-In 2011, a Russian educational reform shortened the university study period by one year and reduced the content of the curricula but did not change the quality of admitted students. This had no adverse effect on wages and on the probability of being employed, suggesting no returns to higher education<ref>https://wp.hse.ru/data/2020/09/22/1584505319/236EC2020.pdf</ref>.
 
 ## Peer Review and Publication Bias
 
