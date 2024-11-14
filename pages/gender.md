@@ -417,13 +417,7 @@ Identical twins have more similar preferences for traits such as height, skin co
 - **Criminality -** More attractive people are less likely to be arrested and convicted<ref>Beaver, K. M., Boccio, C., Smith, S., & Ferguson, C. J. (2019). Physical attractiveness and criminal justice processing: results from a longitudinal sample of youth and young adults. Psychiatry Psychology and Law, 26(4), 669–681. https://doi.org/10.1080/13218719.2019.1618750</ref>.
 - **Confidence -** Physically attractive workers are more confident, have better oral skills, and are independently considered more able by employers, increasing their wages<ref>Mobius, M. M., & Rosenblat, T. S. (2006). Why beauty matters. American Economic Review, 96–1, 222–235. https://dash.harvard.edu/bitstream/handle/1/3043406/mobius_beauty.pdf?s</ref>.
 
-## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
-
-## Attraction
-
-### Sperm Count
-
-Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011<ref>Levine, H., Jørgensen, N., Martino-Andrade, A., Mendiola, J., Weksler-Derri, D., Mindlis, I., Pinotti, R., & Swan, S. H. (2017). Temporal trends in sperm count: a systematic review and meta-regression analysis. Human Reproduction Update, 23(6), 646–659. https://doi.org/10.1093/humupd/dmx022</ref>.
+## Relationships
 
 ### Beauty
 
@@ -439,9 +433,7 @@ Men are perceived as being more creepy than women and women are more likely to a
 
 Attractiveness and high social status are predictive of tolerance for sexual harassment<ref>Wuensch, K. L., & Moore, C. H. (2004). Effects of physical attractiveness on evaluations of a male employee’s allegation of sexual harassment by his female employer. The Journal of Social Psychology, 144(2), 207–217. https://doi.org/10.3200/socp.144.2.207-217</ref><ref>Angelone, D. J., Mitchell, D., & Carola, K. (2008). Tolerance of Sexual Harassment: a laboratory paradigm. Archives of Sexual Behavior, 38(6), 949–958. https://doi.org/10.1007/s10508-008-9421-2</ref>.
 
-### Sexuality
-
-#### Monogamy/Promiscuity
+### Monogamy/Promiscuity
 
 Having multiple sex partners is not related to increased anxiety or depression but is related to alcohol and drug dependence issues<ref>Abpp, S. K. W. P. (2024, May 24). Less may be more. Psychology Today. https://www.psychologytoday.com/intl/blog/fulfillment-at-any-age/201304/the-long-term-psychological-effects-of-having-multiple-sex</ref>.
 
@@ -457,21 +449,19 @@ Sexual and emotional infidelity are related to sexual and emotional promiscuity<
 
 Across cultures, women's virginity is viewed as a gift and women are viewed as sexually submissive to men. On the other hand, male virginity was seen as a failure to men's masculinity<ref>Tejada, A. M. & Humboldt State University. (2020). Like a Virgin: Comparing Cross-Cultural Virginity. In Communication Senior Capstones [Thesis]. https://digitalcommons.humboldt.edu/cgi/viewcontent.cgi?article=1008&context=senior_comm</ref>.
 
-#### Sex Drive/Sociosexuality
+### Sex Drive/Sociosexuality
 
 Men tend to have a higher sex drive and greater sociosexuality than women across countries<ref>Baumeister, R., Catanese, K. R., & Vohs, K. (2001). Is there a gender difference in strength of sex drive? theoretical views, conceptual distinctions, and a review of relevant evidence. https://www.semanticscholar.org/paper/Is-There-a-Gender-Difference-in-Strength-of-Sex-and-Baumeister-Catanese/5f8446340d4ed375007351539e7993fa44e2e31b?p2df</ref><ref>Lippa, R. A. (2007). Sex Differences in Sex Drive, Sociosexuality, and Height across 53 Nations: Testing Evolutionary and Social Structural Theories. Archives of Sexual Behavior, 38(5), 631–651. https://doi.org/10.1007/s10508-007-9242-8</ref>. The evidence on sociosexuality consistent with a hybrid model in which both biological and social structural influences contribute to sex differences, while sex drive is consistent with a biological model.
 
-#### Virginity
+### Virginity
 
 Female adolescents who had sex had significant decreases in peer acceptance over time, while male adolescents who had sex had significant increases in peer acceptance. Interestingly however, findings for making out suggested that female adolescents had increases in peer acceptance and male adolescents had decreases in peer acceptance<ref>Kreager, D. A., Staff, J., Gauthier, R., Lefkowitz, E. S., & Feinberg, M. E. (2016). The double standard at sexual debut: gender, sexual behavior and adolescent peer acceptance. Sex Roles, 75(7–8), 377–392. https://doi.org/10.1007/s11199-016-0618-x</ref>.
 
-#### Sexual Activity
+### Sexual Activity
 
 Penile-vaginal intercourse is associated with a wide range of better psychological and physiological health indices. Other activities have weaker, null, or inverse associations with health indices<ref>Brody, S. (2010). The relative health benefits of different sexual activities. The Journal of Sexual Medicine, 7(4_Part_1), 1336–1361. https://doi.org/10.1111/j.1743-6109.2009.01677.x</ref>.
 
-### Relationships
-
-#### Loneliness and Rejection
+### Loneliness and Rejection
 
 Social rejection is reflected in the part of the brain that experiences physical pain, suggesting that experiencing rejection is neurologically analogous to experiencing physical pain<ref>Kross, E., Berman, M. G., Mischel, W., Smith, E. E., & Wager, T. D. (2011). Social rejection shares somatosensory representations with physical pain. Proceedings of the National Academy of Sciences, 108(15), 6270–6275. https://doi.org/10.1073/pnas.1102693108</ref>. Greater social connection is associated with a reduced risk of early death. Social isolation and loneliness significantly increase premature mortality<ref>Holt-Lunstad, J., Smith, T. B., & Layton, J. B. (2010). Social Relationships and Mortality Risk: A Meta-analytic review. PLoS Medicine, 7(7), e1000316. https://doi.org/10.1371/journal.pmed.1000316</ref><ref>So lonely I could die. (2017, August 5). https://www.apa.org. https://www.apa.org/news/press/releases/2017/08/lonely-die</ref>.
 
@@ -481,11 +471,11 @@ Individuals who have poor mating performance experience more negative emotions, 
 
 Warm partner contact is related to lower cardiovascular reactivity, suggesting that affectionate relationships with a partner may contribute to someone being less reactive to stressful life events<ref>Grewen, K. M., Anderson, B. J., Girdler, S. S., & Light, K. C. (2003). Warm partner contact is related to lower cardiovascular reactivity. Behavioral Medicine, 29(3), 123–130. https://doi.org/10.1080/08964280309596065</ref>.
 
-#### Single Motherhood
+### Single Motherhood
 
 The less time fathers spend with their children,, the more conduct problems their children had, but only if fathers did not engage in antisocial behavior. If they are high in anti-social behavior, time spent with their children increases the conduct problems of their children<ref>Jaffee, S. R., Moffitt, T. E., Caspi, A., & Taylor, A. (2003). Life with (or without) father: The benefits of living with two biological parents depend on the father’s antisocial behavior. Child Development, 74(1), 109–126. https://doi.org/10.1111/1467-8624.t01-1-00524</ref>.
 
-#### Marriage and Divorce
+### Marriage and Divorce
 
 There is a positive relationship between premarital sex and risk of divorse. This is not a direct causal effect, but rather due to prior unobserved differences such as the willingness to break traditional norms<ref>Kahn, J. R., & London, K. A. (1991). Premarital sex and the risk of divorce. Journal of Marriage and Family, 53(4), 845. https://doi.org/10.2307/352992</ref>.
 
@@ -515,6 +505,10 @@ Women's sex role ideology, but not men's, is negatively related to marital happi
 
 Typical perpetrators of mass killings are low- or mid-status men with relatively low educational attainment and in a history of relationship problems. The trigger in most cases of these is a status loss or threat. This suggests that autogenic murderous rampages, although clearly psychopathological, may be rooted in a biological male desire to defend status<ref>Autogenic massacre as a maladaptive response to status threat. (n.d.). ResearchGate. https://www.researchgate.net/publication/233146324_Autogenic_massacre_as_a_maladaptive_response_to_status_threat</ref>.
 
+### Sperm Count
+
+Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011<ref>Levine, H., Jørgensen, N., Martino-Andrade, A., Mendiola, J., Weksler-Derri, D., Mindlis, I., Pinotti, R., & Swan, S. H. (2017). Temporal trends in sperm count: a systematic review and meta-regression analysis. Human Reproduction Update, 23(6), 646–659. https://doi.org/10.1093/humupd/dmx022</ref>.
+
 ### Biorealism
 
 #### Life History
@@ -524,6 +518,8 @@ Women who engage in short-term mating in the form of extra-pair liaisons tend to
 #### Sexual Selection
 
 While in modern times, actual male fertility is uncorrelated with social status, social status is highly correlated with potential fertility as estimated from copulation frequency<ref>Pérusse, D. (1993). Cultural and reproductive success in industrial societies: Testing the relationship at the proximate and ultimate levels. Behavioral and Brain Sciences, 16(2), 267–283. https://doi.org/10.1017/s0140525x00029939</ref>. This suggests that evolutionary explanations of human behavior are still relevant in modern societies.
+
+## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
 
 ## Abortion
 
