@@ -319,7 +319,7 @@ Experimental research on hiring discrimination finds that there exists high leve
 
 Research suggests that gender quotas on the corporate boards of directors reduce company profitability and financial performance<ref>https://onlinelibrary.wiley.com/doi/10.1111/ecaf.12487</ref>. While it is not clear what the causality is of this effect, this evidence suggests that at the very least gender quotas do not have a positive effect on company financial performance. Solal & Snellman. (2019) found that one additional woman on a board of directors for a company results in a 2.3% decrease in the company's market value on average<ref>https://www.eurekalert.org/news-releases/876846</ref>. This is argued to be because a company with a gender-diverse board of directors is interpreted by shareholders as revealing a preference for diversity over market performance, as opposed to more women actually harming the company. The perceptions of women in boards, as opposed to their actual performance in boards, determines the market value.
 
-### Workplace Gender Gaps
+The more similar the 2D:4D digit ratio was between men and women in a country, the more equal the sexes were in parliamentary and labor force participation<ref>https://journals.sagepub.com/doi/full/10.1177/147470491401200406#</ref>.
 
 After adjusting for human capital development, work experience, the occupations and industries in which the sexes work, and career interruptions, the adjusted gender pay gap is between 4.8-7.1%. Other unadjusted factors include health insurance, other fringe benefits, and detailed features of overtime work<ref>https://www.academia.edu/35974504/An_Analysis_of_Reasons_for_the_Disparity_in_Wages_Between_Men_and_Women_Containing_A_Foreword_by_the_Department_of_Labor_A_Report_by_CONSAD_Research_Corp_0</ref>.
 
@@ -696,8 +696,6 @@ Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.ca
 ### Rape Accusations
 
 The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate<ref>https://link.springer.com/article/10.1007/s10508-015-0666-2</ref>.
-
-The more similar the 2D:4D digit ratio was between men and women in a country, the more equal the sexes were in parliamentary and labor force participation<ref>https://journals.sagepub.com/doi/full/10.1177/147470491401200406#</ref>.
 
 ### Random
 
