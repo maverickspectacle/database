@@ -507,6 +507,12 @@ Premarital cohabitation is negatively related to marital happiness and positivel
 
 Women are more likely to initiate divorce than men, but men and women are equally likely to initiate a breakup of a non-marriage relationship<ref>LaBier, D., PhD. (2021, March 11). Wives report more dissatisfaction with their marriages than their husbands. Psychology Today. https://www.psychologytoday.com/us/blog/the-new-resilience/201508/women-initiate-divorce-much-more-men-heres-why</ref>. It is hypothesized that the difference in marriage is due to women being more likely to express overt conflict and dissatisfaction about the state of the marriage, while the man is more likely to feel troubled but fine with the way things are. On the other hand, with non-marital but committed relationships which are often composed of younger people, the relationships tend to be formed in a more egalitarian manner which means that both people are equally likely to address any conflicts that occur.
 
+Paternal incarceration is associated with increased physical aggression for boys, and these effects are concentrated among boys whose fathers were neither incarcerated for a violent offense nor abusive to the boys' mother. The removal of abusive fathers has on net results decreased physical aggression for boys<ref>https://academic.oup.com/sf/article-abstract/89/1/285/2235254?redirectedFrom=fulltext&login=false</ref>.
+
+Age gaps in relationships are natural and exist cross-culturally<ref>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E112ACEB2E7BC877805E3AC11ABC889/S0140525X00023992a.pdf/sex-differences-in-human-mate-preferences-evolutionary-hypotheses-tested-in-37-cultures.pdf</ref>.
+
+Legalizing unilateral divorce increases female labor force, decreases marriages but increases marriage quality, may reduce child well-being, increases household saving rates, and reduces domestic violence and female suicide. Unilateral divorce combined with equal division of property may depress female employment. Because there is some evidence that children can be harmed by unilateral divorce, easy divorce should be accompanied by policies aimed at supporting children in vulnerable families<ref>https://wol.iza.org/articles/should-divorce-be-easier-or-harder</ref>.
+
 ### Politics and Sexuality
 
 Attractive candidates tend to get more votes. Politically unpopular parties tend to be represented by physically unattractive candidates<ref>Voters vote beautiful: The effect of physical appearance on a national election. (n.d.). ResearchGate. https://www.researchgate.net/publication/232586298_Voters_Vote_Beautiful_The_Effect_of_Physical_Appearance_on_a_National_Election</ref>.
@@ -659,9 +665,7 @@ Abstinence-only education does not appear to protect against pregnancy and STIs<
 
 Comprehensive sex education appears to successfully delay sexual initiation<ref>https://doi.org/10.1097/GCO.0b013e3282efdc0b</ref>. Moreover, abstinence-only interventions only have a very small overall effect on abstinent behavior<ref>https://doi.org/10.1093/HER/17.4.471</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818029/</ref>, as well as the development of healthy relationships, prevention of partner violence, prevention of child sex abuse, improved social/emotional learning, and increased media literacy<ref>https://www.jahonline.org/article/S1054-139X(20)30456-0/fulltext</ref>. Teaching about contraception is not associated with increased risk of adolescent sexual activity or STDs<ref>http://sciencedirect.com/science/article/abs/pii/S1054139X07004260?casa_token=mFeMFmZjXkMAAAAA:spyxC9wfLo0BY-CHKfH1QcR5ED_1spgDO41FrKxzK_0NEw3Bz11QXCA68xV_eiWH8nZlTc8</ref>.
 
-## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
-
-## Sexism
+## Miscellaneous
 
 ### Matriarchy
 
@@ -697,17 +701,9 @@ Women tend to prefer benevolent sexist men to nonsexist men<ref>https://files.ca
 
 The rate of false reports of sexual assault tends to be found to be about 5%. However, the total false reporting rate, including both confirmed and equivocal cases would be greater than this 5% rate<ref>https://link.springer.com/article/10.1007/s10508-015-0666-2</ref>.
 
-### Random
+### Feminists
 
-<span style="color: red">Feminists tend to report lower levels of hostility toward men than nonfeminists (Anderson et al., 2009).
-
-### Marriage and Families
-
-Paternal incarceration is associated with increased physical aggression for boys, and these effects are concentrated among boys whose fathers were neither incarcerated for a violent offense nor abusive to the boys' mother. The removal of abusive fathers has on net results decreased physical aggression for boys<ref>https://academic.oup.com/sf/article-abstract/89/1/285/2235254?redirectedFrom=fulltext&login=false</ref>.
-
-Age gaps in relationships are natural and exist cross-culturally<ref>https://www.cambridge.org/core/services/aop-cambridge-core/content/view/0E112ACEB2E7BC877805E3AC11ABC889/S0140525X00023992a.pdf/sex-differences-in-human-mate-preferences-evolutionary-hypotheses-tested-in-37-cultures.pdf</ref>.
-
-Legalizing unilateral divorce increases female labor force, decreases marriages but increases marriage quality, may reduce child well-being, increases household saving rates, and reduces domestic violence and female suicide. Unilateral divorce combined with equal division of property may depress female employment. Because there is some evidence that children can be harmed by unilateral divorce, easy divorce should be accompanied by policies aimed at supporting children in vulnerable families<ref>https://wol.iza.org/articles/should-divorce-be-easier-or-harder</ref>.
+Feminists tend to report lower levels of hostility toward men than nonfeminists<ref>https://journals.sagepub.com/doi/10.1111/j.1471-6402.2009.01491.x</ref>.
 
 ## References
 
