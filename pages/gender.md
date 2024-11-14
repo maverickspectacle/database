@@ -505,10 +505,6 @@ Women's sex role ideology, but not men's, is negatively related to marital happi
 
 Typical perpetrators of mass killings are low- or mid-status men with relatively low educational attainment and in a history of relationship problems. The trigger in most cases of these is a status loss or threat. This suggests that autogenic murderous rampages, although clearly psychopathological, may be rooted in a biological male desire to defend status<ref>Autogenic massacre as a maladaptive response to status threat. (n.d.). ResearchGate. https://www.researchgate.net/publication/233146324_Autogenic_massacre_as_a_maladaptive_response_to_status_threat</ref>.
 
-### Sperm Count
-
-Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011<ref>Levine, H., Jørgensen, N., Martino-Andrade, A., Mendiola, J., Weksler-Derri, D., Mindlis, I., Pinotti, R., & Swan, S. H. (2017). Temporal trends in sperm count: a systematic review and meta-regression analysis. Human Reproduction Update, 23(6), 646–659. https://doi.org/10.1093/humupd/dmx022</ref>.
-
 ### Biorealism
 
 #### Life History
@@ -518,8 +514,6 @@ Women who engage in short-term mating in the form of extra-pair liaisons tend to
 #### Sexual Selection
 
 While in modern times, actual male fertility is uncorrelated with social status, social status is highly correlated with potential fertility as estimated from copulation frequency<ref>Pérusse, D. (1993). Cultural and reproductive success in industrial societies: Testing the relationship at the proximate and ultimate levels. Behavioral and Brain Sciences, 16(2), 267–283. https://doi.org/10.1017/s0140525x00029939</ref>. This suggests that evolutionary explanations of human behavior are still relevant in modern societies.
-
-## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
 
 ## Abortion
 
@@ -561,11 +555,13 @@ Abortion rates are slightly lower in states with medicaid funding restrictions o
 
 ### Argument
 
-Stem cells can remain alive in human corpses for at least 17 days after death<ref>Choi, C. Q. (2012, June 12). Living stem cells discovered in 17-Day-Old human corpses. livescience.com. https://www.livescience.com/20897-living-stem-cells-discovered-human-corpse.html</ref>.
-
-Cremation in most cases is done between 24 and 72 hours after death<ref>Admin. (2024, January 11). Cremation 101 - Commonly asked questions about cremation. Cremation London & Middlesex. https://cremationlondon.com/resources/cremation-101/</ref>.
+Stem cells can remain alive in human corpses for at least 17 days after death<ref>Choi, C. Q. (2012, June 12). Living stem cells discovered in 17-Day-Old human corpses. livescience.com. https://www.livescience.com/20897-living-stem-cells-discovered-human-corpse.html</ref>. However, cremation in most cases is done between 24 and 72 hours after death<ref>Admin. (2024, January 11). Cremation 101 - Commonly asked questions about cremation. Cremation London & Middlesex. https://cremationlondon.com/resources/cremation-101/</ref>. Thus, cellular life is generally not regarded as a defining factor in whether a human life should be valued.
 
 ## Sex
+
+### Sperm Count
+
+Across North America, Europe, Australia and New Zealand, there has been a 50-60% decline in sperm counts between 1973 and 2011<ref>Levine, H., Jørgensen, N., Martino-Andrade, A., Mendiola, J., Weksler-Derri, D., Mindlis, I., Pinotti, R., & Swan, S. H. (2017). Temporal trends in sperm count: a systematic review and meta-regression analysis. Human Reproduction Update, 23(6), 646–659. https://doi.org/10.1093/humupd/dmx022</ref>.
 
 ### Fertility
 
@@ -587,6 +583,10 @@ Predictors of within-sex variation in casual sexual regret include worry about s
 
 Research suggests that there is a correlation between pornography consumption and anxiety, depression, and psychosomatic symptoms<ref>https://doi.org/10.1080/03009734.2018.1534907</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7835260/</ref><ref>https://doi.org/10.1097/NMD.0000000000001669</ref>. However, it is not clear whether this is due to pornography consumption increasing these things or if pornography consumption serves as a coping mechanism. Men who view pornography as immoral tend to have worse mental health when consuming it, but those who don't view pornography as immoral experience no negative mental health effects unless it is at a high frequency<ref>https://doi.org/10.1177/2156869317728373</ref>. Low scrupulosity buffers but does not get rid of the negative relationship between problematic pornography viewing and depression, anxiety, and stress<ref>https://doi.org/10.1080/10720162.2019.1567410</ref>. Perceived addiction to pornography is also related to psychological distress<ref>https://doi.org/10.1037/adb0000114</ref>.
 
+Those who use pornography have higher depressive symptoms, poorer quality of life, more mental- and physical-health-diminished days, and lower health status<ref>https://pubmed.ncbi.nlm.nih.gov/20946159/</ref>.
+
+Higher pornography use is associated with body dissatisfaction, poor body appreciation, negative affect, and lower emotional bonding with partners<ref>https://psycnet.apa.org/record/2014-04664-001</ref>.
+
 #### Cognitive Effects
 
 There is a negative association between pornography consumption and gray matter volume in various parts of the brain<ref>https://doi.org/10.1001/jamapsychiatry.2014.93</ref><ref>https://www.semanticscholar.org/paper/Pornography%E2%80%99s-Effect-on-the-Brain%3A-A-Review-of-in-Muller/881c62a5bc147d5e8d34ffcbb7962e0c5d904263</ref>. Men with and without problematic pornography usage differed in their striatal responses to cues predicting erotic subjects but not for cues predicting monetary gains, suggesting that problematic pornography usage may represent a behavioral addiction<ref>https://doi.org/10.1038/npp.2017.78</ref>.
@@ -602,6 +602,20 @@ Starting to watch pornography is associated for men and women with a significant
 Pornography use is either unassociated or negatively associated with nearly all relationship outcomes for married and unmarried Americans<ref>https://www.researchgate.net/publication/337991489_Pornography_and_Relationship_Quality_Establishing_the_Dominant_Pattern_by_Examining_Pornography_Use_and_31_Measures_of_Relationship_Quality_across_30_National_Surveys</ref>.
 
 Adults who had watched pornographic films in the past year were more likely to be divorced, have had an extramarital affair, and report less marital and overall happiness<ref>https://link.springer.com/article/10.1007/s10834-014-9391-6</ref>.
+
+#### Violence
+
+Pornography is related to sexual aggression, particularly verbal as opposed to physical aggression<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12201</ref>. However, as pornography availability increased, sex crimes either decreased or did not increase<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160252709000715</ref>.
+
+#### Actor Health
+
+Porn actresses had more sexual partners, were more concerned about STDs, and enjoyed sex more. They also had higher levels of self-esteem, positive feelings, social support, sexual satisfaction, and spirituality. They were however more likely to have used drugs<ref>https://pubmed.ncbi.nlm.nih.gov/23167939/</ref>.
+
+### Sex Work
+
+Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680</ref>.
+
+Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
 
 ### Polygamy
 
@@ -621,25 +635,7 @@ Abstinence-only education does not appear to protect against pregnancy and STIs<
 
 Comprehensive sex education appears to successfully delay sexual initiation<ref>https://doi.org/10.1097/GCO.0b013e3282efdc0b</ref>. Moreover, abstinence-only interventions only have a very small overall effect on abstinent behavior<ref>https://doi.org/10.1093/HER/17.4.471</ref><ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2818029/</ref>, as well as the development of healthy relationships, prevention of partner violence, prevention of child sex abuse, improved social/emotional learning, and increased media literacy<ref>https://www.jahonline.org/article/S1054-139X(20)30456-0/fulltext</ref>. Teaching about contraception is not associated with increased risk of adolescent sexual activity or STDs<ref>http://sciencedirect.com/science/article/abs/pii/S1054139X07004260?casa_token=mFeMFmZjXkMAAAAA:spyxC9wfLo0BY-CHKfH1QcR5ED_1spgDO41FrKxzK_0NEw3Bz11QXCA68xV_eiWH8nZlTc8</ref>.
 
-### Porn and Health
-
-Those who use pornography have higher depressive symptoms, poorer quality of life, more mental- and physical-health-diminished days, and lower health status<ref>https://pubmed.ncbi.nlm.nih.gov/20946159/</ref>.
-
-Higher pornography use is associated with body dissatisfaction, poor body appreciation, negative affect, and lower emotional bonding with partners<ref>https://psycnet.apa.org/record/2014-04664-001</ref>.
-
-### Porn and Violence
-
-Pornography is related to sexual aggression, particularly verbal as opposed to physical aggression<ref>https://onlinelibrary.wiley.com/doi/abs/10.1111/jcom.12201</ref>. However, as pornography availability increased, sex crimes either decreased or did not increase<ref>https://www.sciencedirect.com/science/article/abs/pii/S0160252709000715</ref>.
-
-### Porn and Actor Health
-
-Porn actresses had more sexual partners, were more concerned about STDs, and enjoyed sex more. They also had higher levels of self-esteem, positive feelings, social support, sexual satisfaction, and spirituality. They were however more likely to have used drugs<ref>https://pubmed.ncbi.nlm.nih.gov/23167939/</ref>.
-
-### Sex Work
-
-Repressive policing of sex workers is associated with increased risk of sexual/physical violence from clients or other partners, also increasing risk of STIs for sex workers. It also disrupted sex workers' work environments, support networks, safety and risk reduction strategies, and access to health services and justice<ref>https://journals.plos.org/plosmedicine/article?id=10.1371/journal.pmed.1002680</ref>.
-
-Decriminalization of prostitution, while increasing the size of the sex market, also led to a significant decline in reported rape offences<ref>https://conference.iza.org/conference_files/riskonomics2015/kastoryano_s6317.pdf</ref><ref>https://www.eurekalert.org/news-releases/718952</ref>.
+## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
 
 ## Sexism
 
