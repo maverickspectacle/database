@@ -215,6 +215,8 @@ This is likely due to selection bias amongst those who choose ot be interracial 
 
 ## The Modern Narrative on Racism
 
+In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities<ref>https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm</ref>. While this doesn't by itself imply that racism disproportionately negatively affects one group or another, it does suggest it may be the case and regardless the perception can have effects. Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
+
 ### Statistical Versus Taste-Based Discrimination
 
 #### Stereotype Accuracy
@@ -277,6 +279,26 @@ Seeing as racial earnings gaps appear to be primarily due to differences in IQ, 
 
 ***Rental Market: Little to no Bias -** Research suggests that there is discrimination in the rental housing market. These results are inflated by publication bias, but even after correcting for publication bias there is evidence of discrimination. Importantly however, much of this discriminatory behavior can be attributed to missing information about the social status of applicants, which suggests that much of this disparity is due to statistical discrimination<ref>https://www.tandfonline.com/doi/full/10.1080/1369183X.2018.1489223</ref>. Therefore, the degree to which bias plays a role is likely small.
 
+**Other Economic/Housing Info:**
+
+Blacks and hispanics engage in more conspicuous consumption than whites<ref>https://sci-hub.ru/https://doi.org/10.1162/qjec.2009.124.2.425</ref>.
+
+The racial wealth gap can be almost entirely explained by differences in observable factors, such as life cycle patterns, educational attainment, inheritance, attitudes toward saving and investing, and more<ref>https://www.federalreserve.gov/econresdata/feds/2015/files/2015076pap.pdf</ref>.
+
+There is very little intergenerational mobility in net wealth for both black and white families according to data between 1984 and 2013<ref>https://ia601708.us.archive.org/9/items/source-872-toney-2016/Source872%20Toney2016.pdf</ref>.
+
+There exist ethnic group differences in measures of job performance. These differences are larger on objective measures compared to subjective measures<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.4.694</ref>.
+
+When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women<ref>https://www.nber.org/system/files/working_papers/w9227/w9227.pdf</ref>.
+
+A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery<ref>https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas</ref>.
+
+There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
+
+The economic and residential segregation created by redlining persists in many cities, and inequality is much higher in cities which had redlining. Gentrification appears to be related to some lessening of segregation, but also with increased economic inequality<ref>https://ncrc.org/wp-content/uploads/dlm_uploads/2018/02/NCRC-Research-HOLC-10.pdf</ref>.
+
+Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
+
 #### Criminal
 
 The degree to which the criminal justice system unfairly targets black people would have a substantial effect on the labor market outcomes of blacks relative to whites independent of cognitive ability differentials. Being unfairly targeted and thrown in prison, brutalized, etc. would have effects on the ability for blacks to get jobs and disrupt their income streams. Given our prior understanding of how blacks earn the same or more than whites of the same cognitive ability, the default hypothesis should thus be that racial bias is small to nonexistent in the criminal justice system.
@@ -334,6 +356,24 @@ Bias in educational systems, if it exists, would likely have effects on the earn
 ***Grading: Little Bias -** Malouff & Thorsteinsson (2016) meta-analyzed research examining whether there exists a racial bias in grading<ref>https://journals.sagepub.com/doi/full/10.1177/0004944116664618</ref>. They found a small but statistically effect of race on grading which was robust to publication bias testing. Specifically, there was 26% of a standard deviation in score differences between students in the hypothesized-bias condition and students not in that condition. In IQ terms, this would amount to one ethnic group being assessed as being on average 4 IQ points below what they actually are. There is bias, but it is small.
 
 In summary, there may be some bias in the education system, specifically with grading, but its actual net effect is likely to be small.
+
+**Other Education Info:**
+
+There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
+
+Prior knowledge of race/ethnic background, education-related deficiencies, physical unattractiveness and poor quality of prior performance all have substantial and roughly equal effect sizes in determining grading, suggesting heavy bias exists<ref>https://journals.sagepub.com/doi/abs/10.1177/0004944116664618</ref>.
+
+Diversity in a classroom setting can be good in that it fosters greater social trust, a better learning environment, and more open-minded students<ref>https://drexel.edu/soe/resources/student-teaching/advice/importance-of-cultural-diversity-in-classroom/</ref>.
+
+Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
+
+School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
+
+Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools<ref>https://epaa.asu.edu/ojs/index.php/epaa/article/view/708</ref>.
+
+Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics<ref>https://www.aeaweb.org/articles?id=10.1257/app.3.3.158</ref>.
+
+Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
 
 #### Health
 
@@ -412,58 +452,6 @@ Much of the diversity education industry likely harms white people as well throu
 White guilt isn't necessarily a big problem now, but that doesn't mean that these types of courses don't contribute to it and thus harm white people. On average, white guilt amongst white people is low, but there is large range and variability. White guilt is associated with more negative personal evaluations of whites and theoretical antecedents of stronger beliefs in the existence of white privilege. White guilt mediates the relationship from white privilege and beliefs about the prevalence of discrimination to attitudes toward affirmative action, and both white guilt and prejudice independently predict attitudes toward affirmative action<ref>https://journals.sagepub.com/doi/abs/10.1177/0146167299025004008</ref>.
 
 Furthermore, education about white privilege increases anti-white bias. Social liberals show more sympathy for a poor black person than a poor white person after reading about white privilege, while for social conservatives there is no difference. However, relative to conservatives, liberals are just as sympathetic to the poor white person<ref>https://www.researchgate.net/publication/332749635_Complex_Intersections_of_Race_and_Class_Among_Social_Liberals_Learning_About_White_Privilege_Reduces_Sympathy_Increases_Blame_and_Decreases_External_Attributions_for_White_People_Struggling_With_Pover</ref>.
-
-## ---------------------------------------------------------------RESEARCHTOADD---------------------------------------------------------------
-
-## Racism
-
-### Self-Reported Discrimination
-
-In Canada, 40.9% of blacks reported experiencing discrimination or unfair treatment in the past 5 years due to their race or skin color, compared to 13.8% of First Nations, Metis, or Inuit, 19% of other groups designated as visible minorities, and 2.8% of non-Indigenous, non-visible minorities<ref>https://www150.statcan.gc.ca/n1/pub/85-002-x/2022001/article/00002/tbl/tbl01-eng.htm</ref>.
-
-Perceived discrimination has a significant negative effect on both mental and physical health, also increasing stress<ref>https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2747726/</ref><ref>https://pubmed.ncbi.nlm.nih.gov/24547896/</ref>.
-
-### Economics
-
-#### Wealth
-
-Blacks and hispanics engage in more conspicuous consumption than whites<ref>https://sci-hub.ru/https://doi.org/10.1162/qjec.2009.124.2.425</ref>.
-
-The racial wealth gap can be almost entirely explained by differences in observable factors, such as life cycle patterns, educational attainment, inheritance, attitudes toward saving and investing, and more<ref>https://www.federalreserve.gov/econresdata/feds/2015/files/2015076pap.pdf</ref>.
-
-There is very little intergenerational mobility in net wealth for both black and white families according to data between 1984 and 2013<ref>https://ia601708.us.archive.org/9/items/source-872-toney-2016/Source872%20Toney2016.pdf</ref>.
-
-There exist ethnic group differences in measures of job performance. These differences are larger on objective measures compared to subjective measures<ref>https://psycnet.apa.org/doiLanding?doi=10.1037%2F0021-9010.88.4.694</ref>.
-
-When comparing former slaves and free blacks (free before 1865), it took roughly 2 generations for the descendents of slaves to catch up economically and educationally with the descendents of free black men and women<ref>https://www.nber.org/system/files/working_papers/w9227/w9227.pdf</ref>.
-
-A black family's long-run economic progress after slavery depended strongly on the location they were freed. Black families freed in states with more intensive Jim Crow institutions made less economic progress after slavery<ref>https://irs.princeton.edu/events/2022/Fall-Althoff-Lukas</ref>.
-
-#### Education
-
-There is a positive effect of having an own race teacher on student achievement<ref>https://www.brookings.edu/research/the-importance-of-a-diverse-teaching-force/</ref>.
-
-Prior knowledge of race/ethnic background, education-related deficiencies, physical unattractiveness and poor quality of prior performance all have substantial and roughly equal effect sizes in determining grading, suggesting heavy bias exists<ref>https://journals.sagepub.com/doi/abs/10.1177/0004944116664618</ref>.
-
-Diversity in a classroom setting can be good in that it fosters greater social trust, a better learning environment, and more open-minded students<ref>https://drexel.edu/soe/resources/student-teaching/advice/importance-of-cultural-diversity-in-classroom/</ref>.
-
-Students taught under faculty who underwent diversity training experienced a greater sense of community, personal growth, and conflict resolution skills<ref>https://files.eric.ed.gov/fulltext/EJ1134528.pdf</ref>.
-
-School desegregation has had positive effects on both educational and occupational attainments, college quality and adult earnings, reduced the probability of incarceration, and improved adult health status<ref>https://www.nber.org/papers/w16664</ref>.
-
-Comprehensive school reform programs tend to lower the black-white achievement gap more than matched traditional schools, and their effects substantially to completely eliminated this gap in elementary middle schools<ref>https://epaa.asu.edu/ojs/index.php/epaa/article/view/708</ref>.
-
-Harlem Children's Zone charter schools closed the black-white achievement gap in mathematics<ref>https://www.aeaweb.org/articles?id=10.1257/app.3.3.158</ref>.
-
-Improvements in the relative quality of black schools in terms of pupil-teacher ratios, annual teacher pay, and term length for black and white schools explain some of the narrowing of the black-white earnings gap between 1960 and 1980<ref>https://sci-hub.ru/https://doi.org/10.2307/2118326</ref>.
-
-#### Housing
-
-There is mixed evidence on the effect of gentrification on crime<ref>https://onlinelibrary.wiley.com/doi/full/10.1111/j.1467-9906.2010.00506.x</ref><ref>https://academic.oup.com/socpro/article/58/4/615/1667054</ref><ref>https://journals.sagepub.com/doi/full/10.1177/0011128714549652</ref><ref>https://www.tandfonline.com/doi/full/10.1080/07418825.2014.943799</ref><ref>https://www.nber.org/system/files/working_papers/w23914/w23914.pdf</ref>. Some of these differences can be resolved through noting that gentrification appears to increase crime in the short run and decrease crime in the long-run, but also that its negative effects on crime is primarily concentrated in the frontier of where gentrification occurs in a neighborhood.
-
-The economic and residential segregation created by redlining persists in many cities, and inequality is much higher in cities which had redlining. Gentrification appears to be related to some lessening of segregation, but also with increased economic inequality<ref>https://ncrc.org/wp-content/uploads/dlm_uploads/2018/02/NCRC-Research-HOLC-10.pdf</ref>.
-
-Redlining may be mostly a product of geographic discrimination in itself as opposed to racial discrimination<ref>https://sci-hub.ru/https://doi.org/10.2307/2946707</ref>.
 
 ## References
 
