@@ -75,6 +75,9 @@ permalink: /articles-and-data/
 * [The Best Revenge is Living Well](https://bradalonius.substack.com/p/the-best-revenge-is-living-well?utm_source=cross-post&publication_id=820418&post_id=150443230&utm_campaign=2294090&isFreemail=true&r=4ep0tc&triedRedirect=true&utm_medium=email)
 * [https://www.richardhanania.com/p/the-autism-horseshoe The Autism Horseshoe]
 * [https://substack.com/home/post/p-150810515 Race in America and the Dork Right]
+* [https://im1776.com/2024/07/11/compact-obituary/ Ego Credo]
+* [https://ninapower.substack.com/p/are-you-now-or-have-you-ever-been Are you now or have you ever been a member of the Nazi Party in my head?]
+* [https://transhumanista4all.substack.com/p/dangerous-women?utm_source=cross-post&publication_id=2243166&post_id=143667142&utm_campaign=2294090&isFreemail=true&r=42w68t&triedRedirect=true&utm_medium=email Dangerous Women: Modern adaptations subvert the true meaning of classic fairy tales]
 
 ## Other
 
