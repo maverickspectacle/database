@@ -8,6 +8,8 @@ permalink: /epistemic-progressivism-supplement/
 
 ## Social Constructions
 
+## Cthulu's Razor
+
 ## A Biorealist Account of Ethics
 
 ### The Relationship Between Truth and Ethics
