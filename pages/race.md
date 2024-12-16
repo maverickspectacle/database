@@ -99,6 +99,8 @@ So all of the aforementioned information taken together strongly suggests that o
 
 ***Infectious Disease -** Exposure to infectious disease has been shown to be a strong predictor of IQ across both American states and across countries internationally<ref>Eppig, C. (2024, February 20). Why is average IQ higher in some places? Scientific American. https://www.scientificamerican.com/article/why-is-average-iq-higher-in-some-places/</ref>. This may be a partial predictor, but no evidence has been presented to suggest that it entirely explains the gap, especially when this exposure would likely be strongly correlated with socioeconomic status which controlling for does not eliminate the black-white IQ gap.
 
+***The Closing of the Gap -** There is some evidence that the black-white IQ gap may have closed a few points in recent decades<ref>https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3146648#:~:text=I%20review%20the%20evidence%20on,so%20due%20to%20methodological%20flaws</ref>. However, even with this closing the IQ gap is still substantial and it is not clear to what degree the narrowing was g-loaded.
+
 The bottom line is that environmental explanations certainly account for a portion of racial gaps in intelligence, but there has been no strong evidence to suggest that they entirely explain the gaps. That is why this article promotes a mixed genetics-environment explanation for group differences in cognitive ability.
 
 #### Approximating the Gene-Environment Influences
